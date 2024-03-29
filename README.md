@@ -21,8 +21,8 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 ## Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/Data-Engineering-Training/Group_10_Assignment_4_DataPipeline.git
+   
+git clone https://github.com/Data-Engineering-Training/Group_10_Assignment_4_DataPipeline.git```
 
 ## More update to come
+
