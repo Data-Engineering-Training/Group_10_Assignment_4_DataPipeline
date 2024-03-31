@@ -27,7 +27,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 - Python 3.0 and above
 - PostgreSQL
 - psycopg2 library
-- (Docker (optional))[https://www.docker.com]
+- (Docker)[https://www.docker.com]
 - Faker
 - psycopg2
 
