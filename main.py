@@ -1,6 +1,7 @@
 import random
 from faker import Faker
 import psycopg2
+import pandas as pd
 
 
 class DataPipeline:
@@ -115,14 +116,20 @@ def generate_records():
         records.append((customer_id, name, address, email, telephone, contact_preference,
                        transaction_activity, customer_preference, communication_method))
 
+        # # incase you want to save the customer record to a csv or parquet, etc and return it. you uncomment this code to do that
+        # #convert records into a data frame
+        # df = pd.DataFrame(records, columns=['customer_id', 'name', 'address', 'email', 'telephone', 'contact_preference', 'transaction_activity', 'customer_preference', 'communication_method'])
+        # #save the data frame into a csv file in in the companies_data folder
+        # df.to_csv('customer_record.csv', index=False)
+
     return records
 
 
 if __name__ == "__main__":
-    # Database credentials
-    dbname = "etl"
-    user = "postgres"
-    password = "post123"
+    # now, provide database credentials
+    dbname = "your database name"
+    user = "your username"
+    password = "your password"
     host = "localhost"
 
     # Generate records
