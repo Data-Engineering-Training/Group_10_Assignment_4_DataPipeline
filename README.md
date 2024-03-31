@@ -78,8 +78,6 @@ To know about trestle academy, visit:
 
 -website: https://www.trestleacademyghana.org
 
--LinkedIn: company/trestle-academy-ghana
-
 -Mail: info@trestleacademyghana.org
 
 ## Lead Trainers:
