@@ -28,8 +28,8 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 - PostgreSQL
 - psycopg2 library
 - Docker (optional)
-- Faker:
--psycopg2
+- Faker
+- psycopg2
 
 ## Installation
 
@@ -70,11 +70,16 @@ pipeline = DataPipeline(dbname, user, password, host)
 pipeline.run_pipeline(records)
 
 ## Acknowledgements
+
 ## Trestle Academy Ghana
 Thanks to Trestle Academy for their effort in creating talents in the tech space
+
 To know about trestle academy, visit: 
+
 -website: https://www.trestleacademyghana.org
+
 -LinkedIn: company/trestle-academy-ghana
+
 -Mail: info@trestleacademyghana.org
 
 ## Lead Trainers:
