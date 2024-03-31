@@ -35,18 +35,18 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 
 1. Clone the repository:
    
-git clone https://github.com/Data-Engineering-Training/Group_10_Assignment_4_DataPipeline.git
+```git clone https://github.com/Data-Engineering-Training/Group_10_Assignment_4_DataPipeline.git```
 
 ## Usage
 Modify the database credentials in the main.py file:
 
-dbname = "your_database_name"
+dbname = ```"your_database_name"```
 
-user = "your_database_user"
+user = ```"your_database_user"```
 
-password = "your_database_password"
+password = ```"your_database_password"```
 
-host = "your_database_host"
+host = ```"your_database_host"```
 
 ## Code Example: Run the pipeline:
 Database credentials
@@ -65,9 +65,9 @@ records = generate_records()
 
 #Initialize pipeline and run
 
-pipeline = DataPipeline(dbname, user, password, host)
+```pipeline = DataPipeline(dbname, user, password, host)```
 
-pipeline.run_pipeline(records)
+```pipeline.run_pipeline(records)```
 
 ## Acknowledgements
 
@@ -76,9 +76,9 @@ Thanks to Trestle Academy for their effort in creating talents in the tech space
 
 To know about trestle academy, visit: 
 
--website: https://www.trestleacademyghana.org
+- website: https://www.trestleacademyghana.org
 
--Mail: info@trestleacademyghana.org
+- Mail: info@trestleacademyghana.org
 
 ## Lead Trainers:
 1. DEREK DEGBEDZUI
@@ -89,12 +89,12 @@ To know about trestle academy, visit:
 - ISHMAEL  ABAYATEYE KABU
 - ABIGAIL ODONKOR
 - WILFRED OWUSU-BONSU
--JOHN TAMAKLOE
-- KWAME OSEI TUTU AGYEMAN
+- JOHN TAMAKLOE
+- JUSTICE OHENE AMOFA
 - PHILIP NARTEY
 - KODJOTSE SYLVESTER
 - PETER KOBENA EDUAH
 - FREDERICK OTU-AFRO
 - ERIC AKWETE AJAVON
 - FRANCIS TAWIAH
-- AMOFA JUSTICE OHENE
+- KWAME OSEI TUTU AGYEMAN
