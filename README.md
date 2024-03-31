@@ -24,12 +24,11 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 
 ## Prerequisites
 
-- Python 3.0 and above
-- PostgreSQL
-- psycopg2 library
+- [Python 3.0 and above](https://www.python.org)
+- [PostgreSQL](https://www.postgresql.org)
+- [psycopg2 library](https://pypi.org/project/psycopg2/)
 - [Docker](https://www.docker.com)
-- Faker
-- psycopg2
+- [Faker](https://faker.readthedocs.io/en/master/)
 
 ## Installation
 
@@ -51,17 +50,17 @@ host = ```"your_database_host"```
 ## Code Example: Run the pipeline:
 Database credentials
 
-dbname = "etl"
+dbname = ```"etl"```
 
-user = "postgres"
+user = ```"postgres"```
 
-password = "post123"
+password = ```"post123"```
 
-host = "localhost"
+host = ```"localhost"```
 
 #Generate records
 
-records = generate_records()
+records = ```generate_records()```
 
 #Initialize pipeline and run
 
@@ -76,9 +75,9 @@ Thanks to Trestle Academy for their effort in creating talents in the tech space
 
 To know about trestle academy, visit: 
 
-- website: https://www.trestleacademyghana.org
+- ```website:``` https://www.trestleacademyghana.org
 
-- Mail: info@trestleacademyghana.org
+- ```Mail:``` info@trestleacademyghana.org
 
 ## Lead Trainers:
 1. DEREK DEGBEDZUI
