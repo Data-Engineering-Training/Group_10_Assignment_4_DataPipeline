@@ -15,8 +15,11 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 
 ## Details:
 -Data Generation: Fake customer records are generated using the Faker library to simulate realistic data.
+
 -Database Interaction: The pipeline establishes a connection to a PostgreSQL database and creates a table (customers) to store the generated records.
+
 -Data Ingestion: Generated customer records are ingested into the database table.
+
 -Error Handling: The pipeline includes error handling mechanisms to ensure data integrity and reliability during ingestion.
 
 ## Prerequisites
@@ -25,12 +28,67 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 - PostgreSQL
 - psycopg2 library
 - Docker (optional)
+- Faker:
+-psycopg2
 
 ## Installation
 
 1. Clone the repository:
    
-git clone https://github.com/Data-Engineering-Training/Group_10_Assignment_4_DataPipeline.git```
+git clone https://github.com/Data-Engineering-Training/Group_10_Assignment_4_DataPipeline.git
 
-## More update to come
+## Usage
+Modify the database credentials in the main.py file:
 
+dbname = "your_database_name"
+
+user = "your_database_user"
+
+password = "your_database_password"
+
+host = "your_database_host"
+
+## Code Example: Run the pipeline:
+Database credentials
+
+dbname = "etl"
+
+user = "postgres"
+
+password = "post123"
+
+host = "localhost"
+
+#Generate records
+records = generate_records()
+
+#Initialize pipeline and run
+pipeline = DataPipeline(dbname, user, password, host)
+pipeline.run_pipeline(records)
+
+## Acknowledgements
+## Trestle Academy Ghana
+Thanks to Trestle Academy for their effort in creating talents in the tech space
+To know about trestle academy, visit: 
+-website: https://www.trestleacademyghana.org
+-LinkedIn: company/trestle-academy-ghana
+-Mail: info@trestleacademyghana.org
+
+## Lead Trainers:
+1. DEREK DEGBEDZUI
+2. THEOPHILUS AKUGRE
+
+## Group Members
+
+- ISHMAEL  ABAYATEYE KABU
+- ABIGAIL ODONKOR
+- WILFRED OWUSU-BONSU
+-JOHN TAMAKLOE
+- KWAME OSEI TUTU AGYEMAN
+- PHILIP NARTEY
+- KODJOTSE SYLVESTER
+- PETER KOBENA EDUAH
+- FREDERICK OTU-AFRO
+- ERIC AKWETE AJAVON
+- FRANCIS TAWIAH
+- AMOFA JUSTICE OHENE
