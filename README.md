@@ -60,10 +60,13 @@ password = "post123"
 host = "localhost"
 
 #Generate records
+
 records = generate_records()
 
 #Initialize pipeline and run
+
 pipeline = DataPipeline(dbname, user, password, host)
+
 pipeline.run_pipeline(records)
 
 ## Acknowledgements
