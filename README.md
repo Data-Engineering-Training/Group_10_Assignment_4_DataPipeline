@@ -14,20 +14,20 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 - Dockerized for easy deployment and reproducibility.
 
 ## Details:
--Data Generation: Fake customer records are generated using the Faker library to simulate realistic data.
+- Data Generation: Fake customer records are generated using the Faker library to simulate realistic data.
 
--Database Interaction: The pipeline establishes a connection to a PostgreSQL database and creates a table (customers) to store the generated records.
+- Database Interaction: The pipeline establishes a connection to a PostgreSQL database and creates a table (customers) to store the generated records.
 
--Data Ingestion: Generated customer records are ingested into the database table.
+- Data Ingestion: Generated customer records are ingested into the database table.
 
--Error Handling: The pipeline includes error handling mechanisms to ensure data integrity and reliability during ingestion.
+- Error Handling: The pipeline includes error handling mechanisms to ensure data integrity and reliability during ingestion.
 
 ## Prerequisites
 
 - Python 3.0 and above
 - PostgreSQL
 - psycopg2 library
-- Docker (optional)
+- (Docker (optional))[https://www.docker.com]
 - Faker
 - psycopg2
 
