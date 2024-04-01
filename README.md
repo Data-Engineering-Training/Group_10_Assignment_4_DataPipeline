@@ -68,6 +68,12 @@ records = ```generate_records()```
 
 ```pipeline.run_pipeline(records)```
 
+Modify the company_names list in main.py to include the names of companies for which you want to generate data.
+
+Set the num_records_per_company variable in main.py to specify the number of records to generate for each company.
+
+Run the main.py script:
+
 ## Acknowledgements
 
 ## Trestle Academy Ghana
