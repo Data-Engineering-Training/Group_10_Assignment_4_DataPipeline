@@ -47,6 +47,12 @@ password = ```"your_database_password"```
 
 host = ```"your_database_host"```
 
+Modify the company_names list in main.py to include the names of companies for which you want to generate data.
+
+Set the num_records_per_company variable in main.py to specify the number of records to generate for each company.
+
+Run the main.py script:
+
 ## Code Example: Run the pipeline:
 Database credentials
 
@@ -67,12 +73,6 @@ records = ```generate_records()```
 ```pipeline = DataPipeline(dbname, user, password, host)```
 
 ```pipeline.run_pipeline(records)```
-
-Modify the company_names list in main.py to include the names of companies for which you want to generate data.
-
-Set the num_records_per_company variable in main.py to specify the number of records to generate for each company.
-
-Run the main.py script:
 
 ## Acknowledgements
 
