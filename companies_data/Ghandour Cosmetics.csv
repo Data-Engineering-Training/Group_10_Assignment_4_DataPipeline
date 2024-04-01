@@ -1,0 +1,2001 @@
+Customer ID,Name,Address,Email,Telephone,Contact Preference,Transaction Activity,Customer Preference,Communication Method
+GHA439284,Alexander Asare-Kusi,"0767 Timothy Lodge
+New Rachel, UT 02940",dwamenajill@example.com,+233571866844,Email,53321,Website,Email
+GHA361699,Denis Ampadu,"2289 Tawia Skyway Apt. 533
+Port Jameschester, NM 25773",ampofomaria@example.org,0576761453,SMS,81063,Website,Email
+GHA828933,Dr. Karl Bonsra,"PSC 1258, Box 3849
+APO AA 84548",rachel80@example.org,+233278769648,Email,88405,App,Email
+GHA772005,Dr. Jacob Duah,"841 Mensa Village Suite 988
+Naomiburgh, VT 90735",malcolm47@example.net,0564132883,SMS,10433,Website,SMS
+GHA735839,Osofo Maame Hannah Nyaakoaa,"975 Martin Orchard Suite 457
+East Douglas, AS 43827",felicianyantakyi@example.net,0273919946,Email,48828,Website,Call
+GHA990452,Constance Fofie,"407 Afoakwa Junctions Apt. 633
+Harrietside, FM 10290",georgina35@example.com,0555621064,Call,37910,App,SMS
+GHA967171,Agya Steven Safo,"7525 Colins Circles
+North Janice, FM 66623",martin15@example.com,0244730437,SMS,29670,Website,SMS
+GHA752018,Thomas Tweneboa,"PSC 4253, Box 4169
+APO AE 24971",judithbaa@example.com,0542126831,Email,82679,App,Call
+GHA796372,Owura Terence Badu,"199 Linda Creek Suite 929
+West Kwasi, NV 08873",mensapatrick@example.net,0271704198,Email,56266,Website,Call
+GHA518441,Julian Agyapong,"524 Kusi Throughway Apt. 043
+East Vincent, KS 92082",emmaofosu@example.org,+233566458622,Email,32007,Website,SMS
+GHA243272,Rita Kumi,"34122 Tutu Locks Suite 512
+Akyeampomaabury, LA 06763",ydanso@example.com,+233544872271,SMS,21149,Website,SMS
+GHA879095,Maame Elizabeth Mansa,"21624 Denise Extension Suite 722
+West Julianabury, ND 52440",tweneboadeborah@example.com,0555192378,SMS,19340,App,SMS
+GHA33443,Russell Karikari-Asante,"71286 Linda Plains Apt. 869
+South Naomi, FL 17641",philip05@example.net,0285022054,Email,66890,Website,Email
+GHA523532,Edward Acheampong,"15070 Kumi River
+Port Paulton, AR 68004",awuahfiifi@example.org,+233248251339,Email,37065,App,SMS
+GHA335337,Patricia Adutwum-Boakye,"254 Akwesi Terrace
+Asareside, WY 49677",jgyasi@example.org,+233284574346,Email,49618,Website,Call
+GHA126316,Steven Boakye,"5978 Akyena Haven Suite 314
+North Lindaland, NY 97670",bakoaa@example.com,+233277931764,SMS,6773,Website,Call
+GHA700264,Dr. Joe Anokye,"1829 Baafi Flats Apt. 300
+Julianafort, MI 37140",prempehjake@example.com,+233561558335,Email,75939,App,Email
+GHA151490,Sarah Tweneboa-Karikari,"699 Wendy Alley Apt. 761
+Abrafiland, MI 49336",boadustephen@example.com,0509160722,SMS,62121,Website,Email
+GHA856925,Alice Adusei,"2381 Kumi Parks Apt. 557
+Tiwaaburgh, MI 23155",kyle49@example.com,+233244745867,SMS,52617,Website,Call
+GHA676350,Adwoa Mensa-Gyasiwaa,"3665 Amo Locks Apt. 593
+Kyeiland, NC 88652",kwame53@example.net,+233276768443,Call,83379,Website,Call
+GHA811363,Gifty Obeng-Oti,"49813 Philip Greens Suite 613
+North Nicolatown, WI 82675",hyeboa@example.com,+233276750114,Call,19580,App,SMS
+GHA440757,Owura George Otiwa,"7572 Akyeamfuɔ Overpass
+Lake Kevin, VT 40907",kkoomson@example.org,0505800442,SMS,44571,App,Email
+GHA5945,Paula Fosu,"969 Kate Pine
+Ahortorstad, NE 29050",alexanderagyei@example.com,+233560568041,Call,60253,Website,SMS
+GHA367801,Afua Safo,"6386 Kwartemaa Falls Apt. 403
+Ireneton, NJ 99379",priscilla32@example.net,+233578251432,Call,60468,Website,Email
+GHA111057,Ms. Lucy Bonsu,"USCGC Fofie
+FPO AA 71136",akos95@example.org,0563990839,Call,3715,App,Email
+GHA367450,Douglas Yeboah,"51549 Ampadu Highway
+Abrafiberg, LA 26864",wakyeampomaa@example.com,0578235948,SMS,5005,App,SMS
+GHA409155,Maame Sheila Safo,"0671 Charles Divide Apt. 168
+Adomakochester, IA 51647",kafirifa@example.net,+233266201785,SMS,13665,App,Call
+GHA553779,Timothy Boaten,"2858 Boakye Expressway Suite 802
+Port Dora, TN 79554",michaelakowua@example.net,0549018221,Call,33925,Website,Call
+GHA943184,Paul Asenso,"6639 Kwarteng Ridge Apt. 095
+Teresabury, UT 28808",kwekuwiafe@example.org,0561710856,Email,56174,App,SMS
+GHA638799,Joojo Agyei-Akyena,"80554 Kwartemaa Orchard
+Amoborough, CO 56212",jagyare@example.net,0550362901,SMS,79253,Website,Email
+GHA914804,Miss Mary Adwubi,"833 Osei Route
+Lake Kwame, TN 58516",lawrencia09@example.com,+233247873852,Call,69325,App,Email
+GHA864745,Osofo Maame Akumaa Asante,"849 Rebecca Burgs
+New Karenberg, PA 35085",abigail38@example.org,+233266691459,Call,56119,App,Email
+GHA906342,Maame Dora Boatemaah,"PSC 9268, Box 3347
+APO AP 84753",michelle18@example.org,0267784222,Email,62760,App,Call
+GHA40242,Raymond Yirenkyi,"17960 Boakye Estate
+Owusuhaven, WA 52335",leslienyaakoaa@example.org,+233287029889,SMS,13722,Website,SMS
+GHA212057,Caroline Boatemaah,"056 Annette Viaduct Apt. 420
+Darkoland, OR 75685",ruthansa@example.org,+233209004406,SMS,45579,App,Call
+GHA885362,Owura Mathew Akyeamfuɔ,"7631 Afua Shoals Apt. 180
+New Susan, AK 73113",akarikari@example.net,0509139080,Call,91003,Website,Email
+GHA313044,Bernard Baafi,"36706 Stanley Skyway
+Kwesifurt, TN 37748",ampadurichard@example.net,+233289049109,SMS,47302,Website,Call
+GHA308803,Dora Akyeampong,"68829 Georgina Turnpike
+Boakyefort, OR 44969",paulyeboa@example.org,0200452226,SMS,23369,App,Call
+GHA196742,Josiah Adusei-Adusei,"23355 Tom Ports
+North Dannystad, IL 81336",naominti@example.org,+233247965042,Email,12931,App,Email
+GHA504534,Denis Agyapong,"46282 Joseph Motorway Suite 451
+South Timothyton, PR 74304",josh07@example.org,0288269383,SMS,11786,App,SMS
+GHA434145,Kwasi Adomako,"10504 Jessica Field Suite 267
+North Teresa, WV 22169",bagyapong@example.com,+233501772164,SMS,6967,Website,SMS
+GHA47363,Mr. Steven Tawia,"USCGC Boaten
+FPO AA 19983",pamela75@example.com,+233289216636,Call,749,Website,SMS
+GHA402579,Hannah Safo,"07485 Abena Viaduct
+Francisburgh, DC 87086",kojodwamena@example.net,0263301784,Email,62973,Website,SMS
+GHA711293,Shaun Adomako,"351 Aba Rue
+Akyeampongshire, TX 37385",acheampongkwadwo@example.net,0209468459,SMS,72431,Website,Call
+GHA781770,Akwesi Asamoa-Ntiamoa,"276 Frimpomaa Groves Apt. 614
+Karlfort, IN 86387",alexanderdanso@example.org,+233565912744,SMS,1792,App,SMS
+GHA826971,Nicholas Quartey,"275 Dorcas Village
+Port Benjamin, AR 12896",karikarilydia@example.net,0573664410,Call,27245,Website,Email
+GHA694255,Lucy Agyei,"2093 Daako Path Apt. 871
+Kwabenaport, FM 11953",akotoeric@example.org,+233272587972,Call,2446,Website,Email
+GHA290420,Lucy Ampadu-Asamoa,"62007 Lucy Cliffs
+South Rogerport, CO 58561",dora85@example.com,+233273912451,SMS,14867,Website,Call
+GHA106401,Kwadwo Amponsah,"578 Kumi Prairie Suite 560
+Maryville, MD 47914",qnyaako@example.net,0548560280,Call,71777,App,Email
+GHA451054,Mary Yeboa,"97819 Dominic Orchard Apt. 251
+North Baabafurt, DE 03396",adamnyame@example.com,0282863608,SMS,92600,App,SMS
+GHA671964,Olivia Osei,"563 Asamoah Park
+Abachester, ID 38988",beatriceakyena@example.com,0249284593,Email,5455,Website,SMS
+GHA334532,Pamela Ansomaa-Owusu,"4700 Annette Green
+West Terenceshire, IN 97481",gregoryofosu@example.com,+233571592160,Call,91182,App,Email
+GHA538019,Philip Kyei,"3863 Nyame Branch Suite 362
+East Duncan, AR 77454",kennethboadi@example.net,0274292993,Email,53059,App,SMS
+GHA141048,Osofo Maame Paula Asenso,"85690 Kwamena Villages
+New David, LA 34377",amberkwaakyewaa@example.com,+233207965229,Call,54389,Website,Email
+GHA539643,Yaw Osei,"5942 Oppong Shores
+Port Kwesi, NV 14671",jillansa@example.com,0572635078,Email,4728,Website,Email
+GHA933860,Paul Adusei,"109 Nsia Ford Suite 573
+West Julianburgh, MH 93275",baawiarosemary@example.com,+233278917339,Call,12992,Website,Call
+GHA538697,Mr. Kwabena Donkor,"5688 Naomi Vista
+East Felicia, WI 31950",shaun73@example.com,0249773984,Call,4254,App,SMS
+GHA155248,Irene Abrafi-Yawson,"90359 Yawson Grove Suite 833
+Margarettown, MO 58452",safohenry@example.org,0541692487,Call,12414,Website,Email
+GHA60058,Dr. Dominic Amo,"9443 Tutu Crossroad Apt. 104
+Andrewview, CA 20968",kbaa@example.com,+233579317432,Call,59945,App,Email
+GHA452169,Yaw Kusi,"604 Katherine Hollow
+New Karl, ME 49772",kusiwaakwasi@example.org,0283664317,SMS,38064,Website,Call
+GHA689166,Sista Rebecca Ansomah,"82881 Joanna Stravenue
+South Samantha, TN 27313",asensofrederick@example.net,0509514198,SMS,92245,Website,Email
+GHA944276,Esi Nkansah,"10625 Yawson Roads Apt. 319
+North Angelamouth, KS 84680",gtwumasi@example.net,0282154456,Email,43923,App,Call
+GHA373163,Jessica Ansomaa-Kusi,"463 Nana Ama Village
+South Pamela, ND 77052",rosemaryfosu@example.org,+233263869879,SMS,38626,Website,SMS
+GHA210204,Kenneth Tutu,"84960 Stephanie Estate
+Lake Yawchester, MP 51670",stanley17@example.net,+233503492454,SMS,46639,App,Email
+GHA987447,Francesca Anima,"1296 Vida Circles
+West George, MH 03504",myawson@example.org,+233556361369,Call,97000,App,Call
+GHA490125,Steven Boadu,"9915 Amoanimaa Creek
+South Josh, VA 40566",antony20@example.com,0574659041,Call,60629,Website,Email
+GHA254906,Mary Prempeh,"67508 Asare Inlet
+Rosemaryport, AL 68102",salomey22@example.org,+233287928375,Email,48513,Website,Call
+GHA453084,Abeiku Yeboa,"34647 Adomako Views
+South Justin, LA 36709",nicholasanima@example.net,0509617017,SMS,99492,Website,SMS
+GHA540316,Denise Donkor,"456 Vanessa Crest
+East Danielle, NC 13301",comfort96@example.com,+233261252048,Call,32098,Website,Call
+GHA176635,Abeiku Boahen,"017 Bonsu Port Suite 513
+Nicolaport, DE 23019",okyeredouglas@example.net,+233500465200,Call,71615,App,SMS
+GHA289039,Victor Nyantakyi,"07988 Nsia Club Apt. 094
+East Lucyside, NH 52908",malcolmokyere@example.net,+233570896355,Call,64168,Website,Email
+GHA76230,Owura Christian Afirifa,"7770 Amoakowaa Courts
+Carolineborough, SD 08976",jason81@example.net,+233281400946,Call,85707,Website,SMS
+GHA170418,COmfort Wiafe-Prempeh,"93728 Acheampong Neck Apt. 699
+South Paulfurt, IL 36483",safoaasalomey@example.org,0278259012,Email,32921,App,Call
+GHA827186,Kweku Nti,"65598 Daako Parkways Suite 026
+West Mary, MH 91181",akyerewaa@example.org,+233281514570,Call,5356,Website,Email
+GHA36879,Mama Millicent Akyaa,"33520 Abrafi Hollow
+Ntifurt, MS 27742",wnyame@example.org,0570302806,SMS,81256,Website,Call
+GHA153017,Louis Boakye,"USS Bona
+FPO AA 22032",arthur85@example.com,0579396014,Email,46911,App,Email
+GHA406054,Danielle Agyei-Yawson,"308 Marcus Cape
+Port Bruce, WV 20031",lbadu@example.org,+233569449408,Call,90496,Website,Call
+GHA965752,Elliot Asiama-Agyei,"74292 Duah Mountains Apt. 378
+Phillipbury, LA 20022",eliabeth01@example.com,0279978391,SMS,20085,App,SMS
+GHA237894,Miss Jessica Anokye,"5497 Deborah Run
+North Francesca, SC 50170",mansabeatrice@example.net,0552623750,Call,6985,Website,Email
+GHA192953,Katherine Safo,"9627 Bruce Trail Suite 107
+Kusiwaaview, CO 76292",adwubimartin@example.net,+233577095321,SMS,54650,App,SMS
+GHA464702,Stephanie Sarpong,"151 Omani Green
+South Lucychester, TN 86497",abeiku20@example.org,0263531693,Call,56290,Website,SMS
+GHA315741,Donald Oti,"1589 Otiwa Inlet
+Acheampongstad, ID 60103",maria50@example.com,+233265977475,Call,57894,Website,Email
+GHA545693,Louis Adutwum,"712 Nti Inlet
+West Rachael, HI 90289",gregoryafirifa@example.com,+233567621217,Email,36897,Website,Email
+GHA57241,Ekow Bonsra,"035 Roger Course Apt. 113
+North Jeremyshire, IA 32539",helen42@example.com,+233204427703,SMS,44047,App,Email
+GHA644809,Malcolm Omani,"45924 Donkor Groves Apt. 976
+Oliviashire, TX 58971",abigailbadu@example.net,0288510708,Email,17342,App,Call
+GHA201461,Patrick Omani,"7590 Mansa Village Suite 182
+Kwamehaven, NY 54115",gyeboa@example.com,0271679530,Email,34213,Website,Call
+GHA403082,Malcolm Antwi,"5592 Edward Viaduct
+Darkoside, AR 56532",naomi46@example.com,+233262951289,Call,21806,App,Email
+GHA55830,Mama Patricia Agyeiwaa,"41326 Agyapong Route Suite 555
+Georgiaside, HI 31137",bakyena@example.com,+233564453566,Email,81312,Website,Call
+GHA673508,Albert Ahortor,"70186 Akoaa Turnpike Suite 545
+Feliciahaven, WA 42512",boakyesylvia@example.org,0577228237,SMS,49013,App,Email
+GHA399259,Rosemary Gyamfiaa,"3684 Anokye Shoals Apt. 906
+Port Russell, NJ 71768",aagyei@example.net,0286381103,Call,67944,App,SMS
+GHA65281,Graham Amoasi-Asamoa,"492 Stanley Crossing
+Davidfurt, WI 26674",skusi@example.org,+233548881227,Email,22682,App,Email
+GHA491827,Miss Lisa Amo,"9140 Kyei Coves
+Francisland, MS 43492",otiwateresa@example.net,+233261277767,Call,13442,Website,SMS
+GHA364742,Rosemary Agyapong,"USS Amoasi
+FPO AP 94380",qnyame@example.org,0571377702,SMS,72297,App,Email
+GHA404186,Sheila Safoaa,"36485 Kojo Valley
+Asieduwaamouth, TN 75809",jeffrey43@example.net,+233503678210,Email,30513,App,Email
+GHA382574,Maame Jessica Fosua,"PSC 8725, Box 5609
+APO AE 02003",wkyerewaa@example.net,+233573958136,Email,12599,App,SMS
+GHA433925,Akwasi Ofosu-Baafi,"6342 Otuo Mews Apt. 254
+Ofosuburgh, SD 06358",wwiafe@example.net,+233279514047,Email,73598,App,Call
+GHA187282,Stephen Andorful-Kumi,"09688 Yaamoa Summit Suite 969
+Abenafurt, SD 20323",yagyemang@example.com,+233247177370,Call,11567,Website,Call
+GHA445875,Afua Yirenkyi,"5679 Abeiku Expressway Apt. 778
+Akualand, VT 91285",markboahen@example.org,0559590895,Email,44073,Website,Email
+GHA176143,Jeffrey Sarpong-Ata,"4998 Stanley Prairie Suite 455
+Harryfurt, WV 35749",nasieduwaa@example.org,0575016022,SMS,44980,Website,Call
+GHA945433,Frederick Otiwa,"0425 Joel Cove
+Lake Kyletown, MA 21274",millicentprempeh@example.org,+233567376987,Call,35729,Website,SMS
+GHA416611,Oliver Yeboah,"Unit 8318 Box 0914
+DPO AA 59421",phillipkwarteng@example.com,+233562647514,SMS,63278,App,SMS
+GHA643863,Joshua Adusei,"95679 Michael Springs
+West Harryside, IN 87822",denisandorful@example.org,+233546109322,Call,48188,App,Call
+GHA804570,Wendy Pomaa-Boatemaah,"6366 Sylvia Extension
+East Joyce, NJ 74894",andrewantwi@example.org,0550730326,Call,99693,Website,Call
+GHA960958,Osofo Maame Tracy Asante,"23195 Omani Fords
+West Daniel, OH 93491",ruth40@example.org,0271676674,Call,20134,App,Email
+GHA315333,Annette Gyasi,"6548 Dufie Locks
+Adomaland, PA 08237",abenaafoakwa@example.net,+233543823571,SMS,55048,App,SMS
+GHA465432,Maame Rita Frimpomaa,"09230 Henry Ford
+South Jasminemouth, CA 90127",boakyeafua@example.org,0576812074,SMS,34207,App,Call
+GHA229350,Kevin Dwamena,"52502 Afia Gateway Suite 292
+Boakyeton, PA 90334",hdufie@example.org,+233542186032,Email,93094,App,Email
+GHA348817,Hannah Kwartemaa,"07412 Hannah Drives
+Denischester, NJ 85676",nyameama@example.org,0245461550,SMS,60963,Website,SMS
+GHA769927,Elliot Appiah,"42732 Gregory Inlet
+Amponsahaven, AL 33954",wagyemang@example.com,+233203449618,SMS,44421,App,Call
+GHA873272,Ekow Boahen,"3880 Ampadu Port Apt. 190
+Lake Adriantown, PW 80290",emilyopuku@example.com,0285377893,SMS,11873,Website,Email
+GHA206982,Stephanie Tweneboa-Tweneboa,"PSC 1477, Box 4205
+APO AA 86673",amber45@example.com,0267802189,Email,47919,Website,Email
+GHA285519,Owura Oliver Obeng,"964 Nimakoah Streets
+West Phillipfort, SD 11462",nicholaskyerewaa@example.com,0241692520,SMS,91831,App,Email
+GHA83642,Mama Francesca Amponsa,"68963 Karikari Ferry
+New Rebecca, OK 98116",yawsonyaw@example.net,+233553858784,Call,7670,App,SMS
+GHA831008,Martin Akyeampong,"687 Antwi Roads
+Karikariside, NJ 58730",dyawson@example.net,+233206125979,Call,61200,App,Call
+GHA953178,Wendy Ntim,"747 Opuku Radial
+Nkansamouth, NC 56392",baahshirley@example.org,0543471568,Call,98742,Website,SMS
+GHA163880,Mama Lawrencia Sarpong,"77656 Agyei Streets Suite 906
+Cliffordshire, MI 25159",otikwabena@example.net,0574682018,Email,9442,Website,Email
+GHA481221,Jennifer Amo,"884 Bonsra Square
+Elliotside, NV 30240",myirenkyi@example.com,+233205797477,Email,86802,Website,SMS
+GHA91664,Mr. Phillip Yaamoa,"39455 Boatemaa Fords
+West Kwamena, MD 58008",owusuwaayvonne@example.com,0543013342,Email,27545,App,SMS
+GHA6760,Osofo Shaun Asenso,"773 Kwaku Path Suite 775
+Fosuachester, MS 11526",ansasusan@example.com,0556298678,SMS,57955,App,Email
+GHA295002,Ekow Okyere-Danso,"075 Amoako Forges Suite 573
+New Elizabeth, MA 78928",karikariroselyn@example.com,+233201975114,SMS,65111,Website,Call
+GHA567199,Janet Ampoma,"843 Grace Plain
+Joojofort, NE 42199",tomani@example.net,0275111615,Call,19033,App,Email
+GHA755619,Samuel Yaamoa,"473 William Summit Apt. 229
+Philipport, OK 66019",joanna53@example.org,+233276969213,SMS,12120,Website,Email
+GHA426929,Joe Boadi,"93372 Ntiamoa Lake Apt. 352
+Phillipshire, FL 71943",takyilawrence@example.net,0269732131,Call,96779,Website,Email
+GHA746300,Rosemary Andorful,"6228 Joanna Key
+New Isaac, IL 10265",ntiamoamartin@example.net,0204440727,SMS,46796,App,Call
+GHA383432,James Ansa-Boadi,"75654 Jasmine Road
+East Lucy, AS 53894",haboraa@example.net,+233288851739,SMS,56157,Website,Email
+GHA698684,Kwadwo Tweneboa,"224 Marcus Canyon Suite 771
+East Albert, IN 15731",gracekwarteng@example.net,0209532877,Call,76047,Website,SMS
+GHA142431,Lydia Mensah,"2153 Agyapong Loaf Suite 253
+Josephmouth, VT 05811",akyeiwaa@example.net,+233247052190,Call,47865,App,Call
+GHA479134,Jessica Agyapong-Kusiwaa,"25033 Baafi Junctions Apt. 074
+South Gordon, CA 87656",akowuatimothy@example.com,+233504358101,Call,62159,App,SMS
+GHA879454,Frederick Prempeh,"9275 Karikari Plains Apt. 672
+Rebeccabury, CT 46915",nicholaspokuaa@example.org,0562222569,Email,4512,App,SMS
+GHA810439,Maria Amoanimaa,"2548 Ampoma Mountain
+Kwabenaton, NE 33231",nmensah@example.org,+233549367780,Call,32342,App,SMS
+GHA294219,Joyce Acheampong-Duah,"4859 Tiwaa Crest
+Joeborough, PA 48578",rita72@example.net,0545726138,Call,22383,App,SMS
+GHA809950,Francis Afirifa,"9703 Yaamoa Island Apt. 313
+Pamelastad, OH 80407",patricia43@example.org,+233205035936,SMS,1397,Website,Call
+GHA735359,Dr. Esi Akyeampomaa,"0483 Phillip Point Apt. 840
+Cliffordshire, AK 16461",abona@example.org,+233565271309,Call,46645,Website,Email
+GHA990721,Elliot Agyei,"951 Gifty Centers
+Amoashire, WI 19421",dominic79@example.com,0246268872,SMS,35947,App,Call
+GHA821491,Mama Danielle Fosua,"28446 Agyare Falls
+Georgiachester, LA 39095",xboadi@example.com,0551869103,Call,74509,Website,Email
+GHA238499,Abena Darko,"0600 Bona Field Suite 333
+Twumasihaven, MA 24270",awesiampadu@example.org,+233265317829,Call,28222,App,SMS
+GHA867072,Vincent Owusu,"860 James Key Apt. 175
+Yvonnetown, OR 25343",frederickappia@example.com,+233562809540,Call,43500,Website,Call
+GHA75667,Ms. Mandy Ntim,"00525 Karen Park Suite 269
+Joyceside, IL 41240",xbaah@example.com,+233556339742,Call,74806,Website,SMS
+GHA274248,Joyce Amo,"498 Mensa Manors
+Ahortorfurt, OR 63753",stephanie08@example.net,0509281325,Call,19131,App,Email
+GHA493751,Julie Tutu,"92243 Agyare Freeway
+Lake Williamshire, GU 19926",lucyakoto@example.com,+233263635248,Email,22896,App,Email
+GHA640468,Maria Daakoaa,"997 Gordon Brook
+South Pamelamouth, MT 83077",mariaagyemang@example.com,+233205858479,Call,73163,Website,SMS
+GHA783744,Alex Owusu,"10680 Boakye Spur
+Lake Patrickberg, DE 65118",wamoa@example.org,+233204897042,SMS,1597,App,SMS
+GHA724103,Regina Asantewaa-Adutwum,"75100 Adomako Ridges Suite 698
+East Cliffordburgh, MS 62442",jenniferakyena@example.net,+233205776160,SMS,74352,Website,Email
+GHA476141,Denise Kumi,"6635 Antwi Fall
+Twumasiview, WI 83433",james08@example.net,+233274586604,Call,46765,Website,Email
+GHA652574,Alex Kusi,"57846 Dorothy Common Apt. 576
+Nana Amaside, MN 52423",denis53@example.com,+233266538868,Email,39414,App,Call
+GHA428753,Alice Agyeiwaa,"95158 George Valley
+Francescastad, ID 84800",kasiedu@example.com,0558246643,Call,49552,Website,Email
+GHA815077,Michael Akowua,"607 Esi Motorway
+Port Duncan, WY 13086",stephanie37@example.com,+233284125162,Call,29781,App,Call
+GHA121467,Maria Serwaa,"451 Asiama Knolls
+Kofiside, ID 06689",uansomah@example.org,0278088344,Call,48317,App,SMS
+GHA644633,Miss Nana Ama Boakyewaa,"223 Priscilla Tunnel
+East Joeberg, AS 70051",bonsraalbert@example.org,+233280821194,Email,94528,App,Call
+GHA365634,Charles Asante,"0394 Gregory Rapid
+Lake Abatown, IL 79605",andorfuljames@example.net,+233544199822,Email,71503,Website,Email
+GHA981918,Martin Boakye,"669 Boadu Rue Apt. 619
+Port Rebeccaport, MH 21480",marilynopoku@example.com,+233541725915,SMS,57927,Website,Call
+GHA775967,Maame Lucy Kusiwaa,"531 Akos Station
+Nkansahton, MN 99537",obengkarl@example.net,0241672786,Email,91775,Website,Email
+GHA135396,Andrew Ofosu-Oppong,"27815 Boakyewaa Landing Suite 627
+New Frederickport, WA 17906",akyerekoarthur@example.net,+233541283851,Email,82986,App,Call
+GHA164512,Ms. Susan Duah,"2297 Appia Walk Suite 113
+Maryborough, AL 25723",akua52@example.com,+233275681139,SMS,62910,Website,Call
+GHA456827,Lucy Nkrumah,"Unit 2106 Box 6070
+DPO AE 19265",tfosua@example.com,+233577222171,Email,88325,Website,SMS
+GHA3113,Gemma Badu,"PSC 4667, Box 2112
+APO AP 40516",ckumi@example.com,0261332897,Email,57357,App,Call
+GHA435342,Mama Comfort Afrakomaa,"81038 Darko Throughway Suite 412
+Port Stevenburgh, OK 77421",famponsah@example.com,+233273429553,Call,40681,App,Call
+GHA871434,James Obeng,"545 Lydia Street Suite 956
+Francescamouth, MS 05596",rachelgyamfi@example.com,0569710709,Email,15442,App,Email
+GHA898340,Martin Nyantakyi,"387 Amoa Pike Apt. 429
+South Gregoryfort, AK 75866",lorrainedanso@example.com,+233550901488,SMS,93998,App,Call
+GHA908755,Awura Patricia Akyeampong,"840 Kwarteng Stream Suite 582
+Mariafurt, IL 23744",stanleynti@example.org,0276621217,Call,83587,App,Email
+GHA205295,Rebecca Amoa,"348 Charles River Apt. 698
+Akyenaville, VT 53190",tadomako@example.com,+233553841276,SMS,69390,App,Call
+GHA54586,Mama Emma Amponsa,"98464 Sylvia Locks
+Asantetown, NV 06296",lindabaah@example.org,+233559123052,Call,56944,Website,Email
+GHA789788,Osofo Kujoe Adu,"441 Kwadwo Crescent Apt. 333
+South Erictown, CA 51598",safojohn@example.org,0555705696,SMS,18704,Website,SMS
+GHA924239,Tony Yeboa,"418 Serwaa Extension
+Port Amandaborough, MH 57041",vnyantakyi@example.org,0271705156,SMS,96458,Website,SMS
+GHA701663,Gemma Amoako,"666 Roger Bypass Suite 672
+Amoafort, WY 17338",albertbaawia@example.net,0279532982,Call,12798,Website,Email
+GHA227510,Patricia Asenso,"75675 Kojo Key Apt. 033
+Maryberg, IL 89445",qkwaakye@example.org,+233548686655,SMS,46445,App,Call
+GHA441013,Henry Amoa,"84485 Ofori Place Suite 092
+South Dorothy, VI 82310",opukuedward@example.com,+233546748079,Email,97332,Website,Email
+GHA230817,Julian Dwamena,"183 Donkor View
+East Baabaville, PW 01249",beatriceagyapong@example.org,+233204640828,Call,9113,App,SMS
+GHA707144,Akwesi Owusu,"Unit 6281 Box 5328
+DPO AP 23264",adam77@example.net,0268265730,Call,48872,App,Email
+GHA898991,Dr. Arthur Agyare,"6011 Dorcas Fields
+Lake Jamesfort, PW 41352",gyaamoa@example.com,+233270772912,Call,95750,App,Email
+GHA469086,Lydia Badu,"Unit 8486 Box 8145
+DPO AP 28388",georgeagyeiwaa@example.net,0541774196,Email,25280,App,Call
+GHA305818,Janet Mensah,"998 Louis Union
+Grahamstad, DC 75661",giftydaakoaa@example.net,0243146558,Email,32725,Website,SMS
+GHA434870,Maame Regina Asenso,"2423 Afua Expressway Apt. 762
+South Yawview, UT 15303",asensomarian@example.com,+233563893331,Call,62601,App,SMS
+GHA498711,Denise Adu,"59071 Jill Row
+Lake Howard, NC 47884",zafirifa@example.net,0556830382,Email,60105,Website,SMS
+GHA422987,Mr. Kujoe Otiwa,"Unit 7217 Box 1629
+DPO AP 85974",barbaraamoasi@example.com,0263121200,Call,98133,Website,Email
+GHA652963,Awura Susan Bonsu,"0134 Kwarteng Extensions Suite 944
+Kwaakyewaaport, OH 47419",akyeamfuobernard@example.net,+233569469995,Call,86485,Website,SMS
+GHA905034,Howard Baah,"PSC 6806, Box 7447
+APO AE 34818",animakweku@example.net,0283509879,SMS,99359,App,Email
+GHA935995,Karen Otuo,"08107 Amelia Plaza
+Koomsonstad, CA 02252",marian89@example.net,0283084756,Email,28464,App,Call
+GHA311852,Sarah Nkansah,"233 Aba Glen
+South Rebecca, GU 35808",asantewaamichael@example.net,0560730727,Email,85592,Website,Email
+GHA581654,Hannah Kyei,"87364 Nicholas Row
+East Akumaa, IA 04022",eafirifa@example.com,+233208342828,Email,86875,App,Call
+GHA506006,Michelle Anima,"PSC 5325, Box 5252
+APO AE 82908",vforiwaa@example.net,+233573641931,SMS,20809,Website,SMS
+GHA13294,Sista Linda Owusuwaa,"2411 Amoa Springs
+Baafiberg, KY 90568",ampomajanice@example.org,+233263504847,Email,63736,App,SMS
+GHA9507,Agya Richard Osei,"0302 Akowua Pine Suite 711
+Samuelside, AS 87148",pamela40@example.org,0241336118,Call,47862,Website,Email
+GHA894013,Osofo Maame Abigail Safo,"055 Karen Bridge
+Kwadwomouth, IA 67532",amojoshua@example.com,0244904455,SMS,64384,App,SMS
+GHA612744,Debra Owusuwaa,"757 Joseph Crest Apt. 123
+New Sheilamouth, PR 31625",ben73@example.com,0565424457,Call,91344,App,Call
+GHA777022,Phillip Agyemang,"2294 Akwesi Inlet Apt. 998
+Angelamouth, CT 88145",kweku21@example.net,+233263496583,Call,72589,Website,SMS
+GHA667990,Nicola Pokuaa-Akɔmaa,"PSC 2726, Box 9317
+APO AE 17303",vkusi@example.net,0500146070,Call,63621,App,Call
+GHA806021,Mrs. Rebecca Anima,"1230 Akosua Divide Apt. 655
+Amoaton, IN 99295",ankrafrank@example.com,0268313641,SMS,58400,Website,Call
+GHA672934,Mrs. Eliabeth Asiama,"141 Kwamena Gateway Apt. 432
+Eliabethborough, NE 56153",ataalexander@example.com,0287238288,SMS,37643,App,Email
+GHA290638,Sista Barbara Bonsra,"575 Fofie Ridges
+East Colins, TN 56806",appianigel@example.org,+233578672206,SMS,64601,App,Call
+GHA196574,Miss Sarah Akɔmaa,"9222 Adomah Canyon Apt. 747
+Jakeburgh, AS 33811",ifosu@example.net,0573346487,Call,47555,Website,Email
+GHA391487,Maame Eunice Danso,"29901 Danso Camp Suite 521
+Lake Sandra, VI 57474",kwiafe@example.com,+233504327069,Call,97732,App,Email
+GHA224642,Jake Bona,"611 Charles Skyway
+West Paulashire, ID 23505",carl12@example.org,+233561419682,Email,33696,App,Email
+GHA966204,Owura Isaac Asiedu,"8527 Antwi Shoals
+Appiabury, OK 45859",pamela60@example.com,0550084789,Email,64493,App,SMS
+GHA199011,Kyle Baah,"8720 Jake Ramp
+Ansamouth, AR 50886",bonsupriscilla@example.org,+233242039560,Email,60878,App,SMS
+GHA175998,Ms. Afua Adusei,"USNV Agyeiwaa
+FPO AA 18352",agyaponglydia@example.org,+233267521162,Call,20808,Website,Call
+GHA262046,Kwame Adu-Ampadu,"91040 William Manor
+Grahamfort, FL 77083",akomaaolivia@example.org,+233504616699,Call,20820,Website,SMS
+GHA585470,Jennifer Afrakomaa-Owusuwaa,"387 Appiah Trace
+Ahortorstad, NJ 82937",josephofori@example.net,0288931362,Call,60527,Website,SMS
+GHA783039,Mama Ann Kwarteng,"99337 Darko Glens
+Lake Akwesiport, AZ 04386",peter80@example.org,0574661257,SMS,72334,App,SMS
+GHA614476,Maame Roselyn Duah,"6873 Joshua Crossing
+South Rebeccastad, CA 38033",emmamensa@example.com,+233202319873,Email,82011,Website,Call
+GHA329442,Mr. Fiifi Darko,"25067 Boakye Brooks
+Lake Leslieside, KS 53246",sylviaantwi@example.net,+233242369082,Email,9571,App,SMS
+GHA695013,Annette Amoako-Adoma,"03539 Tony Ramp
+West Mathewstad, NC 53279",lampofowaa@example.net,0575083940,Call,83037,App,SMS
+GHA273998,Marilyn Adoma,"3505 Anokye Bypass
+Lake Ekowfort, IL 23081",frimpomaaelizabeth@example.com,0286882855,Call,41467,Website,SMS
+GHA423185,Ms. Lorraine Ntim,"3322 Janet Rapids
+Nkansahshire, TX 66547",sharon93@example.com,+233542301526,Email,90166,App,SMS
+GHA31075,Douglas Otuo,"736 Duncan River Apt. 075
+Lake Afia, NC 11140",stanleydonkor@example.net,0556112996,Call,24367,Website,Email
+GHA381702,Amanda Fosua,"346 Maria Stream Suite 805
+Donaldport, AR 81655",fboaten@example.net,+233577080669,Email,87391,App,SMS
+GHA199744,Susan Gyasi,"78198 Louis Glen Apt. 490
+Rogerville, NY 38699",debratweneboa@example.com,0508493171,Email,15917,Website,Call
+GHA746895,Osofo Antony Akyeampong,"4076 Nsia Way
+Asensobury, DE 62850",gyasivincent@example.com,0559932282,SMS,61349,Website,Email
+GHA528190,Sharon Antwi-Agyapomaa,"532 Maria Creek Apt. 051
+Port Abena, NV 66906",bonaruth@example.com,+233208364439,SMS,32542,Website,Call
+GHA54535,Marilyn Karikari,"786 Janet Divide
+Port Bruce, GA 65567",ntiamoajoshua@example.net,0271306586,Email,99333,Website,SMS
+GHA181036,Isaac Bonsu-Akowua,"3689 Tina Courts
+New Shirley, PW 16290",marcusafoakwa@example.org,+233270492554,Email,585,Website,SMS
+GHA38950,Adwoa Takyi-Amoa,"3777 Amoa Crossing
+Lake Andrewhaven, IA 56539",vanessakwaakye@example.com,+233501725082,Email,48466,App,Email
+GHA613943,Richard Amoasi,"141 Grace Walks
+Charlesfurt, ID 90271",asarejessica@example.com,0206524192,Call,70330,Website,Call
+GHA40411,Kyle Akowua,"540 Baa Center Suite 452
+West Sheila, TN 75888",sdanso@example.com,0558738492,SMS,84023,App,Email
+GHA254827,Awura Emily Serwaa,"8842 Amo Street Suite 109
+East Ruthberg, PW 63022",qwiafe@example.com,0245133671,Call,45471,Website,SMS
+GHA119278,Rita Serwaa,"617 Awesi Crossroad
+Angelaborough, IA 28643",kumikwasi@example.net,+233289679189,Call,1570,Website,Email
+GHA851891,Louis Boadu,"15269 Antwiwaa Ports Suite 275
+Michaelville, TN 83029",elizabeth67@example.com,+233261299968,Call,90069,Website,Email
+GHA931757,Justin Baafi,"14889 Baawia Views Apt. 379
+West Graceport, MD 60165",georgia51@example.org,+233544912724,SMS,82702,Website,SMS
+GHA970851,Miss Judith Otiwa,"274 Douglas Walks Suite 508
+Ampaduport, AZ 05149",roselynnyantakyi@example.net,+233200907889,Call,49238,Website,SMS
+GHA314784,Rebecca Donkor,"58218 Ntiamoa Fork Apt. 257
+New Tom, RI 22234",wmensah@example.com,0288871887,SMS,43746,App,Call
+GHA167393,Sarah Ataa,"32639 Rosemary Ville Apt. 632
+Nkrumahtown, MH 30401",patrick02@example.net,+233205751675,Email,92798,Website,Call
+GHA441155,Rachel Safoaa,"5394 Asiama Shoals
+Joshland, LA 74591",aboatemaah@example.org,+233540271439,Email,81828,App,Email
+GHA742257,Louis Akyeamfuɔ-Asante,"33690 Owusu Junction
+Lake Kennethtown, TN 26435",rkusi@example.net,+233204143218,Call,13060,Website,Email
+GHA566724,Baaba Kusiwaa,"511 Ofori Road Apt. 795
+North Kwamehaven, IA 69070",justin26@example.net,+233575838671,Email,67781,App,Call
+GHA233545,Aba Baa,"6178 Akyena Pines Suite 324
+Port Maryhaven, VI 73558",judith99@example.net,+233566173576,Email,97212,App,Email
+GHA724293,Mandy Pomaa,"2096 Fofie Flats
+Lisastad, PW 46053",jata@example.com,+233540740034,Email,57163,Website,Call
+GHA512870,Agya Andrew Amoasi,"5437 Akyena Forges Apt. 234
+Adomahport, WV 78268",catherine21@example.org,+233546083728,Email,73269,Website,Email
+GHA919238,Rita Adutwum,"45715 Marilyn Fields Suite 034
+Helenville, IN 56747",pbaa@example.net,0556682829,SMS,98192,Website,SMS
+GHA136294,Gemma Fosu-Agyapong,"51040 Agyare Roads Suite 234
+East Dorothy, KS 58148",nigelakyeamfuo@example.com,+233578366898,SMS,20111,App,SMS
+GHA718728,Mr. Dennis Bonsra,"211 Asamoah Pine
+North Ruth, AK 03868",bkwartemaa@example.com,0203169783,Call,78831,Website,SMS
+GHA43924,Joshua Gyasi-Wiafe,"6678 COmfort Bridge
+Port Nathan, PW 99314",akosuasarpong@example.net,+233248435017,Email,24377,App,SMS
+GHA168851,Michael Ahortor,"189 Abrafi Dam Apt. 614
+South Victoriaberg, AR 31142",pamelabadu@example.net,0571520852,Call,92990,App,Email
+GHA971694,Agya Mathew Yaamoa,"19208 Emma Pines Suite 546
+Joelburgh, FM 65681",qata@example.com,0276977581,Email,75638,Website,Call
+GHA77674,Benjamin Agyemang,"51387 Takyi Ford Apt. 410
+Kwasichester, NE 01511",dakyeampong@example.org,+233203015145,Call,72425,App,SMS
+GHA35389,Grace Karikari,"2689 Antwi Falls
+Nyaakomouth, DC 35236",otiwendy@example.org,0570432560,Call,49800,Website,Call
+GHA668365,Kate Akyeampong-Kwarteng,"57910 Baafi Harbors Apt. 203
+Sandrachester, CA 58337",aansa@example.net,+233204886562,Call,61111,Website,SMS
+GHA575214,Rosemary Obeng,"7950 Henry Oval
+New Bruce, SD 01888",ofrema@example.net,+233507366662,SMS,23211,App,Call
+GHA137604,Dennis Ampofo-Oppong,"7532 Carl Groves
+Agyemangland, NM 14139",iasare@example.org,+233271644936,Email,16141,Website,Call
+GHA833353,Kujoe Wiafe-Akyerεko,"925 Afoakwa Mountains Suite 568
+Tiwaahaven, TN 59471",tweneboamax@example.com,0563577958,Email,92310,App,Call
+GHA16458,Mama Mandy Agyapong,"0591 Yaa Key Suite 010
+South Annetteport, MN 91775",snyantakyi@example.com,0554050235,Call,2102,Website,Email
+GHA203534,Miss Francesca Gyasi,"2232 Thomas Alley
+Hannahburgh, AS 78077",kyeiwaasusan@example.org,+233265093978,SMS,85583,Website,Call
+GHA367286,Nicholas Ampofo,"Unit 3818 Box 3900
+DPO AE 32396",udonkor@example.org,0555401390,Call,35989,App,Email
+GHA140487,Kwame Otuo,"9373 Katy Fort Apt. 317
+East Anthony, OR 03562",antwimichelle@example.com,+233275946213,Call,79719,Website,SMS
+GHA808108,Nicola Agyapong,"USNV Okyere
+FPO AA 80289",samanthafrema@example.com,0267228779,Call,62336,App,SMS
+GHA601418,Awura Denise Acheampong,"52363 Daniel Crossroad Apt. 938
+Katyburgh, ND 01613",danny87@example.net,+233574467768,SMS,86812,App,SMS
+GHA675250,Abigail Oti,"68487 Daako Vista
+Salomeyfurt, HI 69812",bernardquartey@example.org,+233506199970,Call,87558,Website,SMS
+GHA504350,Mrs. Baaba Agyei,"Unit 3912 Box 0696
+DPO AE 05879",santwi@example.net,+233263915750,SMS,28783,App,SMS
+GHA547622,Georgina Bonsu,"075 Yaamoa Manor Suite 870
+Prempehport, NY 67070",leslieamoa@example.net,+233272183693,Call,49644,Website,Call
+GHA5465,Maureen Gyasiwaa,"97832 Jason Mill
+South Amberhaven, IL 04002",mensahgerald@example.com,+233576076372,Call,16413,Website,SMS
+GHA698682,Derrick Nkrumah,"1394 Akwasi Lakes Suite 292
+Nyaakoaahaven, ME 73308",giftydanso@example.com,0261713425,SMS,74365,Website,SMS
+GHA96438,Dr. Akwasi Amponsah,"2267 Nigel Shoal Apt. 950
+West Janetmouth, ND 53808",mduah@example.net,0557957599,Call,2318,Website,Call
+GHA389321,Vincent Nyantakyi-Ansa,"861 Danso Mills Apt. 550
+Wendyside, OR 80726",rgyamfi@example.org,0248569830,Email,66901,Website,SMS
+GHA468975,Judith Boatemaa,"369 Catherine Bypass Suite 693
+Josephineside, OK 96135",yaw14@example.com,0282519805,SMS,81691,Website,Call
+GHA857449,Bernard Amoasi-Owusu,"32245 Sylvia Trace Suite 616
+West William, MD 76823",terence94@example.com,0260100289,Email,61190,Website,Call
+GHA502134,Mr. Lawrence Anokye,"244 Oti Island
+Afirifaton, SC 04911",zawuah@example.com,+233289612676,Email,36634,Website,SMS
+GHA777420,Victoria Akyeampomaa,"54785 Abena Spurs Suite 211
+Port Felicia, DC 46330",amponsadonald@example.com,0268585771,Call,82164,Website,Email
+GHA438986,Mrs. Vanessa Daakoaa,"365 Owusu Mount Suite 366
+Akumaatown, AZ 67641",ruth64@example.com,+233272816705,Email,84914,Website,Email
+GHA46318,Christian Prempeh,"0889 Baafi Fall Apt. 939
+Lake Shirleychester, RI 48672",znti@example.org,0278898645,SMS,90229,Website,SMS
+GHA756866,Agya Oliver Omani,"44410 Nkrumah Ports Apt. 210
+Lake Benberg, OK 86433",olivia99@example.com,0244857341,Email,98979,App,SMS
+GHA387912,Wendy Pomaa,"7717 Safoaa Causeway Suite 042
+Ahortorburgh, AK 85385",rgyamfi@example.org,0247399582,SMS,86871,App,Email
+GHA758043,Maria Adutwum,"576 Irene Estate Suite 167
+Aduview, UT 74548",zntiamoa@example.org,0287818295,Email,17624,App,Email
+GHA270635,Eric Ahortor,"0515 Otuo Unions Apt. 051
+Lake Priscillahaven, AK 88987",cansomah@example.org,0504389861,SMS,84966,Website,Call
+GHA475848,Regina Oppong-Yaamoa,"384 Julia Union Apt. 740
+Yaashire, AS 24425",akyenarussell@example.com,+233573241503,SMS,26405,App,Email
+GHA447038,Malcolm Opuku,"960 Stephanie Fork
+Ampofoville, PW 86683",akosobeng@example.org,+233284663284,Email,95407,Website,SMS
+GHA214721,Dr. George Asiama,"32498 Eric Crescent
+Arthurburgh, OH 04562",pgyasi@example.net,+233542163260,Call,24812,App,Email
+GHA480975,Gerald Boakye,"762 Akowua Orchard
+Arthurburgh, OK 15721",badusei@example.com,0264991033,Call,84165,App,Email
+GHA823110,Sheila Mensah-Bonsu,"3597 Michelle Creek
+New Carlport, OK 34808",karikarisusan@example.net,0507817301,Call,61464,App,SMS
+GHA212581,Gregory Mensa,"30910 Patrick Circles
+West Jonathanport, KY 58459",georgeasiama@example.net,0560046824,Email,14379,Website,Call
+GHA622068,Mrs. Felicia Donkor,"921 Stephen Manors
+Fofieside, MN 44214",angelaagyare@example.org,0578452285,Email,48840,App,SMS
+GHA40284,Adam Tweneboa,"091 Judith Street Apt. 944
+New Lorraineborough, CA 68550",janet37@example.com,+233569021544,SMS,47949,Website,Call
+GHA575727,Sarah Omani,"833 Boahen Forks Suite 881
+Afoakwaborough, OH 85265",adutwumjoyce@example.org,+233243043333,Call,89364,Website,Email
+GHA73568,Osofo Joshua Akyeamfuɔ,"11670 Patricia Forks
+Port Andrew, RI 36870",madusei@example.net,+233247446966,SMS,52032,Website,SMS
+GHA172009,Christina Agyeiwaa,"71434 Serwaa Lights Suite 030
+Joshuaberg, HI 70813",samantha03@example.com,0566504757,Email,52888,App,SMS
+GHA927720,Joel Opoku-Anokye,"79922 Fosua Flat Apt. 200
+Lake Julia, OK 74806",znyantakyi@example.net,+233502958929,Email,58657,Website,SMS
+GHA648933,Angela Akɔmaa,"1998 Veronica Stream
+North Ruthchester, ND 50593",sam70@example.org,0500371355,Call,6926,Website,Call
+GHA249799,Joyce Boadu,"138 Bonsu Ranch
+Agyeiton, OR 04447",joojootuo@example.com,+233276215063,SMS,28099,Website,Email
+GHA214067,Sista Abigail Baah,"847 Nkansa Plain
+South Dorcasstad, AL 44645",znkansah@example.net,0544062214,Email,23458,App,SMS
+GHA191728,Joojo Ansa,"40847 Thomas Roads Suite 988
+Port Yaa, UT 48804",karen54@example.org,0202487867,Call,23574,App,Call
+GHA762668,Denise Kyeiwaa,"8608 Agyapong Track Suite 427
+Oppongland, FL 47853",darkolisa@example.org,+233579872738,Call,8956,Website,SMS
+GHA909979,Teresa Adwubi,"Unit 8234 Box 9653
+DPO AE 35947",nsiasalomey@example.net,+233547857715,Email,92316,App,SMS
+GHA767765,Ama Kyei,"2555 Boadu Greens
+East Janiceborough, MI 82838",akyeampongcharles@example.org,+233557228067,Call,74534,Website,Call
+GHA57197,Peter Anokye-Kwaakye,"762 Priscilla Haven
+New Antonymouth, NC 53647",timothy60@example.com,0288044062,Email,34326,Website,Call
+GHA557494,Harriet Nyaako-Frimpomaa,"938 Dufie Views Apt. 044
+Yaamoaville, OK 29850",zdwamena@example.com,0286822919,SMS,43077,App,Call
+GHA536989,Michael Tweneboa-Kwaakye,"695 Vincent Landing
+New Kojohaven, NJ 03061",iobeng@example.com,0503040119,Call,44417,App,Call
+GHA107515,Osofo David Otuo,"060 Ampofo Plaza
+Marilynland, AK 08866",frankyeboa@example.org,0542001643,Email,92011,Website,SMS
+GHA84584,Frank Twumasi,"27351 Pomaa Summit Apt. 814
+Otitown, NV 77639",barbara43@example.net,0206637498,Call,22784,App,SMS
+GHA288125,Miss Juliana Amoanimaa,"44845 Nkansa Ports
+Francisborough, NE 51180",georgina35@example.com,+233574972591,Call,81973,App,Email
+GHA997693,Maria Asiama,"9179 Mensa Oval Apt. 736
+Amandaview, IL 62882",margaretnkrumah@example.org,0507643710,Email,53824,Website,Call
+GHA813445,Osofo Bernard Amoako,"17386 Michelle Street Suite 589
+Denisfort, MD 61900",samanthaankra@example.com,+233560644500,Call,39886,App,SMS
+GHA48074,Mama Teresa Ampadu,"4745 Koomson Mission
+South Akwesichester, MP 09936",kwakuadomako@example.org,+233277173244,SMS,51030,App,Email
+GHA763637,Elliot Baawia,"8084 Ntim Hill
+Akyerεmouth, CA 91308",kobeng@example.net,0289717059,Email,55172,App,SMS
+GHA179194,Osofo Maame Ama Yaamoa,"200 Margaret Branch
+Feliciaton, NH 34586",sarahnyame@example.org,0540974908,SMS,41270,App,Email
+GHA706681,Danny Andorful,"541 Mensah Spur Apt. 200
+Phillipton, AL 41975",iboadi@example.net,0556463972,Call,98741,App,Email
+GHA25847,Victor Baawia,"4189 Ama Mountains Suite 244
+West Albert, TN 59396",amberasiedu@example.org,0209077109,Email,10241,App,Email
+GHA875451,Debra Amo-Akyeampomaa,"968 Otuo Canyon Apt. 732
+South Kwaku, AL 67819",alexander75@example.org,0577149420,Call,11534,Website,Email
+GHA795394,Mr. Gordon Asamoa,"8845 Duncan River
+Denismouth, NV 71938",jack57@example.com,+233282527271,Email,90956,Website,Email
+GHA476591,Andrew Omani,"Unit 3686 Box 6821
+DPO AP 47355",obona@example.net,0546819930,Call,40093,App,Email
+GHA150812,COmfort Andorful,"0222 Janet Loop
+South Emilyside, DE 63696",lukeofori@example.net,+233242154097,Call,87424,App,Call
+GHA322787,Esi Kusiwaa,"803 Wiafe Crescent Suite 123
+Ampomaburgh, MI 28910",gifty71@example.net,0577240985,SMS,35780,Website,Email
+GHA603531,Owura Kujoe Asamoah,"600 Eric Crescent Apt. 224
+Aboraaborough, SC 89338",ankragerald@example.org,0552795530,SMS,48040,App,Call
+GHA710933,Barbara Serwaa,"86208 Phillip Branch
+South Patricia, OK 82270",rachel57@example.org,0563303067,Call,4848,App,Call
+GHA519954,Agya Aaron Andorful,"89901 Irene Stravenue Apt. 544
+Adrianside, NM 89806",isaac09@example.com,+233571701292,Call,44110,Website,Email
+GHA282861,Owura Martin Otuo,"992 Angela Flat
+North Millicent, UT 28669",akyenasteven@example.net,0571044122,Email,58877,Website,Call
+GHA876329,Amanda Kusi-Gyamfiaa,"80276 Abena Squares Apt. 803
+South Nimakoahborough, PW 77516",jamesopuku@example.com,+233501222147,Call,22806,Website,Call
+GHA595274,Maame Joyce Boatemaah,"156 Emma Walks
+Sylviamouth, KS 14425",feliciaadutwum@example.org,0576668233,Email,92918,App,Email
+GHA178702,Marilyn Karikari,"510 Nigel Radial
+Mensahstad, RI 36962",tina24@example.org,0243996115,Email,2920,App,Call
+GHA494873,Janet Andorful,"852 Gifty Ramp
+West Natalie, FM 42681",pamoa@example.org,0285344106,SMS,16076,Website,Email
+GHA835074,Mr. Isaac Dwamena,"0359 Roselyn Flat Apt. 947
+Amaside, MO 69014",akarikari@example.net,0240414372,Email,74294,Website,SMS
+GHA847311,Mrs. Tina Boadi,"4714 Francis Loaf Apt. 702
+East Salomeyport, NY 53066",joetakyi@example.org,+233549685859,Email,28569,Website,Call
+GHA318194,Akua Adutwum,"528 Koomson Locks
+Fosuburgh, UT 15145",akyeampongteresa@example.org,+233568880135,SMS,27724,App,SMS
+GHA638808,Salomey Ntim-Anokye,"3752 Benjamin Walks Suite 521
+Euniceton, ND 46174",joyce81@example.net,+233505495582,Email,30213,Website,Call
+GHA601285,Shirley Darko-Afrakomaa,"454 Vanessa Valley Suite 948
+Roselynport, RI 93535",tgyamfi@example.org,+233201291013,Call,51917,Website,SMS
+GHA567791,Owura Douglas Kwaakye,"18287 Harry Garden
+New Francishaven, IL 52831",cagyemang@example.net,+233203308684,SMS,63762,App,Email
+GHA338142,Elliott Omani,"56878 Samantha Courts Apt. 262
+West Sheilahaven, FL 31295",bonsubeatrice@example.com,0547980353,Email,17300,Website,SMS
+GHA24675,Jacob Ansa,"883 Safo Vista
+Twumasiburgh, OR 45839",ntikwesi@example.net,0502038844,SMS,71550,App,Call
+GHA963579,Eunice Yaamoa,"33545 Ata Brook Suite 995
+Emmafurt, GA 01756",agyaretina@example.net,+233269443217,SMS,88856,App,Call
+GHA301513,Nicola Ansa,"727 Obeng Courts
+Giftytown, SD 48971",ronald02@example.net,+233273895223,SMS,35691,Website,Email
+GHA624623,Mandy Ofosu,"96689 Alex Point Apt. 563
+Port Fiifishire, SD 07635",gyasipriscilla@example.com,+233201357573,Call,8729,Website,Email
+GHA17747,Lisa Abrafi,"7405 William Skyway
+Christianview, MN 60972",akwesiakowua@example.org,0276091985,Email,45324,Website,Email
+GHA747645,Dr. Louis Ntim,"428 Beatrice Burgs
+Port Timothyhaven, WA 43714",douglas01@example.net,0569664793,SMS,11181,Website,SMS
+GHA858384,Sista Charlotte Antwi,"9214 Joseph Drive Apt. 953
+East Petermouth, PA 05915",asamoahjonathan@example.org,+233249664255,Call,27259,Website,Email
+GHA867028,Grace Akyerεko,"0855 Alice Circles Suite 395
+Fosumouth, WV 54068",rofori@example.org,0241767449,Call,58283,Website,Call
+GHA417222,Maame Regina Ataa,"0872 Bernard Viaduct
+Victorport, VT 30733",albertkumi@example.com,+233542948194,Email,41801,App,SMS
+GHA863513,Nathan Nyaako,"72014 Adam Roads Suite 805
+Juliatown, AS 46957",dennisasare@example.com,0267136449,Call,58042,Website,SMS
+GHA6142,Antony Okyere,"8262 Lawrencia Flats Apt. 564
+Ataville, PA 45126",gifty71@example.net,0558740899,SMS,1260,Website,SMS
+GHA912413,Osofo Graham Ankra,"80379 Stephanie Locks
+East Karenshire, PR 49841",adwoa36@example.net,+233245847610,Email,7538,App,SMS
+GHA481746,Agya Kwabena Ata,"752 Boaten Canyon
+Julianburgh, FM 10333",mathewawuah@example.net,+233278582455,SMS,27493,Website,Email
+GHA624619,Kujoe Afirifa,"5269 Boadi Ridge Apt. 009
+Afiastad, NY 96378",patrick90@example.com,+233287951243,SMS,50920,App,Email
+GHA776794,Sylvia Kyeiwaa,"293 Ann Points Suite 439
+East Thomastown, MH 86661",michelle18@example.com,+233577002999,Email,32462,App,Call
+GHA233591,Shirley Baafi,"4062 Yeboah Mission Suite 885
+West Samuel, ND 57523",eric06@example.com,+233268723918,Call,88750,Website,Call
+GHA804329,Linda Owusu,"348 Victor Place Apt. 610
+East Sam, MI 63533",aaronokyere@example.net,0567975347,Call,10693,Website,SMS
+GHA71679,Thomas Ampofo,"71622 Frema Crescent
+Afoakwaland, SD 02696",caroline09@example.net,+233277973578,SMS,92800,Website,Email
+GHA875348,Grace Agyemang,"USNV Nyame
+FPO AP 82164",wamponsa@example.com,+233204483212,Email,80762,Website,Call
+GHA879692,Samantha Andorful-Ansomah,"4244 Douglas Well Apt. 808
+New Bernardfort, NV 26275",sarah39@example.net,+233280252473,Call,12602,App,Email
+GHA309063,Michelle Ofori,"52156 Olivia Spurs Suite 277
+Port Luketon, NJ 32351",bampofo@example.net,0577470177,Email,33865,Website,Email
+GHA485409,Francis Boaten,"1177 Harriet Falls
+Wiafeshire, MO 53802",oseidanielle@example.org,+233506479193,SMS,85416,Website,SMS
+GHA304566,Amber Akyeampomaa-Mansa,"8056 Adrian Plains Suite 656
+New Mathewburgh, MT 68361",jonathanagyemang@example.org,+233554966003,SMS,24977,Website,Email
+GHA661700,Derrick Yirenkyi-Asare,"90883 Gyasi Coves
+Rogerhaven, OK 62165",daakoaaakumaa@example.com,+233501525503,Call,75244,Website,SMS
+GHA549107,David Adomako,"6310 Abrafi Center Apt. 791
+Lake Howard, TN 25405",onyaakoaa@example.com,0560608936,Email,30298,Website,Call
+GHA101683,Rebecca Boahen-Agyei,"Unit 4963 Box 3795
+DPO AA 83268",vdufie@example.org,0261030173,Email,17447,App,SMS
+GHA624021,COmfort Tweneboa,"403 Harry Inlet
+Constancestad, IN 75271",qadusei@example.org,0240170349,Call,50894,App,Call
+GHA228127,Akosua Adomako,"4007 Oppong Path Apt. 768
+East Gemmamouth, OR 21343",cforiwaa@example.net,+233262848528,SMS,28523,App,Call
+GHA389842,Owura Marcus Bona,"756 Yaa Valleys
+Safomouth, PW 21359",adutwumwaavincent@example.net,0209611346,Call,77194,App,Call
+GHA457248,Maame Comfort Baah,"14330 Victor Village Apt. 428
+Lake Susanshire, WI 99253",yvonnemensah@example.org,0559281782,SMS,73573,App,Call
+GHA239928,Arthur Ahortor-Kwaakye,"31120 Ruth Islands Suite 888
+West Ambermouth, KS 18556",christianagyeiwaa@example.org,+233507813153,SMS,8963,App,SMS
+GHA446879,Owura Kwesi Adomah,"8513 Akoto Plaza
+Lake Judithfort, PR 61378",rosemary80@example.net,+233542403579,Call,64735,App,Call
+GHA854411,Caroline Amo-Ampoma,"24230 Russell Center
+Gemmamouth, LA 62602",vpokuaa@example.com,0263160568,SMS,2072,App,Call
+GHA923845,Ronald Bonsra,"7714 Ataa Divide Suite 289
+North Leslieside, GA 55201",christinanyaako@example.net,+233207979764,SMS,61317,Website,SMS
+GHA431242,William Afirifa,"2366 Andorful Drives Apt. 933
+Asamoachester, TX 83073",pnkansah@example.org,+233274408715,Email,91660,Website,Email
+GHA489155,Edward Asamoa,"260 Adu Locks Apt. 342
+Judithview, MP 83543",caroline80@example.net,+233280477117,SMS,84058,Website,Call
+GHA453632,Owura Samuel Prempeh,"4786 Joanna Fords Apt. 154
+Takyiberg, MI 09973",yawsonirene@example.com,+233501155068,Email,23630,App,Email
+GHA203246,Eric Omani,"622 Sam Terrace
+North Millicent, WA 03704",nyeboah@example.org,0260545775,Email,66926,Website,Email
+GHA835782,Joseph Tawia,"344 Akwasi Island Apt. 440
+Mensahborough, VI 55271",adomahbarbara@example.net,+233554246366,Call,6085,App,Email
+GHA269576,Jeremy Nyantakyi,"9158 Sheila Manor Apt. 582
+Agyapongshire, OH 83401",vincent38@example.com,+233206124989,SMS,86529,App,Email
+GHA394662,Russell Akyeamfuɔ,"32233 Prempeh Landing
+Andorfulshire, MO 39083",motiwa@example.com,0544722650,SMS,14488,Website,Call
+GHA718052,Tracy Baawia,"123 Naomi Fort Apt. 430
+Kyeiwaastad, TN 62117",hgyamfi@example.org,+233275808192,Email,10243,App,SMS
+GHA601287,Janice Darko,"8271 Kofi Spring
+Abigailside, OK 23549",bfrimpomaa@example.com,0548460756,SMS,52147,Website,Email
+GHA230892,Christian Badu,"69968 Helen Key
+Port Mandy, MT 91065",gemmaamoa@example.net,+233551743733,Email,27929,Website,SMS
+GHA200227,Ms. Grace Andorful,"31794 Fofie Oval Apt. 664
+West Mandyhaven, AR 76792",baafistephanie@example.org,0564800334,Call,92891,App,Call
+GHA630190,Owura Christian Nyame,"5854 Aba Shores
+Port Alexander, SC 61198",gifty51@example.com,0543274018,Call,6952,Website,Call
+GHA316657,Stanley Bonsu-Ata,"12601 Jeremy Haven Suite 615
+Port Hannah, SD 10479",rbona@example.com,0249428947,SMS,76449,App,SMS
+GHA748928,George Tawia,"47149 Donald Groves
+South Esiside, RI 87688",gregory74@example.net,0507238261,Call,25208,App,Email
+GHA268954,Margaret Yawson,"Unit 8139 Box 8778
+DPO AE 71018",janet66@example.com,+233282944561,Call,72426,App,Call
+GHA314066,Harry Mensa,"84096 Baafi Shores
+Koomsonstad, OR 58719",duncantawia@example.com,0269690365,Call,39266,App,Call
+GHA534879,Mary Obeng-Tawia,"13961 Peter Squares Apt. 298
+Gyasiland, AK 33578",oppongregina@example.com,+233571506522,SMS,46187,Website,Email
+GHA14989,Maria Amponsa-Otuo,"17273 Kwasi Center
+Otiberg, DE 41417",tonyntiamoa@example.org,+233570200430,Call,72136,Website,SMS
+GHA67066,Owura Jeremy Sarpong,"5572 Salomey Mission Apt. 494
+East Alexandermouth, CA 80050",nsiaarthur@example.net,+233279669665,SMS,61220,App,Call
+GHA257416,Dr. Kofi Amoasi,"51620 Agyapong Ferry
+Appiahbury, HI 51073",millicent87@example.net,+233205048499,Email,14562,Website,SMS
+GHA846690,Maame Afua Abrafi,"46261 Ampoma Brook
+New Oliviaview, CO 48559",tinakumi@example.net,0268339425,Email,67745,Website,SMS
+GHA776489,Leslie Kumi,"51501 Adomako Ways
+North Julia, FM 34152",wiafefrancis@example.net,0285207671,Email,45214,Website,SMS
+GHA470579,Sam Baa,"54555 Jasmine Lane Apt. 014
+Wendyview, NY 36718",carolineserwaa@example.com,+233245404848,Call,47357,App,Call
+GHA478353,Owura Howard Asamoah,"9508 Sarpong Loaf
+Opokuchester, OH 11811",iomani@example.org,0567988318,Email,4648,Website,Call
+GHA533730,Amber Owusuwaa,"Unit 0254 Box 3541
+DPO AP 36589",maryadomah@example.org,+233266525398,SMS,21474,App,Call
+GHA153848,Maame Annette Akoto,"91590 Ben Lodge
+Port Naomiborough, TX 08691",maureen59@example.net,0287881964,SMS,56387,Website,Email
+GHA620580,Mrs. Beatrice Adomako,"Unit 4940 Box 3620
+DPO AP 22065",amoakolucy@example.net,+233243124848,SMS,584,Website,Email
+GHA178057,Kate Asamoah-Ataa,"706 Samantha Bridge Suite 716
+Port Matthew, WV 69142",atawia@example.net,0278394098,Call,95778,Website,SMS
+GHA516680,Agya Stanley Otiwa,"75492 Roger Loop Apt. 621
+Port Gracefort, AS 83947",graceakyereko@example.org,+233577342408,Email,14889,App,Email
+GHA812492,Donald Boadi,"63507 Ata Passage Suite 363
+Jenniferburgh, ND 21165",baababonsra@example.com,0200696470,SMS,70981,App,SMS
+GHA917253,Miss Catherine Ansomaa,"USNV Boaten
+FPO AE 04641",jillahortor@example.net,+233285713355,Call,39806,Website,SMS
+GHA32431,Angela Asenso,"3081 Naomi Views
+Port Nicolastad, TX 35394",duncanantwi@example.com,0209748194,Email,54402,App,SMS
+GHA66358,Dorothy Kusiwaa,"6244 Malcolm Square
+East Caroline, FM 33591",otiwaalbert@example.com,0579402702,Call,81959,Website,Email
+GHA439285,Dora Boakyewaa,"USNV Kwarteng
+FPO AA 02268",asiedurita@example.net,+233508822338,Email,29916,Website,Call
+GHA48559,Sista Janet Afrakomaa,"9629 Boaten Tunnel Apt. 070
+East Rebeccastad, WA 64243",yawsonfrank@example.org,+233566143722,Call,78146,Website,SMS
+GHA201825,Maame Jasmine Baawia,"38817 Justin Court
+Antwiside, IL 15991",mensaruth@example.org,0550049107,Call,17615,App,Call
+GHA154899,Rita Nyaakoaa-Duah,"31163 Nana Ama Drive Apt. 975
+Port Anthony, WA 01087",karen45@example.net,+233554096575,Email,66193,App,Call
+GHA539022,Steven Boateng,"73661 Ofosu Manor
+Amaburgh, PR 14417",comfort14@example.net,0565092512,SMS,25701,App,Email
+GHA614331,Lorraine Amo,"25327 Sam Crossing Apt. 938
+Mensahstad, UT 20420",ameliaakyeamfuo@example.org,0286934175,SMS,21007,Website,Call
+GHA716336,Debra Kwarteng,"144 Nyantakyi Burgs
+Badumouth, MO 51545",caroline55@example.net,+233208844185,Call,14619,Website,SMS
+GHA726140,Carl Amponsah,"9831 Asiedu Pike
+Joshuaton, PR 63151",veronicadaako@example.com,+233276356712,SMS,71322,Website,Email
+GHA502664,Gregory Danso,"085 Agyapong Cliff
+Nsiatown, GU 64469",asieduwaabruce@example.net,+233244300530,Call,43270,App,SMS
+GHA390056,Adam Afoakwa,"51472 Agyemang Junctions
+Agyareton, KS 90420",mandy99@example.net,0569228258,Call,85205,Website,SMS
+GHA569036,Frank Yirenkyi,"557 Amoa Alley Suite 244
+Otiwatown, MD 91023",kwasi60@example.net,0545627341,SMS,41829,App,Email
+GHA494192,Dennis Tweneboa,"802 John Oval Apt. 757
+Port Pamela, DC 80344",susan81@example.org,+233577884383,Email,39354,Website,Call
+GHA308516,Dr. Nigel Nyaako,"697 Yirenkyi Burg
+Charlotteberg, NV 18910",gakoto@example.com,0274945097,Email,48241,Website,Call
+GHA123069,Kevin Amoa,"7834 George Islands Apt. 808
+Harrietton, KS 35895",yeboaalbert@example.org,0265431741,Email,46085,App,Email
+GHA675914,Dora Ata,"488 Antony Lodge
+Davidville, SD 72626",jenniferansa@example.org,0507731360,SMS,59430,App,Email
+GHA144260,Mathew Safo,"36862 Karikari Motorway Suite 177
+Afrakomaamouth, DE 05152",foriwaamargaret@example.net,+233246956839,Call,76407,Website,SMS
+GHA740304,Nathan Adutwum,"700 Boatemaah Wells Suite 587
+Animaside, MO 78342",karen15@example.net,+233288503163,SMS,46064,Website,Email
+GHA938834,Maame Afia Boaten,"8963 Kyei Vista Suite 663
+Lake Emma, AZ 04683",andrew82@example.org,0574636392,Email,28975,App,SMS
+GHA428277,Eunice Adomah,"4845 Serwaa Course Suite 825
+Amabury, NE 10556",iasiedu@example.net,+233554398043,Email,5304,App,Call
+GHA359375,Malcolm Twumasi,"75039 Antwiwaa Crescent
+South Catherine, CA 65751",amponsayaa@example.org,0269038590,Call,76046,Website,SMS
+GHA492827,Owura Fiifi Koomson,"2520 Nti Inlet
+Port Denise, ID 21710",asieduwaafrank@example.net,+233579122883,Email,12886,App,Email
+GHA39276,Ernestina Agyapong,"70507 Samuel Burgs Suite 045
+Joyceport, NY 69656",adriansafo@example.org,+233562191390,Call,94414,Website,Email
+GHA674343,Arthur Asiedu,"434 Kyerewaa Burg Apt. 451
+North Millicent, ND 73743",paulyirenkyi@example.net,0551648890,SMS,94349,App,Call
+GHA579725,Sista Mandy Ofori,"0301 Elizabeth Tunnel Apt. 423
+Akyeamfuɔmouth, IN 90601",okyereannette@example.net,0500798027,SMS,81295,Website,SMS
+GHA492733,Isaac Badu,"11535 Angela Lock
+Graceview, MI 55967",francesca25@example.org,+233278965132,Call,3875,App,SMS
+GHA898135,Miss Charlotte Omani,"560 Stephen Village
+East Afuaville, NH 68053",frimpomaawilliam@example.com,0576560887,Call,86440,App,Call
+GHA301736,Hannah Abrafi,"794 Nyaako Mill
+New Nicholas, ID 39842",maryboatemaa@example.net,0540299767,Call,48816,Website,Call
+GHA212130,Kwesi Gyamfi,"1911 Kwabena Mills Apt. 993
+Omaniport, MA 50296",asantecharlotte@example.org,0548457190,Email,77316,Website,SMS
+GHA59130,Pamela Ansomaa,"49253 Agyare Road
+Jennifermouth, RI 79787",doppong@example.net,0279186373,Email,92355,Website,Call
+GHA288586,Osofo Francis Asenso,"08666 Ansa Meadows
+Kumiview, KS 52373",stephen63@example.net,0572088403,SMS,28189,Website,Email
+GHA272860,Priscilla Ntim,"9661 Kwame Station
+South Lawrence, LA 90569",jboadu@example.com,0203885651,SMS,87191,App,Call
+GHA265652,Mark Bonsu,"813 Tawia Oval
+West Eliabeth, FM 14342",lukeyawson@example.net,0574766138,SMS,61020,App,Call
+GHA370758,Veronica Yeboah,"00237 Koomson Hills Apt. 610
+South Alexborough, NV 19304",kwaakyemaureen@example.com,0541416904,SMS,39893,App,Email
+GHA679474,Dr. Max Ntiamoa,"43788 Kwarteng Crossing
+Russelltown, MP 10007",olivia75@example.com,0289462410,SMS,4835,App,Email
+GHA553268,Amelia Sarpong,"84858 Katherine Crescent
+Darkoborough, IA 58557",ookyere@example.net,0500885844,SMS,43014,Website,Email
+GHA632255,Maame Tracy Ahortor,"32099 Boaten Square Suite 251
+East Georgina, AK 84093",joshuaduah@example.org,0242674446,SMS,61860,App,SMS
+GHA344819,Mama Baaba Ata,"PSC 1958, Box 6895
+APO AE 70965",boadidenis@example.org,0543932452,Email,49477,Website,SMS
+GHA174841,Janet Osei,"6508 Paul Burgs Apt. 763
+Annside, PW 94398",robert11@example.org,0560524746,SMS,22635,App,Email
+GHA869589,Catherine Ntiamoa,"54012 Mary Islands Apt. 154
+West Sarahville, MO 04778",agyapongadrian@example.com,+233579420985,Email,40108,Website,Call
+GHA986805,Lorraine Darko,"49672 Jasmine Dale
+Baduview, ND 66048",mensakwaku@example.com,+233241360919,SMS,66344,Website,Call
+GHA237555,Dr. Phillip Duah,"1376 Quartey Gateway
+West Susan, PR 80576",boakyewaaruth@example.com,+233246498046,SMS,15997,Website,Call
+GHA84056,Harry Gyasi,"585 Akyeampomaa Shoal Suite 200
+Duahhaven, UT 17635",ansajack@example.org,0203861140,Call,71784,Website,Email
+GHA541715,Charlotte Akoaa,"5372 Denis Parkways
+Aduside, SD 40577",danielgyamfi@example.com,0206613655,Email,24745,Website,SMS
+GHA886900,Owura Antony Asamoa,"810 Elliot Motorway
+Karlside, IA 31591",bafoakwa@example.net,0260262973,Call,96218,App,Email
+GHA206529,Maame Sarah Serwaa,"3106 Susan Lakes
+North Joel, TN 41980",dorothy30@example.org,0201090600,Call,62717,App,Email
+GHA523927,Thomas Ahortor,"7498 Tony Lights Suite 862
+North Terence, VA 04642",michelleadwubi@example.com,+233571035343,SMS,50180,Website,SMS
+GHA662681,Jonathan Ntiamoa,"1736 Kofi Plain Suite 076
+Nsiaport, OK 82026",patrickboadu@example.com,0550166544,Email,89607,Website,Call
+GHA695034,Regina Yeboah,"1543 Bonsra Mall Apt. 680
+Edwardtown, NE 74136",gemma12@example.org,+233205364755,Email,51327,App,Call
+GHA512495,Mrs. Gifty Nyame,"Unit 0092 Box 2333
+DPO AA 27328",appiadanielle@example.com,0549468916,SMS,40446,App,SMS
+GHA391852,Sarah Tutu,"938 Andrew Harbors
+Nyantakyihaven, PA 51990",malcolmbadu@example.org,0543470964,Email,90386,Website,Email
+GHA557442,Danny Boaten,"18335 Jeremy Pike
+Judithshire, WA 29303",qkusi@example.net,0287945011,Call,590,App,SMS
+GHA916366,Elliott Akoto,"44006 Michael Shoals
+Philiptown, NY 48618",karikarialex@example.org,0274908262,SMS,59333,App,SMS
+GHA834379,Dr. Duncan Anokye,"3182 Prempeh Road
+Victoriaborough, MA 60131",appiahelliot@example.org,+233552436694,SMS,85454,Website,Email
+GHA816812,Aba Andorful,"33247 Akoto Hills Suite 704
+Johnburgh, VI 08370",asiedukaty@example.com,+233264135947,Call,97450,App,Call
+GHA876920,Bernard Adusei,"23004 Emily Crossing Apt. 414
+Afuafurt, KS 70020",oboahen@example.net,0578731581,Call,80799,App,Call
+GHA291678,Stanley Twumasi,"54229 Obeng Springs
+Lake Victoria, DC 70214",ruth09@example.net,+233271782254,SMS,85505,App,SMS
+GHA37175,Kwesi Karikari,"668 Ataa Route
+Anokyetown, MT 69924",russellopuku@example.org,+233568743787,Call,33441,Website,SMS
+GHA446444,Eunice Obeng,"897 Yaa Brooks Apt. 574
+Jamesmouth, PA 75671",antony12@example.org,0555779175,SMS,80004,Website,SMS
+GHA947305,Kofi Osei,"4122 Bonsra Knolls Suite 257
+Ankrahaven, ID 67058",susan84@example.org,0242870901,Call,30727,Website,Email
+GHA45316,Mr. Alex Oti,"1824 Justin Island Apt. 771
+Martinview, NH 73318",akwesintiamoa@example.net,+233269113421,SMS,59147,Website,Call
+GHA8234,Constance Baafi-Gyamfi,"USNV Otuo
+FPO AE 68408",oamponsah@example.net,0569415954,SMS,17783,App,Email
+GHA977218,Richard Andorful,"526 Akyaa Shoals Apt. 834
+Lucyton, RI 41244",raymond37@example.com,+233504299307,Email,16720,App,Email
+GHA307177,Sarah Yaamoa,"8633 Alex Trace
+Frimpomaaport, MS 51921",akyerekoamber@example.org,+233272932882,Email,24170,Website,SMS
+GHA709016,Pamela Amoanimaa,"5764 Takyi Field
+Frederickbury, FM 86335",gifty32@example.com,0286712849,SMS,5091,App,SMS
+GHA675175,Mama Catherine Safoaa,"USS Ata
+FPO AA 92281",lawrenciaakyereko@example.org,+233270599926,Email,8663,App,SMS
+GHA236518,Bruce Asante,"160 Gyasiwaa Ports
+Boakyetown, OK 47408",cgyasiwaa@example.org,0262718941,Email,78193,App,SMS
+GHA365550,Regina Koomson,"769 Asiedu Crossroad Apt. 705
+Ataachester, MH 05380",roselynnkansa@example.com,0568053827,Call,55524,App,SMS
+GHA259332,Dr. Karen Nsia,"286 Anima Terrace Suite 403
+Amponsaside, CT 47464",katy16@example.net,+233263625653,Call,50807,Website,Call
+GHA227521,Dr. Julian Donkor,"94309 Nkrumah Meadow Apt. 098
+Akyeamfuɔland, WY 73393",ronaldowusu@example.com,0265826208,Email,39632,App,Call
+GHA673430,Ann Agyapong,"USCGC Yaamoa
+FPO AA 22532",jnsia@example.org,0273784250,Email,60507,Website,SMS
+GHA948898,Angela Adoma-Boakyewaa,"68280 Francis Spurs Apt. 520
+West Akumaaberg, SC 98593",kwabena86@example.com,+233502488731,Call,94438,Website,SMS
+GHA441180,Kwadwo Asiama,"279 Susan Ramp Suite 072
+Daakoaaport, ID 73167",kwaakyeelliott@example.net,0540295460,SMS,64845,App,Email
+GHA306814,Osofo Maame Hannabel Asiama,"86323 Ansa Shoal Apt. 594
+New Juliana, WI 54332",asensosheila@example.com,0569655993,SMS,83872,Website,Call
+GHA56654,Mr. George Bonsu,"1850 Hannabel Island
+Nimakoahmouth, VI 10896",sarah27@example.com,0564149212,SMS,59548,App,SMS
+GHA80528,Justin Boadu-Amoasi,"39448 Louis Trail Suite 277
+Victorstad, VT 78930",teresafrema@example.net,+233269752370,SMS,96900,Website,SMS
+GHA287574,Awesi Amoa,"PSC 4903, Box 1973
+APO AP 24612",aaron77@example.org,+233542969207,Call,27213,Website,Call
+GHA270847,Kwame Safo,"60486 Rosemary Junction
+Nyameton, ID 92724",amponsaekow@example.net,0503452657,Call,33849,Website,SMS
+GHA983256,Dr. Francis Kwarteng,"459 Kumi Landing
+South Eunice, TX 77257",boatemaamaureen@example.org,0555192905,Email,10298,App,SMS
+GHA296729,Aaron Antwi-Oti,"05871 Nyantakyi Locks
+Yeboafort, NJ 98334",kenneth12@example.com,+233504282124,SMS,78897,App,Email
+GHA793664,Daniel Darko,"407 Ampadu Vista
+Bonsrafurt, IA 96857",labrafi@example.com,0574336987,Call,30659,App,Email
+GHA259765,Shaun Ata-Adomah,"8466 Russell Freeway Suite 103
+New Christian, NJ 41479",dsafoaa@example.org,+233270875301,Call,61172,App,Email
+GHA129944,Charlotte Appia,"10646 Awuah Bridge Suite 318
+Akosuatown, CA 15209",sandra49@example.org,0501611719,Email,97977,Website,Email
+GHA794173,Anthony Otiwa,"591 Lydia Corners Apt. 909
+Akuachester, MO 27398",nkansageorge@example.net,0283204193,Call,14896,App,Email
+GHA933829,Lucy Antwiwaa,"21785 Gyamfi Hollow
+East Kwesi, OK 01721",clifford34@example.com,+233569072628,SMS,20698,Website,Call
+GHA970734,Karl Fofie,"7009 Kusi Walk
+South Kevin, AK 65060",kofi50@example.com,+233249267389,SMS,93024,Website,Email
+GHA54921,Sandra Tawia,"628 Jeffrey Shoal
+Twumasifort, CO 94738",patriciaamoako@example.com,+233201892698,Email,8673,Website,Call
+GHA654339,Marilyn Afoakwa,"689 Baa Crossroad
+Ahortorbury, NV 84177",kwartemaanana-ama@example.net,+233569611382,Email,63051,Website,Call
+GHA735941,Agya Gregory Boadu,"67135 Ruth Branch
+Dwamenaburgh, CO 78627",kofiboatemaa@example.net,0279056564,Call,50319,App,Email
+GHA290500,Ms. Ama Daakoaa,"43427 Kwadwo Rapids
+East Akuamouth, MA 89068",robert82@example.org,+233207982552,Call,92855,Website,Email
+GHA54386,Janice Kwartemaa,"204 Amponsa Mountains Suite 959
+Bonamouth, FL 53193",agyareelizabeth@example.net,0573589863,Email,18852,Website,Email
+GHA714182,Ms. Catherine Boatemaa,"8501 Akyena Station
+Lake Kwasihaven, WI 79070",oandorful@example.com,0577260571,SMS,80016,Website,SMS
+GHA980140,Dr. Robert Quartey,"3916 Dufie Trail Apt. 966
+North Rosemary, KS 66152",hamo@example.com,+233501195171,SMS,78872,Website,Email
+GHA254369,Ekow Akyena,"2005 Donkor Islands
+Lake Beatrice, CA 37521",roselyn77@example.org,+233503738807,SMS,65125,App,SMS
+GHA242231,Jonathan Badu-Tutu,"PSC 7846, Box 7575
+APO AP 25671",ragyei@example.com,+233562071001,Call,66124,App,Email
+GHA820091,Peter Kumi,"31467 Patricia Manor
+North James, AR 03206",abigail74@example.org,+233271017056,Email,44012,Website,SMS
+GHA473151,Vida Gyasi,"0065 Russell Divide
+East Euniceton, KY 28411",ampofostephanie@example.com,+233265299335,Email,39038,App,Email
+GHA80567,Joseph Asamoah,"42581 Julia Motorway
+Ampaduton, MD 71821",malcolm44@example.net,0272246971,Email,31182,Website,Email
+GHA193899,Graham Asiama,"59251 Gifty Fords Suite 362
+Asensofurt, FL 10074",joycetakyi@example.com,+233572677446,SMS,30313,App,SMS
+GHA472651,Paula Foriwaa-Adoma,"455 Agyapomaa Lock
+Port Jennifer, NJ 23150",dufiejosh@example.com,0564588727,Call,32475,App,Email
+GHA857358,Kate Boatemaa,"694 Kyei Valleys Apt. 674
+Ntimberg, NM 79457",lucyotiwa@example.org,+233279359792,SMS,9312,App,Call
+GHA998207,Amelia Asieduwaa,"23423 Kwesi Tunnel Suite 054
+South Williamstad, MH 02791",opokugerald@example.net,+233247701302,Call,7827,App,Email
+GHA640760,Agya Yaw Adomah,"12830 Amo Lodge
+Agyeiwaamouth, OK 20159",zdwamena@example.org,+233270542763,Email,63628,App,Call
+GHA76112,Bruce Appia,"063 Yaw Terrace Suite 150
+Afiaburgh, RI 62849",jagyapong@example.net,0503620225,SMS,3742,App,Call
+GHA185638,Mr. Kenneth Akoto,"911 Deborah Extensions Suite 795
+Lake Alexanderberg, KY 63050",janetbona@example.net,0275537566,Call,59621,App,Email
+GHA790742,Colins Nyame,"98024 Ampofowaa Plains
+Erictown, MI 63788",karen40@example.net,+233578403139,SMS,84214,Website,SMS
+GHA621458,Kwaku Nkansa,"40903 Prempeh Creek Apt. 454
+Lawrenciabury, CO 44943",pgyamfiaa@example.com,+233268043995,SMS,65028,Website,SMS
+GHA629540,Kojo Ofosu,"134 Dufie Mountains
+Carlstad, TX 59830",otuotony@example.com,0283957909,Call,7681,Website,SMS
+GHA461231,Agya Andrew Koomson,"327 Bona Valleys Apt. 140
+Port Maryshire, KS 40633",ansomahgerald@example.org,+233260940837,Email,5913,App,SMS
+GHA956382,Mandy Nyantakyi,"075 Akyeamfuɔ Junctions
+Vincenttown, IA 01076",akyenatina@example.com,0504695011,SMS,8589,App,Email
+GHA779994,Dr. Annette Gyamfi,"9823 Joe Tunnel Suite 228
+Lake Danny, MP 80219",tkumi@example.com,0245022955,Call,78366,App,Call
+GHA815568,Elizabeth Daakoaa,"6187 Joanna Lane Suite 351
+New Rosemaryhaven, AK 53146",wopuku@example.net,+233287802481,SMS,49533,Website,SMS
+GHA69306,Felicia Boaten,"51393 Amanda Cliff Suite 000
+Port Amberfort, AS 62237",francis22@example.com,0569529898,Email,86951,App,Call
+GHA207662,Grace Agyapong,"30232 Opoku Flat Suite 315
+Karenchester, MD 93300",raymond66@example.com,+233564896105,Email,53206,Website,Call
+GHA53123,Henry Gyasi,"2032 Boaten Spurs
+Leslieland, VT 02543",comfort40@example.net,0207879812,Email,97728,App,Call
+GHA723627,Mr. Anthony Boadi,"327 Adam Run Apt. 632
+New Robertmouth, FL 83938",pdaako@example.net,0241089121,Call,9742,App,SMS
+GHA105499,Awura COmfort Tutu,"9558 Oppong Villages Apt. 388
+East Sarahport, VT 98156",roselyn95@example.net,0269735373,SMS,6942,Website,SMS
+GHA630822,Henry Awuah,"735 Bonsra Junction Suite 580
+Adwubiville, GU 75219",gyasijohn@example.net,+233206294543,Call,16745,App,Email
+GHA803772,Ms. Elizabeth Karikari,"93598 Wiafe Prairie
+Baduland, LA 00875",albertampofo@example.net,0200831843,SMS,12716,App,SMS
+GHA810533,Amelia Danso,"3521 Shirley Rest Apt. 924
+Katherineport, WY 99344",robertkarikari@example.com,0573375063,Email,77480,App,Call
+GHA338787,Justin Asante,"041 Obeng Keys
+South Kwasiview, NY 84950",adomakoirene@example.com,+233568964056,Call,5888,App,SMS
+GHA360547,Hannah Yirenkyi-Anokye,"60218 Josephine Parkways Suite 427
+Amoakoport, NJ 63389",tawiacarl@example.net,0285098083,SMS,55611,Website,Email
+GHA34960,Dorothy Karikari-Boateng,"PSC 5923, Box 8027
+APO AP 05459",yeboalawrencia@example.net,+233286943390,Call,5946,Website,SMS
+GHA349420,Dr. Frank Badu,"8286 Akyaa Plains
+Karikarimouth, OR 11236",christina94@example.net,+233579323348,SMS,55007,Website,Call
+GHA906868,Juliana Mensah-Anima,"33611 Kwadwo Rapids
+West Colinsmouth, MP 03254",duncan40@example.com,+233285123488,Call,91083,App,Email
+GHA812009,Hannabel Akoto,"810 Yaamoa Knolls Suite 028
+North Joyce, NH 93205",akuaadusei@example.net,0276051911,Email,22608,App,Email
+GHA67196,Maame COmfort Appiah,"10650 Opoku Spurs
+North Aaronhaven, MS 11500",janice74@example.org,0268444411,SMS,84680,Website,SMS
+GHA65653,Janet Baa,"973 Nimakoah Square
+Port Rosemary, ID 26742",dorcas35@example.com,0282569075,SMS,10555,App,SMS
+GHA81933,Miss Janet Gyamfi,"826 Hannabel Light Suite 736
+South Harriet, WI 45021",agyeisylvia@example.net,0245182565,SMS,31442,Website,Call
+GHA345006,Agya Eric Opuku,"02183 Akumaa Harbors
+New Fiifiside, AK 26524",nsiabenjamin@example.com,0266687252,Email,65462,App,Call
+GHA296507,Osofo Paul Adutwum,"Unit 6804 Box 9839
+DPO AE 08894",janiceagyare@example.net,0244939882,Email,80723,App,SMS
+GHA704425,Afia Pokuaa,"20204 Opoku Isle
+North Caroline, KY 91450",constancefrimpomaa@example.com,+233288369499,SMS,95564,Website,Call
+GHA899587,Owura Kofi Asamoah,"2067 Lucy Mountains Suite 616
+South Susanbury, MS 58917",jakeotuo@example.net,+233205106975,Email,86480,Website,SMS
+GHA566366,Ms. Pamela Akyaa,"654 Gyasiwaa Motorway Suite 446
+Kumitown, DC 27542",jake86@example.com,0208765603,Email,69780,App,Call
+GHA619048,Dora Boateng,"8380 Josiah Meadow
+South Dennisshire, IN 68617",victoria33@example.org,+233550278180,SMS,2108,Website,Email
+GHA997586,Ernestina Agyapong,"992 Rachael Walk Apt. 734
+Kyeiwaaside, MD 09854",kweku68@example.org,0578544212,Call,61685,Website,SMS
+GHA803803,Jason Ntiamoa,"Unit 8393 Box 4745
+DPO AP 15759",williamnsia@example.net,+233289519473,Email,90867,Website,Email
+GHA601415,Nicholas Ofori,"321 Michelle Alley Apt. 983
+East Ekow, IN 37054",jamesprempeh@example.org,0541513778,SMS,7918,App,Email
+GHA477761,Sharon Asenso-Frimpomaa,"596 Elizabeth Ridge Apt. 845
+Lake Yawberg, MP 19998",ygyamfi@example.com,0241670512,Email,26516,Website,Email
+GHA12297,Dr. Roger Adu,"22557 Simon Underpass
+New Kwadwofort, CO 75039",agyapongcarl@example.org,+233551798864,Call,34569,Website,SMS
+GHA339595,Agya Jonathan Akowua,"7444 Kyeiwaa Glens
+Afualand, TN 53899",daniel45@example.net,0509577073,Email,48761,App,Email
+GHA522342,Joanna Okyere,"427 Elliott Drives Apt. 292
+Lake Kwakumouth, CT 89792",famoanimaa@example.net,0243040396,Call,38668,Website,SMS
+GHA391581,Mrs. Samantha Awuah,"6642 Yaamoa Points
+Nicolaburgh, MT 62565",bampoma@example.net,+233550523262,Call,19034,App,SMS
+GHA99991,Anthony Osei,"USNV Akyena
+FPO AP 20057",tankra@example.net,+233540998010,Call,21034,App,SMS
+GHA156378,Akosua Ofosu,"043 Natalie Rapids Apt. 277
+West Mary, OH 98209",hamo@example.net,0204259885,SMS,60655,Website,Call
+GHA668319,Kweku Ata,"Unit 7219 Box 6822
+DPO AE 94926",dannydufie@example.com,0509493428,SMS,18559,Website,SMS
+GHA626588,Amber Dwamena,"3475 Safo Stream
+Dansomouth, WA 48492",asiamaakua@example.org,+233543182672,SMS,28084,Website,Call
+GHA623364,Jeremy Obeng,"02121 Christian Port
+New Shirley, NC 55826",margaret56@example.com,0503054556,SMS,56234,App,Call
+GHA250089,Vincent Asamoah-Akyena,"966 Tina Bridge
+Benjaminton, NE 22693",georgiaamoa@example.org,0553288794,SMS,37593,Website,SMS
+GHA2653,Veronica Osei,"685 George Valley
+East Josephineport, AL 76489",agyapomaayvonne@example.com,+233284666577,SMS,92678,Website,SMS
+GHA494226,Regina Boaten,"44489 Patricia Glens
+East Michelle, KS 06273",nkansahdorothy@example.com,+233205514507,SMS,95786,App,Email
+GHA149695,Denis Amoa,"73400 Kyei Burg
+Afirifamouth, LA 65477",gyamfileslie@example.net,0544002254,SMS,22292,App,Call
+GHA57924,Jack Ankra-Baah,"1843 Nkrumah Harbor
+South Constance, AR 77255",skarikari@example.com,0279123806,Call,86882,Website,SMS
+GHA395351,Louis Sarpong,"917 Amoasi Rue
+West Kofihaven, MP 69285",agyeirosemary@example.com,0282428864,SMS,71882,App,SMS
+GHA590833,Owura Mark Ansa,"3570 Katherine Prairie
+Michelleport, MD 73978",pkumi@example.net,+233288158509,Email,15120,Website,Call
+GHA538508,Joojo Mensa-Dwamena,"8747 Akoaa Ferry Suite 085
+West Terencechester, MP 23070",francescaboadu@example.net,+233553892719,Email,3804,App,Call
+GHA474561,Sylvia Agyemang,"90061 Harry Cliff
+Amoasiville, KY 06013",barbaratwumasi@example.org,+233552757720,Email,6793,App,Call
+GHA244026,Gregory Mensah,"9110 Lawrencia Curve
+Kyleport, WV 14848",nicola33@example.net,0556181972,Email,68504,Website,Email
+GHA918332,Charlotte Adu,"5810 Agyare Mountains Suite 991
+East Yaw, SD 94416",jnti@example.com,+233285101786,Email,67764,Website,Email
+GHA485859,Henry Otuo-Nsia,"745 Ankra Path Suite 279
+Opokuberg, MN 03693",victor29@example.org,+233564343960,Email,62214,App,SMS
+GHA190363,Bernard Ampofo,"Unit 7950 Box 3213
+DPO AP 73869",owusuelizabeth@example.com,0569371701,Call,2289,App,SMS
+GHA508446,Leslie Afoakwa-Baa,"24405 Yaw Mall
+North Elliotland, OK 60569",asamoairene@example.org,+233270798486,Call,46040,Website,Email
+GHA614982,Tracy Frimpomaa,"30709 Colins Spur
+New Joojo, WI 32305",kwadwo66@example.com,+233272475206,SMS,7734,App,Call
+GHA622599,Mr. Samuel Kusi,"23110 Danielle Ranch Apt. 232
+South Natasha, FM 78379",jasonagyapong@example.net,+233556101809,Email,52781,Website,Email
+GHA795303,Leslie Karikari-Asare,"322 Bonsu Cliff Apt. 286
+North Julian, SD 11009",nicholasacheampong@example.org,+233507173925,SMS,28634,Website,Call
+GHA987121,Robert Gyamfi-Akyerεko,"256 Nkrumah Circles
+Adomahmouth, KY 41720",georginaasare@example.net,+233261716066,Call,70935,Website,SMS
+GHA277804,Aba Acheampong-Safoaa,"4714 Max Knolls Suite 900
+Lorrainechester, GU 18442",amelia46@example.net,0550067562,Call,61318,App,Call
+GHA421271,Caroline Asare,"944 Ann Keys
+South Jonathan, AZ 75067",nfrimpomaa@example.net,+233503480300,Call,71216,Website,SMS
+GHA743285,David Yeboa-Tutu,"USNV Pokuaa
+FPO AE 68548",opokulucy@example.net,0500894063,Call,14687,App,Call
+GHA888161,Caroline Gyasi,"PSC 1198, Box 7500
+APO AE 99371",georginagyamfiaa@example.com,0500476043,Email,35454,App,Call
+GHA67901,Juliana Adwubi-Akowua,"952 Kwaakyewaa Track
+Annetteville, WV 62940",cofori@example.net,0261460135,Email,46390,App,Email
+GHA511669,Tom Darko,"USNV Kwarteng
+FPO AA 91888",ibaah@example.org,0570998864,SMS,12199,Website,Call
+GHA528779,Owura Adam Takyi,"341 Kyeiwaa Prairie
+Margaretland, MD 39567",kwabenasarpong@example.org,+233565798581,SMS,65104,Website,SMS
+GHA277117,Colins Boadu,"1164 Boadu Grove Suite 966
+Asamoahtown, SC 70252",kosei@example.net,0289080467,Email,63602,App,Email
+GHA499310,Amanda Yawson,"09077 Pamela Neck Suite 002
+Akyeamfuɔshire, WI 67238",duahjulie@example.com,+233576780282,SMS,17293,Website,Call
+GHA747120,Nicholas Wiafe-Asamoah,"4661 Veronica Rest Apt. 644
+Ansomahport, ID 47497",elliotdwamena@example.net,0568110068,SMS,9135,Website,SMS
+GHA365835,Mr. Jason Yaamoa,"3116 Agyapong Mountains Suite 948
+West Paulmouth, LA 15325",kujoe33@example.org,+233579017872,Email,61348,Website,SMS
+GHA110896,Felicia Akyena,"0690 Rebecca Fork Apt. 650
+Lake Julie, ND 39358",akoaaroger@example.net,+233263048402,SMS,61585,App,Call
+GHA420399,Sista Awesi Koomson,"3721 Susan Track Apt. 797
+Mensahberg, AK 96058",wiafethomas@example.net,0555346037,SMS,55006,Website,SMS
+GHA221940,Jonathan Tutu,"13421 Asare Station
+East Kyle, TX 68255",kampofo@example.com,0266356910,Email,87568,App,Email
+GHA705465,Douglas Osei,"9219 Fosu Locks
+New Adam, VT 65672",elliott59@example.com,0557960555,Call,46659,Website,Email
+GHA815174,Ann Agyei,"51828 Abigail Pines
+West Amberstad, GU 35313",amoakosheila@example.com,0558122377,Email,7145,Website,SMS
+GHA762887,Dr. Salomey Aboraa,"77913 Adusei Fork Apt. 411
+Aduseiberg, PW 54522",kweku66@example.net,0565857533,Email,64085,App,SMS
+GHA384998,Veronica Owusuwaa,"57936 Safo Lodge Suite 615
+Benjaminshire, FM 42238",fanima@example.net,+233506606582,SMS,21288,App,Email
+GHA950730,Francesca Kwaakyewaa,"914 Asamoa Bypass Suite 567
+North Andrew, CT 14475",rebeccaampadu@example.org,+233246923467,SMS,37721,Website,Email
+GHA973533,Lawrencia Ansomaa,"846 Janice Drive
+Amponsastad, ME 46642",maria07@example.com,+233244958606,SMS,39632,App,Email
+GHA301145,Clifford Ofosu,"10513 Lucy Fall
+Otiport, CT 29099",philipboakye@example.org,0547506073,Email,15287,Website,Email
+GHA208265,Sheila Yeboa-Asamoah,"367 Yaamoa Brooks Suite 227
+New Edward, MO 51256",akumaaboahen@example.net,0578665561,Email,5243,App,Call
+GHA432341,Mr. Simon Nsia,"2573 Josephine Ridges Apt. 640
+West Natasha, NY 57752",zacheampong@example.com,0243082721,Email,85627,Website,SMS
+GHA100129,Ms. Janice Nkansah,"407 Danso Groves
+North Awesiburgh, OR 21547",linda59@example.com,+233205205297,Call,44132,Website,Call
+GHA932289,Owura Steven Akyeamfuɔ,"500 Natalie Stravenue Apt. 035
+Port Julie, SD 40704",joseph88@example.org,0545436019,Email,3238,Website,Call
+GHA373816,Jill Gyamfi-Pomaa,"481 Tracy Village Suite 775
+New Gordonchester, MA 68598",amoasicatherine@example.net,+233508191773,Call,7843,Website,Call
+GHA873588,Julian Yeboah,"646 Abena Islands Suite 786
+Akyenatown, DE 15080",philip24@example.org,0554591849,Call,64321,Website,Email
+GHA482750,Matthew Baawia,"3877 Katy Prairie
+Naomiside, NM 39205",debraafoakwa@example.com,0576332703,Email,72284,Website,Call
+GHA196857,Natasha Fosu,"379 Boakye Road Suite 721
+South Kwaku, AK 17812",darkopaul@example.org,+233263422682,Call,21689,Website,Call
+GHA810495,Gordon Osei,"42372 Asiama Mills Suite 349
+New Alexandershire, PA 26989",mandygyasi@example.com,+233562876411,Call,35764,App,Call
+GHA412573,Sista Rachel Wiafe,"2757 Adutwumwaa Unions Apt. 474
+Aboraaberg, PA 46023",sdaako@example.net,+233200206125,Call,34352,Website,SMS
+GHA771370,Dora Akyaa,"024 Debra Rue
+Port Maxfort, PW 20949",okwartemaa@example.com,+233579068245,Email,10649,Website,Call
+GHA314985,Sista Emma Kwarteng,"82829 Danielle Squares
+Lake Donald, TX 35744",wiafealex@example.org,+233263069081,SMS,93702,App,Email
+GHA356368,Catherine Kyeiwaa,"46054 Darko Loaf Apt. 640
+Fofiechester, OR 85330",onsia@example.org,0277381099,Call,76338,Website,Email
+GHA597995,Mrs. Maria Agyare,"1195 Asieduwaa Street
+East Julieview, AS 25145",yeboahclifford@example.com,0263229651,Email,37635,App,Email
+GHA742833,Mr. Adrian Appiah,"21873 Akowua Locks Apt. 804
+Dannybury, NV 60351",ytutu@example.org,+233508619354,Email,72312,Website,SMS
+GHA362840,Salomey Nyame,"23139 Baafi Hills Apt. 962
+East Brucemouth, HI 73776",akyeampongjanet@example.org,0542373067,SMS,8984,App,Email
+GHA410788,Lydia Yeboa-Akoto,"8047 Raymond Passage
+Lake Rosemarystad, ME 25766",ruth64@example.net,0205813857,SMS,25472,App,SMS
+GHA965105,Ruth Amo,"9407 Akowua Tunnel Suite 352
+New Hannahburgh, ME 29792",loppong@example.net,0504808428,Email,53153,Website,SMS
+GHA607630,Duncan Danso,"6995 Constance Ridges
+Takyitown, OH 90018",dennisadusei@example.org,+233567960256,Email,79690,Website,Email
+GHA59865,Stephen Bona,"298 Adomako Heights Apt. 095
+Katefurt, AL 55066",lisa46@example.org,+233568209497,Call,46739,Website,Email
+GHA54559,Karl Anokye,"8856 Bonsra Lakes Apt. 365
+South Kwadwomouth, NC 86735",twumasirussell@example.com,0579159100,Email,72259,Website,Call
+GHA641599,Arthur Akyena,"61432 Tony Spring Suite 813
+East Joe, PA 46479",emma37@example.net,+233573482772,SMS,57884,App,SMS
+GHA560972,Maame Veronica Kusi,"931 Agyapomaa Meadows Suite 814
+South Malcolm, AR 07830",simontiwaa@example.com,0243507069,Email,75941,App,Email
+GHA795180,Christina Foriwaa-Akyeampomaa,"1401 Fosua Crescent
+Serwaaburgh, OH 45864",annetteasenso@example.net,0263152228,Email,10644,App,SMS
+GHA303546,Douglas Opuku,"45281 Kwame Brook
+New Hannahland, MP 16012",zadutwum@example.net,+233572005811,Email,65999,App,SMS
+GHA969529,Akua Safo,"9462 Appia Row Apt. 793
+West Catherine, VT 35025",bonarachel@example.org,0208159290,Email,77437,App,SMS
+GHA822682,Alex Gyamfi,"46977 Carl Spurs Suite 148
+Lake Annette, CO 58388",hboaten@example.com,+233263699340,Email,61794,App,SMS
+GHA592570,Owura Clifford Kumi,"9662 Akosua Garden Apt. 226
+Lake Ekowmouth, NY 69876",paula66@example.net,0567868311,SMS,4644,App,Email
+GHA515585,Miss Dorothy Ansomaa,"15234 Vanessa Mount
+East Stephen, LA 67074",akototerence@example.org,0506397304,Email,63674,App,SMS
+GHA464108,Mr. Colins Asenso,"7730 Agyemang Flats
+Ansomaatown, WI 67270",julianti@example.org,0571107699,SMS,5000,Website,Email
+GHA714663,Andrew Adu,"40941 Irene Divide
+South Lydia, NV 90770",eofori@example.com,+233286351957,SMS,12319,App,Call
+GHA871373,Agya Kwasi Tawia,"881 Osei Views
+West Georgina, MN 20534",boakyefrancesca@example.net,+233552094932,Call,39387,App,Email
+GHA458635,Dr. Graham Daako,"4746 Constance Ranch
+Lake Stevenshire, WI 23681",danielle52@example.net,+233575544082,Call,7834,App,Email
+GHA147443,Joel Fofie,"USCGC Osei
+FPO AA 33908",debraafoakwa@example.net,0553423828,SMS,50241,App,Email
+GHA311102,Mr. Malcolm Ntiamoa,"09210 Georgia Valleys Apt. 630
+Jessicaberg, MS 42203",oseianthony@example.com,0562760860,Call,97934,Website,Email
+GHA533085,Comfort Kusi,"61436 Patrick Track
+Oppongtown, OR 92836",akyeampongkwabena@example.com,0560299642,SMS,94726,App,Call
+GHA623040,Patricia Akoaa,"66911 Appia Prairie Suite 724
+North Debra, AS 51571",abenakyeiwaa@example.org,0544551470,Call,39179,Website,Email
+GHA890570,Harriet Akoto,"USNV Bonsu
+FPO AP 33410",millicentakyena@example.net,+233570113704,Email,29683,App,Email
+GHA738303,Lorraine Baah,"96200 Andorful Lake
+Francescatown, ME 88977",teresa72@example.org,+233562504928,Call,60013,App,Call
+GHA805852,Gerald Asamoah,"037 Afrakomaa Drive
+East Mariaview, MD 97143",jasonakoaa@example.com,0204594456,Email,25727,Website,Email
+GHA127976,Mrs. Jasmine Fosu,"USCGC Okyere
+FPO AA 29389",kweku96@example.org,0502899782,Call,98538,Website,Call
+GHA923342,Kwame Akoto,"4445 Grace Key Suite 024
+South Kwasimouth, IN 57432",aakomaa@example.org,0565059075,SMS,70274,Website,Call
+GHA324763,Juliana Mensah-Otuo,"06147 Yaamoa Squares
+New Lawrenciabury, IL 69114",sandrayeboah@example.org,+233248537687,SMS,68092,App,Call
+GHA516526,Sista Abigail Fofie,"720 Nana Ama Way Apt. 090
+Alexton, UT 90090",byeboah@example.net,0543999886,SMS,85095,Website,Call
+GHA316984,Tony Ata,"50697 Boakye Mountain
+North Akwesihaven, AS 45122",kwasi49@example.com,0579291885,Email,15659,Website,Email
+GHA451392,Jeffrey Okyere,"2244 Sheila Crossing Suite 736
+Brucebury, MO 38298",barbaraboadi@example.org,+233558990335,SMS,78076,Website,SMS
+GHA299925,Samuel Obeng,"89184 Amoasi Wall
+Paulstad, NC 55532",justinboakyewaa@example.org,+233272035888,Call,93287,Website,Email
+GHA935868,Veronica Tutu-Twumasi,"2550 Owusu Greens Apt. 474
+New Aba, ME 87004",yeboahsylvia@example.net,0247972033,Call,85901,Website,Email
+GHA597586,Samuel Quartey-Koomson,"221 Afia Station Apt. 557
+North Kevinchester, VT 73901",aamoasi@example.net,+233247576479,Call,39207,Website,Email
+GHA414009,Mrs. Mandy Akyerε,"5875 Nkansah Mountains Apt. 737
+Margarethaven, SD 41178",wbaafi@example.com,+233264515710,Email,60148,Website,SMS
+GHA594012,Joseph Karikari,"0959 Afua Crescent Apt. 122
+Akɔmaaborough, AS 19620",michaelakyeampong@example.net,+233550503147,SMS,3329,App,Call
+GHA187175,Awura Rita Wiafe,"84774 Bonsu Curve Suite 808
+South Bernard, NE 64489",hpokuaa@example.org,0564424376,SMS,251,Website,Email
+GHA683618,Fiifi Asante,"4951 Lydia Field Apt. 156
+Philipchester, GA 64143",christina38@example.org,+233241007121,Call,14574,App,Call
+GHA525522,Sista Caroline Mensah,"7185 Afrakomaa Road
+Ansaside, MD 25959",amandasafo@example.net,+233575916314,Call,82084,App,SMS
+GHA64052,Dominic Twumasi,"613 Ofori Rapids
+Quarteyview, MI 25138",priscillaagyemang@example.org,+233573196399,Call,15695,App,SMS
+GHA247623,Sista Natasha Ataa,"337 Lydia Way
+Victoriahaven, IA 11030",harrietopoku@example.com,0241394648,Email,59968,Website,SMS
+GHA442020,Pamela Baah,"35923 Adu Trace Suite 672
+Millicentchester, GU 62770",akyaaaba@example.com,+233569475562,SMS,43693,App,Call
+GHA599557,Agya Ronald Darko,"985 Asamoa Road Suite 026
+West Martinborough, FM 15542",ubonsra@example.org,0543091153,Email,39863,App,Email
+GHA75255,Akua Nkansa,"45717 Tweneboa Crossing
+Port Shaun, UT 40721",sharon57@example.net,+233242644079,Email,44827,Website,Call
+GHA625779,Julia Daako,"4271 Natasha Inlet Apt. 621
+New Alex, WI 76228",qakowua@example.org,0271211853,Email,61503,App,Call
+GHA986886,Irene Agyapong-Amponsa,"80588 Arthur Groves Apt. 573
+East Martinberg, GA 30967",douglas13@example.net,0265824995,Email,64827,App,SMS
+GHA928102,Alice Tawia,"85901 Kwaku Orchard
+Asiamastad, CO 87022",nicola77@example.com,+233562595874,Call,45196,Website,Call
+GHA741978,Catherine Tutu,"4114 Luke Courts
+Baaberg, FL 03457",yvonneforiwaa@example.net,+233557279047,SMS,70507,App,SMS
+GHA44250,Mama Aba Nyaakoaa,"58272 Opuku Brooks
+Nyameville, SC 97571",aaronopuku@example.org,0553973781,Email,6070,Website,SMS
+GHA851917,Kwabena Gyamfi,"05687 Akyeamfuɔ View Suite 910
+Joyceshire, WY 20879",vampadu@example.com,+233501857780,Call,32817,Website,Email
+GHA492149,Denis Antwi,"14165 Appiah Shoals Apt. 715
+North Isaachaven, NH 09329",asaregraham@example.com,0280770558,Call,30646,Website,Call
+GHA530159,Sarah Asamoa,"82763 Dorothy Divide Suite 132
+New Alexanderfort, FM 30230",ntiamoajames@example.org,+233542788689,SMS,25837,Website,SMS
+GHA690186,Sharon Agyemang,"3426 Dwamena Drives
+Afirifaville, VA 35074",xoppong@example.net,+233276243415,Call,47479,App,SMS
+GHA683880,Benjamin Appia,"17548 Baa Mountain
+North Salomey, KY 39841",paulakwaakye@example.org,0265442188,Email,59114,Website,SMS
+GHA989360,Nana Ama Agyei,"21407 Nkansah Harbor Apt. 266
+South Clifford, ME 56713",kate40@example.com,+233560046850,Email,48772,App,Call
+GHA142263,Mrs. Akumaa Agyapomaa,"84214 Irene Ridges Suite 730
+New Christina, MO 70666",sharon17@example.com,+233508861707,Email,98418,Website,Call
+GHA169395,Helen Osei-Boakye,"281 Teresa Fort
+South Julianafurt, WA 57565",wendyadutwum@example.org,+233543582481,SMS,84306,Website,Call
+GHA506063,Irene Nti,"USCGC Kusi
+FPO AA 99921",dfofie@example.org,0560410757,Call,7349,Website,SMS
+GHA958478,Christina Nyantakyi,"12699 Boadu Crossroad
+Nicholasland, CA 75838",lyirenkyi@example.org,0502068600,Call,41803,Website,Email
+GHA273191,Natasha Nkansah,"48772 Jason Plaza
+East Esifurt, NV 41666",hannabelosei@example.org,+233577114618,Call,50828,Website,Email
+GHA66214,Alex Twumasi-Adusei,"032 Susan Viaduct Apt. 275
+Nana Amaton, OH 11263",gyasiwaaedward@example.com,0548961253,Email,11030,App,Email
+GHA954392,Amber Awuah-Wiafe,"020 Lisa Shoal
+Asamoaton, UT 65841",hasare@example.org,+233508230067,SMS,68246,App,Call
+GHA253284,Dr. Marcus Ntim,"95284 Debra Mill Suite 869
+Lake Gordonburgh, WI 37064",asantelydia@example.org,+233555918512,Email,35315,App,SMS
+GHA278949,Maame Christina Akɔmaa,"455 Asiedu Greens Suite 107
+Port Fiifi, NC 57794",lydia71@example.org,+233503939289,Call,33370,App,SMS
+GHA207143,Sarah Safo,"9280 Tiwaa Rest
+Andrewberg, OR 38742",shirley61@example.net,+233281193613,SMS,86849,Website,Call
+GHA171891,Dorcas Nkansa,"1412 Kwaakye Turnpike
+Kujoefort, NH 97337",lkoomson@example.net,0575854746,SMS,41331,App,Call
+GHA764431,Lydia Boakyewaa,"8069 Danso Spring
+North Akosport, GA 29364",kwesintiamoa@example.org,+233272477318,Call,67887,App,Email
+GHA255647,Tom Dwamena,"PSC 7280, Box 4639
+APO AE 54002",ukoomson@example.org,+233507654943,SMS,43493,App,SMS
+GHA747844,Bruce Awuah,"7906 Akyeampomaa Corners Apt. 404
+Gracehaven, TN 68180",wfrimpomaa@example.com,+233509761650,SMS,68266,Website,Call
+GHA416169,Amber Bonsra,"41749 Elliot Court
+Ntimbury, NV 26042",grace89@example.com,+233283583397,Call,50156,App,Call
+GHA302757,Kwasi Kyei,"417 Olivia Brooks
+Annetteborough, NM 76849",michelleofori@example.org,+233544349272,Call,40963,App,Email
+GHA984704,Marilyn Dufie,"45211 Lydia Village Suite 974
+Marianside, MO 21884",wkoomson@example.com,0288024763,Call,54168,Website,SMS
+GHA577369,Ernestina Ampofo,"52237 Peter Parkways Suite 511
+Gyasimouth, ME 80661",nkrumahdebra@example.com,0576115377,Call,97767,Website,SMS
+GHA175866,Awura Dorothy Owusuwaa,"20727 Marcus Shoals Suite 266
+Adamton, MT 60798",wosei@example.com,0279053300,Call,74325,App,SMS
+GHA374210,Owura Ronald Wiafe,"079 Henry View Suite 831
+Nkansastad, MO 47835",kylesafo@example.net,0540162132,SMS,95535,Website,Email
+GHA108125,Edward Tutu,"535 Afua Row Apt. 770
+Brucetown, MP 98835",asamoamary@example.net,0202399308,Call,77506,App,Email
+GHA2240,Rebecca Mansa-Baawia,"PSC 3999, Box 7684
+APO AE 09999",joyce19@example.com,0202156302,Call,27872,Website,SMS
+GHA587170,Emma Oti,"USCGC Nyame
+FPO AE 37707",jamesbaawia@example.org,0555087024,SMS,87588,Website,Email
+GHA736736,Harriet Afirifa,"740 Twumasi Expressway Apt. 423
+Owusustad, NH 60386",jasmine18@example.net,0241839326,Email,1053,App,Email
+GHA877050,Osofo Maame Akosua Ampadu,"22140 Adusei Port Apt. 860
+Lake Debraland, NC 17449",fgyamfi@example.org,0552744309,Call,44334,Website,SMS
+GHA743597,Georgina Akowua,"17244 Nyaakoaa Views Apt. 283
+Oseiton, MI 21419",james07@example.org,+233204179359,Call,28019,App,Call
+GHA875071,Elliott Akyerεko,"7727 Duncan Camp Apt. 567
+Lake Victoria, ME 78049",irene62@example.com,0200874611,SMS,41903,Website,SMS
+GHA204257,Dominic Darko-Gyamfi,"5112 Nyaakoaa Lights Suite 503
+Lake Douglasland, ID 29326",yeboaeric@example.net,+233552124416,Email,71093,Website,SMS
+GHA810784,Mama Abigail Agyei,"286 Joe Via Apt. 248
+Lawrenciahaven, GA 97343",patricia29@example.org,0261581205,Email,10590,App,SMS
+GHA700692,Dr. Felicia Amoako,"8074 Jasmine Place
+Tutuport, WV 46267",charlottenkrumah@example.org,+233551111097,Call,37359,Website,SMS
+GHA767871,Denis Mensa,"391 Annette Canyon Apt. 446
+Afrakomaahaven, SC 25889",constance42@example.org,+233557703611,Call,55199,App,Call
+GHA185674,Dr. Lawrence Oppong,"5798 Yawson Expressway Apt. 891
+Port Ann, CA 32625",rachelasante@example.com,0551290176,Email,78452,Website,Email
+GHA599825,Nana Ama Kyei,"PSC 4296, Box 6756
+APO AE 77978",ritaakyeamfuo@example.com,+233247922215,SMS,90433,Website,Email
+GHA635551,Oliver Gyasi-Prempeh,"452 Tweneboa Wall
+Asensomouth, MN 44321",akyaamax@example.com,+233550858926,Email,28097,App,Email
+GHA348537,Agya Victor Nti,"11640 Dwamena Bridge Apt. 548
+North Abena, KY 81709",abaosei@example.net,0208979610,SMS,33090,App,Call
+GHA728331,Henry Badu,"129 Osei Lake Suite 372
+New Dennis, ND 21809",gemma97@example.org,0543078162,Call,12249,App,SMS
+GHA200289,Agya Benjamin Asenso,"9472 Danso Plaza
+Kujoeton, GA 81869",kwesiata@example.com,0571948586,Call,5085,Website,SMS
+GHA190721,Mama Janet Akyaa,"27758 Antwi Center
+Naomihaven, AS 97196",felicia27@example.com,0280412180,SMS,53609,Website,Call
+GHA508744,Mr. Kwasi Bonsra,"495 Sheila Well
+Gracechester, RI 11242",bentawia@example.org,+233500628268,SMS,8175,App,SMS
+GHA552004,Danielle Kwaakye,"5459 Jennifer Bypass Apt. 287
+West Abeikuland, MT 45641",caroline44@example.org,0240774582,Call,74273,Website,SMS
+GHA119654,Nigel Donkor,"4186 Nyame Mission Suite 329
+Port Kujoestad, NV 61999",owusuwaaruth@example.com,+233242446995,Email,92632,App,SMS
+GHA438349,Grace Appia,"7955 Jasmine Lane
+Lake Barbara, GA 53996",asarecolins@example.org,0283845094,SMS,39001,Website,Email
+GHA397094,Malcolm Kyei,"USCGC Bonsu
+FPO AE 45438",joannaadoma@example.org,+233285412886,Email,64582,App,Call
+GHA453718,Kwasi Acheampong,"1890 Christian Pine Apt. 863
+North Alexander, WA 66298",janet52@example.com,+233245517806,Call,89875,App,Email
+GHA82124,Akua Akyaa,"4132 Linda Turnpike Apt. 621
+North Dennis, IA 62073",btawia@example.com,0554328742,Call,12173,App,Email
+GHA757390,Joe Agyare,"29858 Ofori Landing Suite 077
+New Joannaport, ME 42137",zafirifa@example.org,+233282904624,SMS,10828,Website,SMS
+GHA337827,Ekow Twumasi,"86711 Dufie Plain
+Fosushire, UT 58161",kumiakua@example.net,+233242182969,SMS,97978,Website,Call
+GHA492496,Arthur Asamoah,"29420 Mensa Club
+Akosuashire, AZ 95677",alexanderafoakwa@example.net,0204884011,Email,38521,App,SMS
+GHA256602,Owura Henry Afoakwa,"USCGC Quartey
+FPO AE 32548",bonakofi@example.net,+233263418561,Call,31794,Website,SMS
+GHA581377,Dr. Sheila Agyei,"USCGC Nti
+FPO AP 85712",wkarikari@example.com,0267857455,Call,2640,Website,SMS
+GHA590507,Katherine Twumasi,"04435 Pokuaa Hollow Suite 288
+Vincentton, AL 75914",bonsuamanda@example.org,+233564447057,SMS,80765,App,Call
+GHA306439,Victor Agyare,"5047 Boakye Wall
+Lake Charlotteville, ID 24937",amensah@example.net,0265001144,Email,4607,Website,Call
+GHA80108,Agya Lawrence Ofori,"069 Vincent Groves Suite 613
+South Gordonside, MA 45100",akwartemaa@example.net,+233554287923,SMS,44069,Website,Email
+GHA652316,Osofo Maame Nicola Foriwaa,"436 Dwamena Harbors Suite 917
+Phillipshire, WA 18466",darkosimon@example.org,+233573645352,Call,98885,App,Call
+GHA969748,Agya Victor Asare,"60937 Sarah Roads
+North Sheila, DC 15741",jenniferfosua@example.com,+233207629550,Call,15862,Website,Call
+GHA880806,Owura Luke Antwi,"PSC 3962, Box 1289
+APO AE 69926",dfrema@example.org,+233568627834,Call,82997,Website,Call
+GHA268995,Eunice Kusiwaa,"730 Philip Fields
+Port Raymond, CT 85137",yaamoaakwasi@example.org,0567592349,Call,40690,App,Call
+GHA466619,Osofo Maame Maureen Akoaa,"29930 Boadu Stravenue
+Boahenfurt, OH 20208",agyarebenjamin@example.org,+233544451436,SMS,32970,Website,Call
+GHA159542,Josephine Agyare,"5059 Tony Falls
+North Samhaven, MP 95912",jasare@example.org,0287697825,SMS,66136,Website,SMS
+GHA597904,Adwoa Akɔmaa,"PSC 8632, Box 7632
+APO AA 55842",tbaah@example.com,0284327899,Call,1951,Website,Email
+GHA353289,Mama Barbara Mansa,"2234 Adu Fort Suite 847
+Afrakomaaberg, AL 42621",louisantwiwaa@example.com,+233272691908,Email,167,Website,Call
+GHA271980,Albert Darko,"64923 Kwarteng Village
+Port Phillipton, NM 48563",opokupaul@example.org,0288564332,Call,49328,App,Email
+GHA456818,Shaun Ankra,"298 Andorful Valleys Suite 827
+Nana Amaport, PR 47303",nyamedaniel@example.net,0243480415,Call,87312,App,Email
+GHA209137,Alice Awuah-Boahen,"6357 Abeiku Club
+North Akua, KY 41106",acheampongwilliam@example.org,+233268389028,SMS,23454,Website,Email
+GHA584760,Afia Kusiwaa-Twumasi,"4723 Gemma Parkway
+Gyamfiaastad, PR 99806",josh53@example.org,0509800998,Email,98563,Website,Call
+GHA166934,Eliabeth Akyeampomaa,"552 Yeboa Canyon Apt. 326
+Ankrahaven, SD 56787",yaanti@example.org,0546355944,Call,4149,Website,SMS
+GHA869227,Justin Nyame,"921 Asare View
+South Carolinestad, ID 45243",rakoto@example.net,0575173637,Call,62941,Website,Email
+GHA55292,Stephanie Otiwa,"762 James Common
+Sheilabury, NJ 99016",georgina90@example.com,+233280913236,SMS,54981,App,Email
+GHA951924,Stephen Safo,"05811 Agyapong Landing
+West Ama, NC 99416",wandorful@example.org,0205909989,SMS,80708,App,SMS
+GHA799962,Luke Akyena-Adomah,"69415 Teresa Well Apt. 740
+North Denise, UT 10452",emily65@example.com,+233576534016,Call,25028,App,Call
+GHA699978,Miss Maria Acheampong,"86567 Lawrencia Branch Suite 308
+Wiafeshire, NY 65386",oliver47@example.org,0246200174,Email,71766,Website,Call
+GHA304432,Mr. Kwabena Boateng,"8635 Roselyn Wells Apt. 604
+Serwaaport, AZ 14468",amoadebra@example.com,+233286192385,Call,97073,App,SMS
+GHA572153,Henry Anokye,"133 Danny Turnpike
+East Francesca, NJ 32654",dominicboakye@example.com,0264059753,SMS,58740,App,Email
+GHA794990,Beatrice Omani,"Unit 7275 Box 4294
+DPO AE 34150",harriet26@example.net,0575999058,SMS,84655,App,SMS
+GHA575967,Salomey Ansomaa,"17444 Georgina Ville
+New Helenland, TX 37145",akwesiasiama@example.org,0567417178,SMS,16766,App,Email
+GHA180706,Yaw Badu,"47990 Acheampong Shoals Apt. 229
+Rogershire, HI 45684",christianopuku@example.org,+233240121489,Call,10280,App,Email
+GHA5846,Terence Boadu,"5679 Akwasi Tunnel
+North Yaw, VT 96543",pomaatom@example.org,0261331463,Email,16715,App,SMS
+GHA605348,Rachael Akɔmaa,"7803 Baa Bridge
+Lake Kweku, GU 68789",ireneotiwa@example.org,+233558942549,Email,24365,Website,Email
+GHA39807,Simon Acheampong,"41616 Naomi Loop Suite 962
+East Maureenmouth, KS 81668",edwardkoomson@example.org,0579157764,SMS,56764,Website,Call
+GHA994420,Fiifi Mensah,"376 Koomson Common
+Port Tinaton, GA 64740",pamela14@example.net,+233579719313,Email,27051,App,Email
+GHA675313,Ms. Hannah Kusiwaa,"2668 Stephen Lake
+Victormouth, WY 07109",jfosua@example.net,0265096962,Email,69390,App,Call
+GHA642151,Margaret Duah,"3984 Appia Avenue Apt. 432
+Tweneboaton, DC 58930",komani@example.org,0274898910,Call,23886,App,Call
+GHA566981,Marian Antwi,"0670 Safo Extensions Suite 934
+West Abenastad, FM 72641",ampofolorraine@example.net,0247179333,Email,76155,App,Email
+GHA812075,Mr. Gerald Kyei,"9595 Kwesi Bypass Apt. 214
+Baduburgh, SC 20868",oseilorraine@example.net,0280567044,SMS,21002,App,Email
+GHA898250,Kwame Obeng,"Unit 9242 Box 5306
+DPO AA 75333",marilynampofo@example.com,0204612814,SMS,28710,Website,Call
+GHA982512,Louis Ntim,"194 Matthew Hills
+Fremamouth, FM 78315",nigel17@example.net,0266362180,SMS,19041,App,Call
+GHA922958,Fiifi Sarpong,"7449 Amber Meadows Apt. 275
+South Judithfurt, CO 96615",karen60@example.net,0508204336,Call,55919,Website,SMS
+GHA778589,Lorraine Akɔmaa,"4840 Roger Cliff
+Aboraamouth, ND 15515",benjamin98@example.com,+233545443185,SMS,43962,App,Email
+GHA614732,Lisa Ofosu,"5477 Asamoa Cove
+East Nimakoahland, AL 05862",vamo@example.net,+233550366670,Call,69950,Website,SMS
+GHA4643,Dr. Rita Andorful,"439 Owusuwaa Alley
+North Gregoryfurt, RI 70534",jamesboateng@example.net,+233285588054,SMS,75532,App,Call
+GHA211432,Dr. Joel Donkor,"2955 Foriwaa Ridges Suite 153
+North Debra, WY 34157",qdanso@example.com,+233267084129,Call,99798,Website,Call
+GHA294467,Gerald Omani,"629 Adoma Square
+New Lawrence, MD 86492",dansoamelia@example.com,+233281638866,Email,60115,Website,SMS
+GHA412446,Kujoe Antwi-Donkor,"805 Janice Plain
+Millicentfort, MA 45684",hopoku@example.com,+233205409216,SMS,39555,App,Call
+GHA853963,Harry Otuo,"Unit 5583 Box 6316
+DPO AP 06828",agyamfi@example.org,0204009546,Email,8533,App,Call
+GHA836227,Marcus Ofosu,"81739 Kwabena Bypass
+Dansofort, AZ 18623",eric13@example.org,+233265274422,SMS,50318,Website,Email
+GHA731771,Eric Appiah,"1298 Albert Rue
+Amponsaborough, MT 18182",antwiwaadora@example.com,+233563702614,Email,78021,Website,SMS
+GHA112230,Osofo Maame Janice Boateng,"89712 Daniel Lake Apt. 522
+South Kennethland, MS 30193",alicenyantakyi@example.org,0576604338,Call,87593,Website,Call
+GHA298617,Robert Agyapong,"81581 Danielle Throughway
+Lake Ama, AS 36795",hntim@example.com,0561536601,SMS,32741,Website,Email
+GHA152724,Dr. Yaw Yirenkyi,"129 Alice Dam
+Debraburgh, MT 18942",yawsoneliabeth@example.org,0249744013,SMS,19760,Website,Email
+GHA965389,Ms. Rosemary Ansomaa,"7489 Ansomaa Ridge Suite 218
+Markland, PW 19773",antwilinda@example.org,+233283294948,Email,82293,Website,Email
+GHA273350,Aba Akyerε-Frema,"Unit 6681 Box 7924
+DPO AE 08600",akumaa30@example.com,0205075474,SMS,34191,Website,Email
+GHA26240,Osofo Maame Abigail Daakoaa,"489 Boakyewaa Throughway
+South Kwabena, NV 92976",zsafo@example.com,+233281936675,Email,40719,App,Call
+GHA853355,Millicent Boadu,"PSC 2929, Box 9323
+APO AP 43842",gadomah@example.com,0205036232,Call,8641,Website,Call
+GHA575717,Dr. Rosemary Adutwumwaa,"334 Kwamena Glen
+West John, NH 73226",gyasidennis@example.net,+233573640130,Call,47946,App,Email
+GHA492547,Paula Fofie,"376 Dwamena Locks
+Gyasiport, MO 27714",douglassafo@example.org,+233266364684,Call,41080,Website,Call
+GHA191383,Dr. Natasha Ampofo,"19590 Amelia Summit
+North Kojo, AS 43790",ben83@example.com,0548238288,SMS,48155,App,Email
+GHA176748,Mr. Marcus Amoa,"33446 Amoako Points
+North Simonhaven, MT 97660",jessicatakyi@example.com,+233559466458,Call,41706,App,Call
+GHA243559,Miss Grace Fosua,"9085 Adomako Park Suite 934
+Kwaakyewaaborough, CO 87969",mboadi@example.com,+233208075340,Call,78765,App,Call
+GHA432109,Marilyn Acheampong,"PSC 7666, Box 3432
+APO AA 77509",adutwumcomfort@example.net,+233284196412,Email,9291,Website,SMS
+GHA208063,Osofo Andrew Kumi,"Unit 3959 Box 4009
+DPO AA 80268",ampomajessica@example.org,+233506407902,Call,23799,App,Call
+GHA531865,Thomas Yeboa,"2721 Agyapomaa Grove
+Lydiashire, CO 63372",bamoako@example.net,+233567785750,SMS,52050,App,Email
+GHA542575,Mary Ofori,"35028 Bonsu Plain Suite 906
+New Yvonne, MP 73821",ztakyi@example.org,+233286378621,SMS,45513,Website,Email
+GHA157381,Ernestina Amoasi,"07285 Lucy Ferry Suite 701
+Malcolmfurt, KS 80622",bonagrace@example.com,+233578262360,SMS,37579,App,SMS
+GHA828732,Mr. Douglas Bonsra,"7087 Otiwa Gardens
+East Hannabeltown, FL 92099",ericdaakoaa@example.com,+233574608027,SMS,85575,Website,Call
+GHA366735,Stephen Akyeamfuɔ,"4355 Felicia Keys
+New Sarahhaven, TN 60300",prempehvictor@example.net,0287112561,Email,24331,App,Call
+GHA568850,Fiifi Acheampong-Boadi,"USNS Boateng
+FPO AE 52005",gregoryawuah@example.com,0551063088,SMS,73361,Website,Call
+GHA968409,William Agyemang,"692 Abeiku Ville Suite 138
+New Janet, FL 17973",fadu@example.com,+233543835964,Email,11960,App,Call
+GHA956804,Dominic Appia,"7208 Kojo Stravenue
+New Nicholasshire, ID 83732",sylviaansa@example.com,+233543385723,Email,13253,Website,Email
+GHA111192,Debra Asamoa,"606 Kwaakyewaa Lake
+Opokufurt, NH 24783",dampadu@example.net,0263073113,Call,90989,App,Email
+GHA281337,Georgia Kyerewaa,"1916 Kwaakye Creek Apt. 962
+Tinaborough, MS 82555",nnsia@example.net,0562077616,SMS,28565,App,Email
+GHA163203,Vanessa Ata-Bona,"66498 Antwiwaa Points
+Phillipville, SC 83947",xadutwum@example.net,+233206801992,SMS,67994,App,SMS
+GHA276174,Hannah Ahortor,"01003 Samuel Forge
+Bonsumouth, AK 89945",badusamantha@example.net,0285647479,Email,46300,Website,Email
+GHA257047,Miss Catherine Obeng,"60668 Ampadu Path Apt. 532
+Simonport, VI 27923",dwamenageorge@example.org,+233279275712,SMS,85174,App,Email
+GHA962956,Francis Duah-Gyasi,"945 Hannah Pine Suite 094
+East Joseph, OR 31529",vkyeiwaa@example.com,0555356120,Call,29991,Website,Call
+GHA622274,Jacob Awuah,"98287 Ntim Expressway
+Akoston, TX 64571",aboraathomas@example.org,0566580359,Call,44713,Website,Call
+GHA636248,Andrew Nyaako,"84331 Angela Fields
+North Shaun, WI 14103",agyapomaalucy@example.org,0284703968,Call,60185,Website,Email
+GHA364346,Ms. Joanna Akyerε,"Unit 9612 Box 9110
+DPO AP 68291",natalienyantakyi@example.net,+233249364536,SMS,20702,App,Email
+GHA168567,Osofo Maame Margaret Akyeamfuɔ,"700 Jeremy Ramp Apt. 177
+Agyeiwaaview, AL 05868",nkrumahlinda@example.net,0509014073,SMS,1848,Website,Email
+GHA435997,Donald Ofori,"9709 Ann Light Suite 528
+Wendyshire, UT 39780",joyceagyare@example.org,0284605879,Email,96270,App,Email
+GHA552912,Jason Boadi,"8206 Fosua Station
+Stephenton, ND 11305",lucy32@example.org,0277820477,Call,97742,App,Call
+GHA746507,Miss Dora Prempeh,"6221 Gyasi Gardens
+Ntiberg, NV 35027",josiah92@example.net,0555236969,Call,69455,Website,Email
+GHA155051,Edward Yawson,"76983 William Neck
+Alexanderfort, SD 57563",deborahyeboa@example.org,+233247904965,Email,70421,Website,Email
+GHA453382,Shirley Akoaa-Owusu,"10022 Kate Ville
+Nkrumahville, WI 09803",graceappia@example.org,0201667186,Call,10359,App,SMS
+GHA317053,Hannabel Tawia,"651 Josh Union
+Bruceland, NE 68723",akyeamfuonatasha@example.org,0500805225,Call,15932,Website,Email
+GHA168821,Elliot Otiwa,"2813 Derrick Mall
+Donkorstad, MH 30896",gerald39@example.org,0572014976,SMS,44997,Website,Email
+GHA731915,Bruce Wiafe,"40069 Tom Bridge Apt. 483
+North Jasmine, SC 99856",baakate@example.com,0274717271,Call,63724,App,SMS
+GHA260751,Paula Prempeh,"3611 Rachel Isle
+East Patrick, NH 63779",stephaniegyamfi@example.org,+233548968325,Call,56356,App,Email
+GHA49201,Sheila Gyasi,"33121 Naomi Spur
+Lake Rebeccastad, PW 92242",charles50@example.org,0572245439,Call,94967,Website,Email
+GHA531143,Samantha Oti,"558 Asiedu Unions
+North Akumaa, FL 02980",grace20@example.net,+233268291656,Email,23833,Website,SMS
+GHA704748,Dr. Deborah Amoasi,"232 Fosu Prairie Suite 280
+New Dorothy, AK 92699",lkwarteng@example.net,0502003482,SMS,89579,App,SMS
+GHA962160,Edward Kwaakye,"00023 Kwabena Route
+Port Jillburgh, VI 82319",bkwaakye@example.com,0262899973,Email,41768,Website,SMS
+GHA399199,Ann Nyantakyi-Quartey,"9148 Denise Pine Suite 412
+New Kwasi, LA 82435",antonyamo@example.net,+233576730854,Call,97459,App,Email
+GHA779409,Emma Afirifa-Bona,"0943 George Unions Apt. 301
+Dufiestad, IN 22006",alice94@example.org,+233561243894,Call,23537,Website,SMS
+GHA37519,Nicholas Tutu-Kumi,"6538 Otiwa Green
+Janetville, IA 21015",daakogemma@example.com,+233276321003,Call,15732,App,SMS
+GHA292875,Denise Adomako,"81549 Serwaa Junction Suite 921
+Veronicastad, NC 34846",caroline03@example.org,0573707151,Email,85758,Website,Call
+GHA393557,Mr. Benjamin Baa,"799 Tawia River
+Lake Juliana, NE 60599",joetweneboa@example.net,0579862609,SMS,40917,Website,SMS
+GHA379912,Carl Yawson,"PSC 2235, Box 3155
+APO AP 94985",dadomako@example.com,+233573964304,Call,4339,App,Call
+GHA754448,Katy Amponsa,"1612 Ernestina Passage
+Ntimbury, MT 83116",duncanasieduwaa@example.net,+233551540826,Email,79040,Website,Email
+GHA16018,Akua Acheampong-Nyaakoaa,"075 Ansa Forges
+Jamesside, IL 63534",anthony16@example.com,0262909119,SMS,20807,App,Email
+GHA387250,Osofo Justin Acheampong,"705 Grace Square
+Otiwaborough, GA 74950",yopoku@example.com,+233575215494,Call,99424,App,Email
+GHA934417,Rita Antwiwaa,"098 Opoku Extensions
+South Justinfort, MS 37490",sarah45@example.com,+233202103221,SMS,67100,Website,SMS
+GHA452007,Katy Amoanimaa,"499 Oppong Island Apt. 878
+West Gregorymouth, AZ 62413",hdaakoaa@example.net,0281331239,Email,63146,Website,Call
+GHA728297,Nicola Baawia,"43898 Sarah Pike
+Boatengton, MA 79865",maria34@example.net,0552361576,Call,75315,App,Email
+GHA873886,Nigel Andorful,"369 Joshua Bypass Suite 252
+Derrickview, KS 77680",tonyagyeiwaa@example.net,+233274494947,SMS,92031,App,Email
+GHA999556,Lawrence Ntiamoa,"4324 Tony Stravenue
+Agyapongchester, MA 04935",baababaah@example.org,0276176425,Email,35913,Website,Call
+GHA804175,Veronica Safo,"986 Gyamfi Common
+Port Georgemouth, SC 67026",debrayirenkyi@example.org,0506810528,SMS,76631,Website,Email
+GHA315043,Lydia Antwi-Twumasi,"16685 Eunice Light
+Isaacburgh, NE 62353",dorcasasare@example.net,0206032693,Call,49684,App,Call
+GHA526791,Danny Akyerεko,"454 Robert Lakes
+Dorothyhaven, NC 95907",francesca24@example.net,0560948333,SMS,94151,App,Call
+GHA837550,Michael Akowua,"80595 Ofori Summit Apt. 922
+Acheampongville, VA 61958",ampadujoojo@example.net,+233205247606,SMS,83711,App,Email
+GHA593333,Elliott Yawson,"57604 Omani Views
+Dorcasberg, FM 04539",mensasam@example.org,+233540724000,Email,14273,App,SMS
+GHA722103,Dr. Karl Asamoah,"309 Akyeamfuɔ Valley
+Adomaburgh, KY 35549",asiedususan@example.com,+233508447273,Call,5703,App,SMS
+GHA853821,Denis Koomson,"535 Fosu Plain
+Lake Sarah, OH 12394",jakekyerewaa@example.net,0544166865,Email,99144,App,SMS
+GHA32716,Gemma Nkansa,"6459 Ansa Highway Apt. 593
+Dansohaven, MA 05674",christina36@example.net,0500464748,SMS,30408,App,Email
+GHA22517,Constance Ansa-Boatemaa,"25071 Grace Rapids
+New Terence, CT 54677",ptawia@example.com,0269235356,SMS,99051,App,SMS
+GHA628152,Katherine Asamoa-Antwiwaa,"683 Kyei Underpass
+Lake Alex, RI 01677",rebeccaokyere@example.net,+233279706443,Email,77147,App,SMS
+GHA453819,Jake Quartey,"98025 Nkansah Creek
+West Stephaniehaven, MT 38303",otipamela@example.com,+233578200923,Call,39829,Website,SMS
+GHA178797,Joe Otiwa,"79701 Safo Loop
+Kwaakyestad, DE 95646",xnti@example.com,0509633129,SMS,48568,Website,Email
+GHA779668,Akosua Adutwumwaa-Karikari,"376 Maria Spring Apt. 860
+Kwekushire, VT 95729",akosua37@example.net,0269959056,Call,45914,App,Call
+GHA65789,Julia Fosu,"590 Andorful Drive
+Ansaside, AR 18118",doti@example.net,+233240338339,Email,80959,App,Call
+GHA673180,Abeiku Akyena,"8955 Akowua Gateway
+Lake Danny, AK 17897",rsafo@example.com,+233503137490,SMS,28866,App,SMS
+GHA684599,Jake Duah,"9543 Shirley Hills
+New Stephen, CO 91718",dorcasdaakoaa@example.org,+233545059090,SMS,61396,Website,Email
+GHA53928,Kwabena Dwamena,"2578 Tawia Loop Suite 985
+Kusifurt, CO 21939",kujoeamoako@example.org,0501538749,SMS,50857,App,SMS
+GHA830580,Danielle Sarpong,"3160 Clifford Via Apt. 339
+Agyapomaaborough, MS 49039",linda91@example.net,0286282075,Call,50485,App,Email
+GHA973517,Akumaa Asiama,"433 Boakyewaa Manor
+Beatricemouth, NE 82395",boadiekow@example.org,+233556918611,Email,5922,Website,Email
+GHA169779,Kofi Fofie,"2515 Lisa Parks
+Nkrumahton, MI 37422",yakyereko@example.com,0504454147,Call,56214,App,Call
+GHA258155,Judith Afrakomaa,"3787 Natalie Squares
+Antwiberg, OH 07307",agyeiannette@example.org,+233561351057,Call,69608,Website,Call
+GHA148017,Grace Ansa,"572 William Roads
+West Julian, ID 90181",abaakoaa@example.com,+233572187505,Email,9196,App,Call
+GHA218924,Louis Oti,"698 Elliot Brook Suite 060
+South Dennis, TN 72249",vbonsra@example.org,+233262275828,Email,78864,Website,SMS
+GHA852947,Janet Amoasi,"16257 Safo Inlet
+Lake Julian, FL 62505",joyce76@example.net,+233576185896,Email,34175,App,Email
+GHA861681,Peter Appia,"95117 Asiama Unions
+Lake Comfort, SD 27025",katy47@example.org,+233553870973,SMS,53162,App,SMS
+GHA955750,Deborah Ampadu-Adwubi,"425 Fiifi Alley Suite 676
+East Esi, IN 01648",jessicaforiwaa@example.com,0201683988,Email,30345,App,Email
+GHA694664,Dr. Sam Safo,"5054 Amber Port Suite 311
+West Nicolaville, KY 51776",hannah78@example.com,0567723687,SMS,93481,App,SMS
+GHA665899,Sarah Ansa-Adutwum,"437 Nyame Oval
+Teresaborough, NM 39654",lboatemaah@example.com,0543566547,SMS,85209,App,SMS
+GHA990439,Andrew Appia,"52257 Russell Junctions
+Christinaport, GA 12603",otilisa@example.org,+233273117543,SMS,49496,Website,Call
+GHA896278,Natalie Serwaa,"9900 Baah Forges Suite 497
+Safoville, MS 95595",natasha80@example.com,0275427502,Call,87529,App,Email
+GHA449477,Dr. Baaba Osei,"1724 Dennis Mountains Suite 696
+West Deborahville, ND 15621",aotiwa@example.com,0287981487,SMS,77156,Website,Email
+GHA763752,John Oppong,"6348 Asare Plains
+Lake Yvonne, PW 63328",uyeboa@example.net,0246178240,Email,48361,Website,Call
+GHA652805,Agya Lawrence Nkansa,"9259 Agyemang Road Suite 839
+Lake Lawrence, DE 13284",mathew24@example.org,0540921297,Email,82131,Website,SMS
+GHA56362,Julia Sarpong-Afirifa,"000 Clifford Camp Suite 589
+Kwabenaville, CO 53503",awuaharthur@example.com,+233560026955,SMS,72499,App,SMS
+GHA258946,Jennifer Ankra,"833 Kwamena Pines
+Ofosuberg, PR 49125",stanleyntim@example.com,0248777774,SMS,57521,Website,Call
+GHA786536,Osofo Patrick Boateng,"58508 Akoaa Valleys Suite 926
+Acheampongmouth, NM 00738",eofosu@example.org,0246843470,SMS,18706,App,SMS
+GHA673229,Emily Kumi,"39449 Kyeiwaa Plain Apt. 503
+East Natalieville, NV 23899",ankraamber@example.net,0271116855,Email,20152,Website,SMS
+GHA136833,Janet Boakyewaa,"55383 Tracy Skyway
+Margaretstad, NM 12174",otuooliver@example.com,0283238030,Call,45720,App,SMS
+GHA860451,Joe Anokye,"644 Akosua Place
+Abenamouth, HI 34580",kwaakyejosephine@example.com,+233282883688,SMS,19450,App,SMS
+GHA865603,Mr. Derrick Bona,"673 Kevin Lights
+New Lydiamouth, IL 82032",bruceanokye@example.net,+233271410357,SMS,71022,App,SMS
+GHA744403,Charles Amponsah,"173 Takyi Alley Apt. 762
+Lake Samuel, KY 93480",dwamenajames@example.net,0283796610,SMS,39693,Website,SMS
+GHA185978,Malcolm Otuo,"845 Thomas Mill Suite 640
+North Gerald, LA 81243",asamoahalbert@example.net,+233243170570,Email,35379,App,Email
+GHA228165,Francis Tweneboa,"22401 Ansa Estates Apt. 280
+Omaniport, FM 25282",qnti@example.net,0551318209,SMS,73231,Website,SMS
+GHA800528,Mrs. Georgina Otuo,"138 Asamoah Shores Suite 631
+North Abeiku, KS 43840",radu@example.net,+233271906984,Call,10882,App,Email
+GHA756699,Mama Lucy Ampoma,"080 Amoako Ferry Apt. 523
+Adutwumstad, MI 39515",ampofowaamichael@example.com,+233201398206,Email,16982,Website,SMS
+GHA885390,Eunice Asiedu,"9582 Natalie Row Suite 243
+Gregoryport, KY 02894",nigelbaa@example.com,+233562227242,SMS,28327,Website,SMS
+GHA452118,Rosemary Bona,"02640 Esi Courts
+Cliffordville, AK 83774",joelnyaakoaa@example.org,0289599243,Email,60759,Website,Call
+GHA50068,Kwamena Antwi,"9575 Fosu Views Apt. 486
+New Anthony, NE 70412",rpokuaa@example.org,0245509574,Email,29148,Website,Email
+GHA925104,Mr. Duncan Kumi,"13585 Asiedu Hills
+East Amandahaven, CA 15299",emilybona@example.com,0567786282,Call,18975,Website,SMS
+GHA445302,Irene Oti-Asiedu,"88365 Kweku Circles
+North Constance, MI 62539",badukwaku@example.org,+233267807909,Email,7466,Website,Email
+GHA821354,Lorraine Osei,"3444 Maria Crossroad Apt. 769
+Joshhaven, HI 11021",quarteybruce@example.org,0263561387,Call,2073,App,Call
+GHA477806,Mama Lorraine Ntim,"4629 Marcus Terrace Apt. 059
+Ansomahbury, SD 60795",cyawson@example.com,0579508706,Call,20956,Website,SMS
+GHA950254,Amelia Yeboa,"264 Robert Knolls
+Jackshire, OK 72728",loti@example.net,0505385925,Call,12701,App,SMS
+GHA949889,Francis Dwamena,"3613 Alexander Cliff Apt. 960
+New Georgechester, NM 23795",akyaajonathan@example.com,+233508608678,SMS,63197,App,SMS
+GHA722489,Akwasi Antwi,"0927 Elliot Forest Apt. 978
+Ritaton, AK 32487",karikaricolins@example.com,+233565037103,SMS,38160,App,Email
+GHA933880,Nicholas Fofie-Bonsra,"689 Lucy Stream Apt. 997
+Ataside, OH 70040",helen52@example.com,0246277522,Email,95709,App,Email
+GHA371560,Akua Akɔmaa,"3202 Akoto Station Suite 647
+East Sandramouth, WY 32593",pagyapong@example.net,+233500037604,Email,43735,App,Email
+GHA191064,Kwasi Okyere,"3285 Constance River
+West Ben, MI 17855",fkusiwaa@example.org,+233242849636,SMS,38080,App,SMS
+GHA611880,Beatrice Koomson,"PSC 9752, Box 5007
+APO AP 45514",otiwakwasi@example.org,+233205481441,Email,82052,Website,Email
+GHA650918,Beatrice Ahortor,"0042 Appiah Coves
+Anokyeborough, SD 77428",agyemangolivia@example.net,+233285889165,Call,48148,Website,Email
+GHA790418,Miss Rosemary Yawson,"988 Kojo Grove Apt. 989
+Agyemangberg, AZ 85479",jakeakowua@example.com,0556065133,Call,13300,Website,SMS
+GHA507862,Joanna Asenso,"1867 Akwesi Harbors Apt. 838
+Thomastown, NM 50486",josephinegyamfi@example.com,+233277224907,Call,16612,Website,Call
+GHA898270,Joyce Bonsra,"299 Lucy Throughway Suite 241
+Kwartengburgh, VT 02337",ransomaa@example.com,0209438879,SMS,17184,App,Email
+GHA576300,Hannabel Okyere,"PSC 9474, Box 1712
+APO AA 82741",roselynantwi@example.com,0503664031,SMS,31796,App,Call
+GHA742332,Josh Akowua,"USNV Adomako
+FPO AP 95433",afoakwajasmine@example.com,0562892548,Call,49763,App,Call
+GHA881796,Joanna Gyasi,"PSC 4337, Box 3967
+APO AE 79819",katyappia@example.org,+233204146703,Email,47389,Website,Email
+GHA267869,Elliott Tutu,"617 Sarah Grove
+East Maureenborough, MH 85747",takyeampong@example.com,+233573610420,Email,54495,App,SMS
+GHA902592,Jessica Boadu-Akyerεko,"21062 Adutwumwaa Keys
+East Christina, AK 67355",nkansahyaw@example.org,0279433255,SMS,38307,Website,Email
+GHA550496,Miss Olivia Boateng,"USCGC Amoako
+FPO AE 64532",roselynadomah@example.org,+233248194747,Email,67878,App,Call
+GHA556369,Hannabel Koomson,"10511 Yeboah Centers
+East Annette, ME 19589",qtiwaa@example.net,+233568847389,Call,52265,App,SMS
+GHA979923,Baaba Boadu,"17249 Antwi Camp
+North Kwamemouth, RI 41847",agyemangarthur@example.org,+233266016784,Call,56474,App,Call
+GHA337965,Yvonne Boateng,"431 Ofosu Ferry Apt. 728
+Ritachester, CT 94896",susanbaawia@example.com,0207464304,Call,94558,Website,Email
+GHA218662,Victoria Akyaa,"8755 Lucy Parks
+Nkansaton, MI 88892",ykwarteng@example.net,+233571259428,Email,12392,Website,Call
+GHA321949,Dr. Ann Takyi,"67056 Joe Brooks Suite 217
+Port Abeiku, KS 68582",vidaadu@example.net,+233282426820,Call,21426,Website,Call
+GHA549478,Vida Opuku,"08215 Kevin Tunnel
+Port Georginatown, NH 22026",vanessagyamfi@example.net,+233562966805,SMS,20715,Website,SMS
+GHA805759,Georgina Asiedu,"0749 Ampofo Estates Suite 941
+Acheampongland, FM 28011",mensahjudith@example.net,+233262835590,Call,48150,App,Call
+GHA749018,Denise Prempeh,"068 Nyame Vista
+West Josiah, OK 80587",ootuo@example.net,0576814909,SMS,49243,App,SMS
+GHA407964,Julie Tweneboa,"34895 Olivia Brook
+North Abeiku, UT 45457",akyeampomaaafia@example.net,+233506505075,SMS,20443,Website,Email
+GHA913356,Max Otiwa,"3244 Afua Village Apt. 308
+Jeffreyburgh, AR 60655",peter57@example.net,+233263940941,Email,85967,Website,SMS
+GHA822692,Ronald Nyaako,"2438 Fosua Crossroad Apt. 376
+Amponsahmouth, AS 23861",oliviaamoako@example.net,+233289576874,Email,30467,App,SMS
+GHA950924,Jennifer Adomah,"USNS Ntim
+FPO AP 56944",vakyeamfuo@example.org,0508387569,Call,97856,App,SMS
+GHA90472,Akua Amponsa,"684 Yawson Stream Suite 419
+North Robert, MN 72806",dampoma@example.net,0264357870,Call,59028,Website,Email
+GHA317999,Mandy Akyerεko,"40362 Danny Heights
+Lindaside, NC 56636",zampoma@example.net,0245855762,Email,40193,App,SMS
+GHA288379,Kwamena Akyerεko-Agyemang,"72145 Appiah Village Apt. 555
+Boadichester, UT 96933",tinakyerewaa@example.com,0501910195,Call,99845,App,SMS
+GHA918363,Maame Helen Andorful,"590 Tweneboa Key Apt. 289
+Omaniberg, CA 93571",asiamasandra@example.com,0562342066,Call,27477,App,SMS
+GHA521614,Dr. Dora Akoaa,"78115 Carl Key Apt. 782
+Lake Harrybury, DC 55495",kwasi75@example.com,0563092475,Email,95199,Website,Call
+GHA61796,Kyle Boahen,"488 Antwi Mount Suite 272
+Mensaberg, IL 45663",aduseiphilip@example.com,+233247111852,Email,43235,App,Call
+GHA698035,Ms. Mandy Boadi,"0136 Jason Mountains
+Lake Francescafort, MI 99056",knti@example.net,+233563349765,Email,71920,App,Email
+GHA66347,Owura Arthur Antwi,"3862 Albert Camp Apt. 502
+Lake Terencefurt, OH 19274",lorraineagyapong@example.com,0565974792,Call,52440,App,Call
+GHA594195,Donald Bonsra,"104 Serwaa Ramp
+Adriantown, CA 23976",boatenyvonne@example.com,+233505995278,Email,49841,App,Call
+GHA390822,Kwasi Baawia-Akowua,"154 Andrew Parkway
+Amamouth, WV 61045",anokyeanthony@example.org,0549170565,SMS,6753,Website,Call
+GHA354131,Peter Darko,"222 Akoto Ridge
+Kennethland, LA 89744",andrewtweneboa@example.net,+233276252820,SMS,90751,App,Call
+GHA503966,Patrick Yeboah,"7414 Gyamfiaa Springs Apt. 995
+Lake Kwadwochester, WY 38376",kusikujoe@example.org,0265985987,SMS,56204,Website,SMS
+GHA455475,Leslie Kyei,"338 Danny Vista
+Lake Malcolmton, MO 39463",animajoyce@example.org,0249480956,SMS,67231,Website,Call
+GHA557160,Kwaku Akyena,"USNV Fofie
+FPO AA 32226",akua44@example.net,0558405031,SMS,93831,App,Email
+GHA314697,Eric Donkor,"11163 Amoanimaa Groves
+South Marianburgh, MP 70598",kateowusuwaa@example.com,+233505369841,SMS,95766,Website,Call
+GHA937929,Daniel Ata,"563 Nyantakyi Union Suite 277
+New Edwardview, AZ 62024",margaretakyaa@example.org,0553704050,Call,27267,Website,SMS
+GHA373468,Miss Katy Afrakomaa,"7964 Stephen Mountains
+Lake Robert, HI 56636",vdaako@example.com,0551384821,Call,55547,Website,SMS
+GHA593665,Alex Twumasi,"134 Kwaakye Common Suite 540
+East Josephineshire, SC 36774",vadusei@example.com,0541997254,Email,61790,App,Call
+GHA620189,Steven Asamoa,"10714 Ofori Mountains
+Port Terence, OH 44958",sarahahortor@example.com,0275391618,Call,44027,App,Call
+GHA140337,Dorcas Safoaa,"43969 Boateng Cliffs
+West Nicola, TN 52732",richard38@example.com,0208545151,Email,15121,App,Call
+GHA716939,Jacob Otiwa,"Unit 5585 Box 4181
+DPO AA 00734",gagyemang@example.com,0579558230,SMS,73202,Website,Call
+GHA585093,Dorothy Safoaa,"21253 Abrafi Ridge
+East Ronald, TN 77332",ofosurichard@example.com,+233283835857,Email,39418,App,Call
+GHA104357,Malcolm Tawia,"180 Akua Groves Suite 540
+New Joyce, AK 18830",ankramaureen@example.com,0261611556,SMS,12986,App,Call
+GHA713335,Graham Danso,"620 Afrakomaa Mill
+Antwiport, ID 40986",okyereafia@example.net,+233550298234,SMS,62633,Website,Email
+GHA330194,Regina Boakye,"84127 Peter Glens
+Lesliemouth, OR 55491",rsafo@example.org,+233577306327,Email,1856,Website,Call
+GHA319712,Lorraine Nkansa,"PSC 5254, Box 9979
+APO AP 35703",basare@example.net,0260080700,Call,51345,Website,SMS
+GHA829232,Kojo Sarpong,"PSC 8799, Box 7560
+APO AE 40189",oboatemaa@example.net,0203321741,Email,1538,App,SMS
+GHA879847,Stanley Agyemang,"792 Baafi Mountains
+Emilyton, FL 14383",yvonnenyaako@example.net,+233204108853,SMS,54511,Website,Email
+GHA143124,Miss Joanna Amoa,"002 Obeng Fields
+Port Antony, MH 57438",xfosu@example.org,+233264521224,SMS,63168,App,Email
+GHA462521,Salomey Antwi,"468 Amoako Ford Suite 413
+New Vida, NY 68111",gyamfiaajoyce@example.com,0286706369,Call,6226,Website,SMS
+GHA920260,Mathew Mensa,"469 Opoku Rapid
+Twumasiton, DC 61376",gemmaakyena@example.com,0274287187,Call,39701,App,Call
+GHA710620,Kenneth Ntiamoa,"1072 Danielle Viaduct
+East Akumaabury, KY 10989",maureen59@example.com,0567732317,Call,79291,App,SMS
+GHA133692,Hannabel Yawson,"9007 Tony Rue Suite 887
+West Duncan, MS 91502",agyeivictor@example.net,0273242660,Call,45831,Website,Email
+GHA647368,Linda Gyasiwaa,"USNV Ntiamoa
+FPO AE 93442",jackfosua@example.org,+233247027638,Call,87089,App,Call
+GHA157531,Stanley Antwi,"44433 Akyaa Highway Apt. 809
+East Simon, WV 01186",kwamena08@example.com,+233283098884,Email,78811,Website,Call
+GHA281880,Kujoe Akyeamfuɔ,"55740 Howard Manors Suite 335
+Markbury, IA 67406",dannyokyere@example.com,+233579966890,Email,35681,Website,SMS
+GHA270333,Dr. Jonathan Quartey,"9442 Okyere Ways Suite 592
+East Sandra, CA 38150",joshoti@example.net,+233248545084,Email,84661,App,SMS
+GHA677132,Sista Lorraine Twumasi,"59810 Appiah Prairie Suite 940
+COmfortborough, IL 62330",btweneboa@example.org,+233268557094,SMS,22479,Website,Email
+GHA336244,Dora Badu-Opuku,"56485 Dwamena Plaza Apt. 723
+West Margaretside, WV 40720",elizabethwiafe@example.net,+233545266330,Email,89989,Website,Call
+GHA92670,Dr. Kenneth Amponsah,"9862 Linda Plain Apt. 642
+Akwasibury, LA 04057",ireneantwi@example.net,+233500725043,Call,94825,Website,SMS
+GHA130915,Lisa Dufie,"409 Daako Streets Apt. 241
+Lake Gordon, GU 96510",julia52@example.net,0206874830,SMS,41315,Website,Call
+GHA211048,Isaac Nyaako,"5321 Priscilla Ferry Apt. 182
+Davidchester, NM 07871",beatrice32@example.org,0205092507,Email,17308,App,Email
+GHA354238,Awura Joyce Amoanimaa,"8784 Adusei Isle Apt. 581
+Aduseibury, RI 85045",margaret16@example.net,+233543198397,SMS,11408,Website,Email
+GHA528093,Awura Jessica Mensa,"56534 Nimakoah Plaza
+Kwekuville, MD 41007",jotiwa@example.net,+233244590217,Email,22288,App,SMS
+GHA153248,Thomas Akyeampong,"330 Marcus Rest
+West Shaunchester, AL 73465",elliot18@example.com,0277225447,Call,48688,Website,SMS
+GHA763185,Akumaa Okyere,"36201 Yvonne Route Apt. 921
+South Rebecca, ND 26083",xahortor@example.net,+233200077025,SMS,61923,App,Email
+GHA931653,Caroline Oppong,"9906 Kyle Bypass
+Dansohaven, MI 85341",paulakumi@example.org,0567735544,SMS,71601,App,SMS
+GHA271978,Osofo Kwadwo Akyeamfuɔ,"9912 Nana Ama Mount Apt. 053
+New Kennethstad, NM 18476",daakoaadominic@example.net,0571369292,SMS,24215,Website,Call
+GHA699552,Osofo Kwadwo Opoku,"974 Kevin Vista
+North Stanley, MT 30954",henryasiedu@example.com,0243959503,Call,52064,Website,Email
+GHA805314,Agya Arthur Adomah,"PSC 6657, Box 7475
+APO AP 48151",donald22@example.org,+233549888800,SMS,11613,App,Email
+GHA306394,Dennis Akyena,"Unit 5353 Box 8029
+DPO AP 45486",opokumary@example.org,0573239359,Email,96899,App,Email
+GHA730906,Victoria Baafi,"24346 Kwamena Skyway
+Veronicaport, WI 62119",james26@example.org,+233202447742,SMS,34390,App,Call
+GHA117996,Agya Donald Opoku,"2859 Rachel Brook
+Port Derrick, OH 28262",isaac11@example.com,0565460070,Call,62615,Website,Email
+GHA977055,Mama Dorcas Quartey,"Unit 0245 Box 1090
+DPO AP 64578",patrick50@example.com,0287897442,SMS,14955,Website,SMS
+GHA503531,Baaba Mensa,"88641 David Row
+Port Julie, VI 78451",jamestwumasi@example.org,+233287366320,SMS,96329,App,SMS
+GHA469416,Dr. Jeremy Owusu,"2268 Harry Village Apt. 731
+North Nimakoah, NH 09141",agyaresimon@example.com,0247805985,SMS,95006,App,Call
+GHA880364,Tom Safo,"846 Gifty Summit
+Prempehview, NV 53590",duahbeatrice@example.net,0564760923,Call,44854,Website,SMS
+GHA321914,Harry Boadu,"4230 Mary Walk
+New Dorothytown, SD 49029",gserwaa@example.com,+233504632436,SMS,98796,Website,Call
+GHA228092,Mrs. Millicent Boakye,"068 Antwi Spur
+South Alice, AR 48158",ama03@example.com,0507453397,Email,36930,App,Call
+GHA952448,Charles Bonsu,"35071 Pomaa Station
+Lake Rosemary, GA 20696",dampoma@example.org,+233248731022,Call,50474,Website,Email
+GHA387782,Philip Ansa,"3635 Adwoa Spurs
+Port Donaldfort, NH 09196",otuostephanie@example.net,+233271345372,Email,70546,Website,Call
+GHA465572,Richard Badu,"645 Baafi Views
+Lake Charlottestad, IL 63262",yagyare@example.org,0573866008,SMS,92341,Website,Email
+GHA819092,Jessica Amoako,"9234 Amoako Flats
+Josiahchester, NM 71799",mnyantakyi@example.net,0267506152,Email,27644,Website,Call
+GHA446462,Kwasi Adu-Nyaako,"20015 Amoako Skyway
+North Andrew, ME 09105",maureen86@example.net,+233284120832,Call,89921,App,Email
+GHA773059,Mr. George Boakye,"Unit 5030 Box 1398
+DPO AE 75943",hadu@example.com,+233545186402,Email,69072,App,Email
+GHA812920,Teresa Kwarteng-Nyaako,"74030 Omani Manor Apt. 504
+Nyantakyistad, PR 16389",elizabeth24@example.com,+233273266747,Call,34087,App,Email
+GHA181771,Joojo Bonsra,"Unit 1689 Box 7721
+DPO AP 74330",salomeydonkor@example.org,0506456765,Email,79370,Website,Email
+GHA746298,Marilyn Andorful,"540 Millicent Plaza Apt. 123
+Colinstown, TX 58112",zyaamoa@example.net,+233507395012,Email,66670,Website,Call
+GHA482621,Mama Dorcas Kusi,"7664 Fosua Stream
+East Rachael, OR 45340",sarpongpaul@example.net,+233577271919,Email,96123,App,Call
+GHA975719,Mr. Timothy Okyere,"0003 Victor Rapids
+East Andrewfort, CT 91027",andrewadutwumwaa@example.net,+233208104892,Email,51826,App,Call
+GHA306783,Osofo Derrick Amo,"6240 Victoria View
+Lawrenciastad, MT 84545",bonsukwasi@example.com,+233276694150,SMS,79701,App,SMS
+GHA227958,Yaw Danso,"10259 Kyeiwaa Field Apt. 633
+Akyerεkoville, KS 02812",kwame47@example.org,0550260499,Email,6030,Website,Call
+GHA868754,Afia Adomah,"562 Alex Tunnel
+North Deborah, IL 06377",akowuajudith@example.net,+233284369461,Email,38862,Website,Email
+GHA6339,Margaret Agyei,"110 Nkansah Roads
+Lake Sandraport, IA 87977",afoakwateresa@example.org,+233569229241,Call,40160,Website,SMS
+GHA769753,Elliott Asamoa,"830 Boakye Green
+New Joyce, CT 68004",agyaregeorgina@example.com,+233271572235,SMS,704,Website,Call
+GHA866471,Dr. Mathew Tweneboa,"21933 Anokye Fords Apt. 442
+North Janet, AZ 85978",otivincent@example.net,+233288700624,SMS,75611,App,SMS
+GHA848094,Sarah Gyasi,"PSC 4307, Box 2778
+APO AE 44994",jonathanokyere@example.net,+233207215343,Email,61645,App,Call
+GHA740601,Dr. Lisa Okyere,"5843 Yaa Estates
+Asieduwaamouth, ND 80241",samanthaakowua@example.com,0566270733,Call,35032,App,Call
+GHA855187,Adrian Baah,"940 Akwesi Pines Apt. 012
+Ernestinastad, OR 72754",jake56@example.org,+233564545515,SMS,64597,App,Email
+GHA38798,Osofo Christian Akyena,"94414 Elizabeth Springs Suite 168
+Ntimland, VA 60147",yprempeh@example.org,0264167424,Call,45611,Website,SMS
+GHA532635,Katherine Kyerewaa,"89050 Julia Course Suite 077
+Akuafort, NM 07636",kwabena44@example.net,+233247614175,Email,83610,Website,SMS
+GHA171396,Kwesi Otiwa,"27157 Linda Isle
+Port Josephland, MS 80674",eliabethtweneboa@example.com,0509368379,Email,79618,Website,Call
+GHA898665,Mrs. Teresa Nyaakoaa,"521 Adu Stravenue Apt. 989
+North Peter, OK 47049",sarahosei@example.net,+233285111995,Call,52844,Website,SMS
+GHA584681,Agya Dominic Tawia,"85153 Darko Ford Suite 351
+Antwifurt, WV 70399",jillduah@example.net,0289761262,Email,7446,App,Call
+GHA25576,Frank Sarpong-Kusi,"PSC 0832, Box 5921
+APO AE 43176",victoria93@example.org,0244716874,SMS,11650,App,Call
+GHA201692,Eric Kumi,"1700 Akosua Glen Suite 444
+Asieduport, CT 24573",okyerejason@example.net,0566446692,Email,4827,App,Call
+GHA709596,Lucy Akɔmaa-Nsia,"521 Eliabeth Stream Suite 630
+Karenmouth, VT 97356",elliot48@example.com,0548247708,Email,41346,App,Call
+GHA601225,Sista Katy Akyeampong,"2606 Asantewaa Meadows
+Harrietbury, OH 70220",yaaanokye@example.com,+233281546198,SMS,24123,App,Call
+GHA666280,Kate Gyamfi,"5144 Yeboa Isle Apt. 555
+Judithhaven, CO 35694",ansomahekow@example.net,0553190357,Email,82145,Website,Call
+GHA328885,Mama Aba Agyapong,"3187 Agyapomaa Village Suite 099
+West Nicola, NJ 87514",otiolivia@example.org,+233543362861,Email,43087,App,SMS
+GHA774466,Osofo Jake Nti,"760 Russell Rapids
+North Colins, CA 52726",josh00@example.net,+233263578430,Email,49882,Website,Email
+GHA879670,Sista Nimakoah Akyerεko,"34116 Rosemary Vista
+Nsiabury, ME 95839",yaw20@example.net,+233266096335,Call,98491,Website,SMS
+GHA775672,Rosemary Kwarteng,"773 Dennis Cape
+North Priscilla, OH 49051",kwamena22@example.com,+233265172009,Email,88243,Website,Call
+GHA331209,Awura Patricia Dwamena,"7555 Dennis Mountain
+Safoaaton, LA 35690",duncanadomako@example.org,+233205200612,Call,31165,Website,Email
+GHA70213,Jake Nkansah-Amponsah,"91484 Beatrice Mission
+Alexview, SC 38406",saforebecca@example.com,+233576940550,Call,12317,App,Call
+GHA762232,Danielle Asieduwaa,"3476 Danso Terrace Apt. 384
+North Markside, MN 96078",aankra@example.org,0208819728,Email,11942,App,Email
+GHA299782,Samantha Ampofowaa,"174 Amo Inlet
+Boatemaahport, VI 83573",abaampofo@example.org,+233207739689,Call,39005,Website,Email
+GHA663440,Owura James Otuo,"3558 Susan Divide
+North Rachael, ID 15916",sharon94@example.com,0544242948,Call,63779,App,Call
+GHA665899,Patricia Nkansa-Tweneboa,"9218 Jack Rapid
+West Eliabethfort, ID 69116",nyaakoaashirley@example.com,0244735163,Call,17586,App,SMS
+GHA453570,Osofo Louis Mensah,"92677 Rebecca Ford Suite 261
+West Akos, PA 40084",nagyemang@example.org,0269569838,Email,49312,Website,Call
+GHA666201,Georgina Nyaakoaa,"971 Yawson Throughway
+Nsiatown, PA 65082",afiaboadi@example.com,0278001370,Call,49356,App,Call
+GHA899224,Lawrence Nyantakyi,"95360 Ampadu Avenue Apt. 503
+Baawialand, NH 03262",antony61@example.org,+233278892605,Email,83305,Website,Email
+GHA296746,Natalie Takyi,"71396 Howard Lodge Apt. 418
+New Samantha, FM 94776",ababaafi@example.com,0289846859,Call,36616,App,Email
+GHA567550,Nicola Boadi-Akoto,"524 Antwi Cape Suite 512
+Amoville, ND 73881",snsia@example.net,0551231203,Call,43130,App,SMS
+GHA554121,Owura Kwamena Yeboah,"117 Kyei Forges
+Port Lisashire, CT 49430",vdarko@example.com,+233207521766,Email,21851,App,Email
+GHA13624,Agya Sam Osei,"84938 Akwasi Shoal
+Timothyborough, TX 66531",nyirenkyi@example.com,+233540673491,SMS,42194,Website,Email
+GHA951014,Terence Ankra,"57316 Nti Mountain
+North Timothy, AS 61327",henryakyereko@example.net,+233553331206,Call,1169,Website,Email
+GHA632138,Alexander Gyamfi-Adutwum,"276 Sarah Mill
+West Angelashire, NM 69233",powusu@example.org,0273677096,Call,62124,App,SMS
+GHA912319,Agya Elliot Baawia,"99189 Adam Ville
+North Joelburgh, AS 34499",ynkansah@example.net,0272114786,Email,40820,App,Email
+GHA509802,Joseph Baafi-Baah,"4072 Asiama Ville Apt. 021
+Opukuborough, MT 37319",tfosu@example.com,0287079074,Call,21595,Website,Call
+GHA326411,Comfort Tawia,"028 Danielle Skyway
+Awuahfurt, AZ 27201",georgia82@example.net,+233262653014,Email,2922,Website,Call
+GHA690644,Dr. Phillip Baa,"USCGC Tweneboa
+FPO AE 12320",gakowua@example.org,0570727423,SMS,75596,Website,Email
+GHA675193,Roger Adomah,"007 Ben Falls Apt. 803
+Agyapongfurt, AZ 99124",shirley22@example.org,+233500984517,Email,58154,Website,Email
+GHA202625,Robert Kyei,"4784 Priscilla Wall Suite 457
+Otiwamouth, IN 37678",akomaabarbara@example.net,0260546028,Email,36389,Website,SMS
+GHA377199,Harry Nti,"12118 Veronica Wells Suite 662
+Lake Russell, CA 67851",michael18@example.com,0542438461,Email,79771,Website,Email
+GHA148216,Jonathan Asiama,"59834 Thomas Stream
+New Vidaborough, ND 70224",kwamenaadutwum@example.net,+233568912427,SMS,74418,App,SMS
+GHA911210,Kwasi Ansa-Darko,"086 Michelle Landing
+North Christina, KS 25329",vappiah@example.org,0556065713,Call,96735,App,SMS
+GHA465196,Angela Boatemaa,"2552 Dufie Fords
+East Margaretton, ID 55195",harryawuah@example.org,0241572094,Email,27606,Website,Call
+GHA217791,Edward Antwi,"75349 Ekow Pines
+Port Angelafurt, MA 90188",fiifi18@example.com,+233569636923,Call,25394,Website,Call
+GHA316765,Lydia Ntim,"66195 Rebecca Prairie Apt. 444
+Kwekuside, WY 39866",twumasimax@example.net,+233267076501,Call,15120,Website,SMS
+GHA447116,Dr. Sarah Antwi,"255 Okyere Hill Suite 001
+Lake Eunice, WY 92135",acheampongdenise@example.net,+233551023049,Call,93286,Website,Email
+GHA620844,Awura Barbara Ansomah,"909 Oliver Locks
+Vincenttown, WY 88539",duncanadwubi@example.net,+233507651871,Call,2865,App,Email
+GHA272945,Samuel Nti,"274 Kofi Gateway Suite 633
+Kwakufurt, VT 62085",akowuasharon@example.org,+233265023974,Email,43728,App,Email
+GHA140807,Abeiku Asiedu,"36447 Daakoaa Bridge Apt. 826
+Akowuaburgh, DC 51561",katyntiamoa@example.com,+233240606334,Call,5650,Website,SMS
+GHA705293,Dennis Agyapong,"Unit 1982 Box 4430
+DPO AP 37312",davidasamoah@example.org,+233560005191,Call,44019,Website,Email
+GHA796825,Joojo Prempeh,"64622 Edward Court Suite 030
+South Jenniferberg, NH 62009",nkansahjosh@example.com,0575667522,Call,2144,App,Call
+GHA805279,Nicholas Kyei,"0937 Isaac Branch Apt. 268
+Tawiachester, MD 51789",vdonkor@example.org,0543464453,Call,949,Website,Call

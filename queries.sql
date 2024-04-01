@@ -51,3 +51,6 @@ SELECT address, COUNT(transaction_activity) AS total_transactions
 FROM customers
 GROUP BY address
 ORDER BY total_transactions DESC;
+
+
+

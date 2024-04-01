@@ -3,6 +3,8 @@ from faker import Faker
 import psycopg2
 import pandas as pd
 
+print('Please a moment. Generating data ...')
+
 
 class DataPipeline:
     def __init__(self, dbname, user, password, host):
@@ -34,15 +36,16 @@ class DataPipeline:
             host=self.host
         )
 
-    def create_table(self, cursor):
+    def create_table(self, cursor, company_name):
         """
-        Creates 'customers' table in the database if not exists.
+        Creates a table for the specified company in the database if not exists.
 
         Parameters:
             cursor (psycopg2.extensions.cursor): Database cursor object.
+            company_name (str): Name of the company.
         """
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS customers (
+        cursor.execute(f'''
+            CREATE TABLE IF NOT EXISTS {company_name.lower().replace(' ', '_')} (
                 id SERIAL PRIMARY KEY,
                 customer_id VARCHAR(10),
                 name VARCHAR(100),
@@ -56,33 +59,35 @@ class DataPipeline:
             )
         ''')
 
-    def ingest_data(self, cursor, records):
+    def ingest_data(self, cursor, company_name, records):
         """
-        Ingests data into the 'customers' table.
+        Ingests data into the table for the specified company.
 
         Parameters:
             cursor (psycopg2.extensions.cursor): Database cursor object.
-            records (list): List of tuples containing customer records.
+            company_name (str): Name of the company.
+            records (list): List of tuples containing customer records for the company.
         """
         for record in records:
-            cursor.execute('''
-                INSERT INTO customers (customer_id, name, address, email, telephone, contact_preference, transaction_activity, customer_preference, communication_method)
+            cursor.execute(f'''
+                INSERT INTO {company_name.lower().replace(' ', '_')} (customer_id, name, address, email, telephone, contact_preference, transaction_activity, customer_preference, communication_method)
                 VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
             ''', record)
 
-    def run_pipeline(self, records):
+    def run_pipeline(self, company_data):
         """
-        Runs the data pipeline to create table and ingest data.
+        Runs the data pipeline to create tables and ingest data for all companies.
 
         Parameters:
-            records (list): List of tuples containing customer records.
+            company_data (dict): Dictionary containing company names as keys and their respective records as values.
         """
         conn = self.create_connection()
         cursor = conn.cursor()
 
         try:
-            self.create_table(cursor)
-            self.ingest_data(cursor, records)
+            for company_name, records in company_data.items():
+                self.create_table(cursor, company_name)
+                self.ingest_data(cursor, company_name, records)
             conn.commit()
             print("Data ingestion successful.")
         except Exception as e:
@@ -93,17 +98,22 @@ class DataPipeline:
             conn.close()
 
 
-def generate_records():
+def generate_company_records(company_name, num_records):
     """
-    Generates fake customer records using Faker library.
+    Generates fake customer records for a single company using Faker library.
+
+    Parameters:
+        company_name (str): Name of the company.
+        num_records (int): Number of records to generate.
 
     Returns:
         list: List of tuples containing customer records.
     """
     fake = Faker('tw_GH')
-    records = []
-    for _ in range(100000):
-        customer_id = f"NWI{fake.random_number(digits=6)}"
+    company_records = []
+    for _ in range(num_records):
+        customer_id = f"{company_name[:3].upper()}{
+            fake.random_number(digits=6)}"
         name = fake.name()
         address = fake.address()
         email = fake.email()
@@ -113,28 +123,53 @@ def generate_records():
         customer_preference = random.choice(['App', 'Website'])
         communication_method = random.choice(['SMS', 'Email', 'Call'])
 
-        records.append((customer_id, name, address, email, telephone, contact_preference,
-                       transaction_activity, customer_preference, communication_method))
+        company_records.append((customer_id, name, address, email, telephone, contact_preference,
+                                transaction_activity, customer_preference, communication_method))
 
-        # # incase you want to save the customer record to a csv or parquet, etc and return it. you uncomment this code to do that
-        # #convert records into a data frame
-        # df = pd.DataFrame(records, columns=['customer_id', 'name', 'address', 'email', 'telephone', 'contact_preference', 'transaction_activity', 'customer_preference', 'communication_method'])
-        # #save the data frame into a csv file in in the companies_data folder
-        # df.to_csv('customer_record.csv', index=False)
-
-    return records
+    return company_records
 
 
 if __name__ == "__main__":
-    # now, provide database credentials
-    dbname = "your database name"
-    user = "your username"
-    password = "your password"
+    # Provide database credentials
+    dbname = "etl"
+    user = "postgres"
+    password = "post123"
     host = "localhost"
 
-    # Generate records
-    records = generate_records()
+    # Specify company names and the number of records per company
+    company_names = [
+        "Nationwide Medical Insurance",
+        "Imperial Homes Limited",
+        "Microfin Rural Bank Limited",
+        "Wilmar Africa Ltd",
+        "Tropical Cable and Conductor Ltd",
+        "DHL Ghana Limited",
+        "Ghandour Cosmetics",
+        "Star Assurance Limited Company",
+        "Zonda Tec Ghana Limited",
+        "Bayport Savings And Loans Plc"
+    ]
+
+    num_records_per_company = 1000
+
+    # Generate data for all companies
+    company_data = {}
+    for company_name in company_names:
+        company_data[company_name] = generate_company_records(
+            company_name, num_records_per_company)
+        # set columns 
+        columns = ["Customer ID", "Name", "Address", "Email", "Telephone", "Contact Preference",
+            "Transaction Activity", "Customer Preference", "Communication Method"]
+        
+        # save data to a csv file in a specific folder for each company
+        df = pd.DataFrame(company_data[company_name], columns= columns)
+
+        # modify your directory path to save the csv files in a specific folder
+        df.to_csv(f'Group_10_Assignment_4_DataPipeline\companies_data\{
+                company_name}.csv', index=False)
 
     # Initialize pipeline and run
     pipeline = DataPipeline(dbname, user, password, host)
-    pipeline.run_pipeline(records)
+    pipeline.run_pipeline(company_data)
+
+print('Done!')
