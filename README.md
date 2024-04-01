@@ -8,9 +8,13 @@ GENERATING 100K USER DATA EACH  FOR CREATING DATA PIPELINE FOR TEN COMPANIES
   -  [Features](#Features)
   -  [Details](#Details)
   -  [Prerequisites](#Prerequisites)
-  -  [Installation](Installation)
+  -  [Installation](#Installation)
   -  [Usage](#Usage)
   -  [Code](#Code)
+  -  [Acknowledgements](#Acknowledgements)
+  -  [Lead Trainers](#LeadTrainers)
+  -  [Group Members](#GroupMembers)
+
 
 # Overview
 This project implements an ETL (Extract, Transform, Load) pipeline for ingesting synthetic data into a PostgreSQL database for  fictional 10 companies, based in Ghana. The pipeline generates simulated customer data using the Faker library, creates a relational database schema, and loads the generated data into the database. Additionally, it provides functionality to query the data and save the queries into a file.
@@ -74,11 +78,11 @@ password = ```"post123"```
 
 host = ```"localhost"```
 
-#Generate records
+# Generate records
 
 records = ```generate_records()```
 
-#Initialize pipeline and run
+# Initialize pipeline and run
 
 ```pipeline = DataPipeline(dbname, user, password, host)```
 
@@ -99,7 +103,7 @@ To know about trestle academy, visit:
 1. DEREK DEGBEDZUI
 2. THEOPHILUS AKUGRE
 
-## Group Members
+# GroupMembers
 
 - ISHMAEL  ABAYATEYE KABU
 - ABIGAIL ODONKOR
