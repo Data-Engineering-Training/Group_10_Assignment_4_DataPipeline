@@ -4,19 +4,25 @@
 GENERATING 100K USER DATA EACH  FOR CREATING DATA PIPELINE FOR TEN COMPANIES
 
 ## Table of Contents
-   [overview](##Overview)
+  -  [Overview](#overview)
+  -  [Features](#Features)
+  -  [Details](#Details)
+  -  [Prerequisites](#Prerequisites)
+  -  [Installation](Installation)
+  -  [Usage](#Usage)
+  -  [Code](#Code)
 
-## Overview
+# Overview
 This project implements an ETL (Extract, Transform, Load) pipeline for ingesting synthetic data into a PostgreSQL database for  fictional 10 companies, based in Ghana. The pipeline generates simulated customer data using the Faker library, creates a relational database schema, and loads the generated data into the database. Additionally, it provides functionality to query the data and save the queries into a file.
 
-## Features
+# Features
 
 - Generates synthetic customer data including demographics, transaction activity, customer preferences, and communication methods.
 - Ingests the generated data into a PostgreSQL database.
 - Provides Python scripts to execute various data processing tasks and SQL queries.
 - Dockerized for easy deployment and reproducibility.
 
-## Details:
+# Details:
 - Data Generation: Fake customer records are generated using the Faker library to simulate realistic data.
 
 - Database Interaction: The pipeline establishes a connection to a PostgreSQL database and creates a table (customers) to store the generated records.
@@ -25,7 +31,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 
 - Error Handling: The pipeline includes error handling mechanisms to ensure data integrity and reliability during ingestion.
 
-## Prerequisites
+# Prerequisites
 
 - [Python 3.0 and above](https://www.python.org)
 - [PostgreSQL](https://www.postgresql.org)
@@ -33,13 +39,13 @@ This project implements an ETL (Extract, Transform, Load) pipeline for ingesting
 - [Docker](https://www.docker.com)
 - [Faker](https://faker.readthedocs.io/en/master/)
 
-## Installation
+# Installation
 
 1. Clone the repository:
    
 ```git clone https://github.com/Data-Engineering-Training/Group_10_Assignment_4_DataPipeline.git```
 
-## Usage
+# Usage
 Modify the database credentials in the main.py file:
 
 dbname = ```"your_database_name"```
@@ -56,7 +62,8 @@ Set the num_records_per_company variable in main.py to specify the number of rec
 
 Run the main.py script:
 
-## Code Example: Run the pipeline:
+# Code 
+## Example: Run the pipeline:
 Database credentials
 
 dbname = ```"etl"```
@@ -77,7 +84,7 @@ records = ```generate_records()```
 
 ```pipeline.run_pipeline(records)```
 
-## Acknowledgements
+# Acknowledgements
 
 ## Trestle Academy Ghana
 Thanks to Trestle Academy for their effort in creating talents in the tech space
