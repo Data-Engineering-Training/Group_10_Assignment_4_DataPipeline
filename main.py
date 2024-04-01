@@ -1,9 +1,9 @@
 import random
 from faker import Faker
+import csv
 import psycopg2
-import pandas as pd
 
-print('Please a moment. Generating data ...')
+print('Generating data...\nPlease wait a moment...')
 
 
 class DataPipeline:
@@ -76,7 +76,7 @@ class DataPipeline:
 
     def run_pipeline(self, company_data):
         """
-        Runs the data pipeline to create tables and ingest data for all companies.
+        Runs the data pipeline to create tables, ingest data, and save to CSV files.
 
         Parameters:
             company_data (dict): Dictionary containing company names as keys and their respective records as values.
@@ -88,14 +88,35 @@ class DataPipeline:
             for company_name, records in company_data.items():
                 self.create_table(cursor, company_name)
                 self.ingest_data(cursor, company_name, records)
+                self.save_to_csv(company_name, records)
             conn.commit()
-            print("Data ingestion successful.")
+            print("Data ingestion and CSV export successful\nDone!.")
         except Exception as e:
             conn.rollback()
             print(f"Error during data ingestion: {str(e)}")
         finally:
             cursor.close()
             conn.close()
+
+    def save_to_csv(self, company_name, company_records):
+        """
+        Saves data for a company into a CSV file.
+
+        Parameters:
+            company_name (str): Name of the company.
+            company_records (list): List of tuples containing customer records for the company.
+        """
+        # you can change the folder path to your desired location
+        filename = f"Group_10_Assignment_4_DataPipeline/companies_data/{
+            company_name.lower().replace(' ', '_')}_data.csv"
+
+        with open(filename, mode='w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            writer.writerow(['customer_id', 'name', 'address', 'email', 'telephone', 'contact_preference',
+                            'transaction_activity', 'customer_preference', 'communication_method'])
+            writer.writerows(company_records)
+        print(f"\nGenerated Data for {company_name} saved to {
+              filename} for quick overview")
 
 
 def generate_company_records(company_name, num_records):
@@ -149,7 +170,6 @@ if __name__ == "__main__":
         "Zonda Tec Ghana Limited",
         "Bayport Savings And Loans Plc"
     ]
-
     num_records_per_company = 1000
 
     # Generate data for all companies
@@ -157,19 +177,7 @@ if __name__ == "__main__":
     for company_name in company_names:
         company_data[company_name] = generate_company_records(
             company_name, num_records_per_company)
-        # set columns 
-        columns = ["Customer ID", "Name", "Address", "Email", "Telephone", "Contact Preference",
-            "Transaction Activity", "Customer Preference", "Communication Method"]
-        
-        # save data to a csv file in a specific folder for each company
-        df = pd.DataFrame(company_data[company_name], columns= columns)
-
-        # modify your directory path to save the csv files in a specific folder
-        df.to_csv(f'Group_10_Assignment_4_DataPipeline\companies_data\{
-                company_name}.csv', index=False)
 
     # Initialize pipeline and run
     pipeline = DataPipeline(dbname, user, password, host)
     pipeline.run_pipeline(company_data)
-
-print('Done!')
