@@ -48,3 +48,15 @@ SELECT address, COUNT(transaction_activity) AS total_transactions
 FROM table_name
 GROUP BY address
 ORDER BY total_transactions DESC;
+
+9.
+select contact_preference , count(transaction_activity) as total_transactions
+from table_name
+group by contact_preference 
+order by total_transactions desc;
+
+10. --Customer Preference:
+SELECT customer_preference as prefered_for_transactions, COUNT(transaction_activity) AS total_transactions
+FROM public.nationwide_medical_insurance nmi
+GROUP BY customer_preference
+ORDER BY total_transactions DESC;
